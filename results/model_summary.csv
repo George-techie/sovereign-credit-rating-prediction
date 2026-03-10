@@ -1,0 +1,4 @@
+Model,Test Accuracy,Ordinal MAE
+Ordered Logistic Regression,0.6912,0.3088
+XGBoost,0.9020,0.0980
+LSTM (Attention),0.9387,0.0613

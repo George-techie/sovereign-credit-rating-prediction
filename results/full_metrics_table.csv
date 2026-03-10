@@ -1,0 +1,4 @@
+Model,Accuracy,MAE,F1 (Default),F1 (Junk),F1 (Inv.Grade),Macro F1,Weighted F1,AUC-OvR
+Ordered Logistic Regression,0.5858,0.4142,0.4923,0.4192,0.7879,0.5665,0.6013,
+XGBoost,0.8529,0.1471,0.6154,0.7826,1.0,0.7993,0.8652,0.9354
+LSTM (Attention),0.9387,0.0613,0.6575,0.9304,1.0,0.8626,0.931,0.9435

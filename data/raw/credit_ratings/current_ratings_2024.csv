@@ -1,0 +1,18 @@
+country,sp,moodys,fitch,class_sp,class_moodys,class_fitch,consensus_class,region
+South Africa,BB-,Ba2,BB-,1,1,1,1,Africa
+Kenya,B,B3,B,1,1,1,1,Africa
+Ghana,SD,Ca,RD,0,1,0,0,Africa
+Egypt,B,B3,B+,1,1,1,1,Africa
+Nigeria,B-,B3,B,1,1,1,1,Africa
+Ethiopia,CCC,Caa2,CCC,1,1,1,1,Africa
+Botswana,BBB+,A3,BBB+,2,2,2,2,Africa
+Morocco,BB+,Ba1,BB+,1,1,1,1,Africa
+Zambia,SD,Ca,RD,0,1,0,0,Africa
+United States,AA+,Aa1,AA+,2,2,2,2,Benchmark
+United Kingdom,AA,Aa3,AA-,2,2,2,2,Benchmark
+Japan,A+,A1,A,2,2,2,2,Benchmark
+Brazil,BB,Ba2,BB,1,1,1,1,Benchmark
+Germany,AAA,Aaa,AAA,2,2,2,2,Benchmark
+India,BBB-,Baa3,BBB-,2,2,2,2,Benchmark
+China,A+,A1,A+,2,2,2,2,Benchmark
+Mexico,BBB,Baa2,BBB-,2,2,2,2,Benchmark

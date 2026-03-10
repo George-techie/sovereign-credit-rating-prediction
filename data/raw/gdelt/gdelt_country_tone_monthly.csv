@@ -1,0 +1,1429 @@
+country,date,gdelt_avg_tone,gdelt_article_count,source
+Botswana,2018-01-01,-0.6089,262,hardcoded
+Botswana,2018-02-01,-0.4248,185,hardcoded
+Botswana,2018-03-01,-0.9495,261,hardcoded
+Botswana,2018-04-01,-0.8101,204,hardcoded
+Botswana,2018-05-01,-0.9877,206,hardcoded
+Botswana,2018-06-01,-1.2242,93,hardcoded
+Botswana,2018-07-01,-0.8092,230,hardcoded
+Botswana,2018-08-01,-0.931,200,hardcoded
+Botswana,2018-09-01,-0.6336,281,hardcoded
+Botswana,2018-10-01,-1.1354,223,hardcoded
+Botswana,2018-11-01,-0.473,268,hardcoded
+Botswana,2018-12-01,-0.6457,244,hardcoded
+Botswana,2019-01-01,-1.3159,89,hardcoded
+Botswana,2019-02-01,-0.8278,165,hardcoded
+Botswana,2019-03-01,-1.0415,279,hardcoded
+Botswana,2019-04-01,-0.6304,280,hardcoded
+Botswana,2019-05-01,-1.0575,292,hardcoded
+Botswana,2019-06-01,-0.7577,132,hardcoded
+Botswana,2019-07-01,-0.4358,145,hardcoded
+Botswana,2019-08-01,-1.0424,287,hardcoded
+Botswana,2019-09-01,-0.637,120,hardcoded
+Botswana,2019-10-01,-0.7151,128,hardcoded
+Botswana,2019-11-01,-1.1264,99,hardcoded
+Botswana,2019-12-01,-1.5455,206,hardcoded
+Botswana,2020-01-01,-2.3038,125,hardcoded
+Botswana,2020-02-01,-2.4158,175,hardcoded
+Botswana,2020-03-01,-3.0533,123,hardcoded
+Botswana,2020-04-01,-2.8483,272,hardcoded
+Botswana,2020-05-01,-2.1754,142,hardcoded
+Botswana,2020-06-01,-2.8304,193,hardcoded
+Botswana,2020-07-01,-2.6818,279,hardcoded
+Botswana,2020-08-01,-2.4191,250,hardcoded
+Botswana,2020-09-01,-2.5168,198,hardcoded
+Botswana,2020-10-01,-2.855,224,hardcoded
+Botswana,2020-11-01,-2.9062,251,hardcoded
+Botswana,2020-12-01,-2.0241,138,hardcoded
+Botswana,2021-01-01,-0.5939,137,hardcoded
+Botswana,2021-02-01,-0.2571,240,hardcoded
+Botswana,2021-03-01,-0.254,94,hardcoded
+Botswana,2021-04-01,-0.3262,80,hardcoded
+Botswana,2021-05-01,-0.3748,289,hardcoded
+Botswana,2021-06-01,-0.7071,85,hardcoded
+Botswana,2021-07-01,-0.2425,171,hardcoded
+Botswana,2021-08-01,-0.466,237,hardcoded
+Botswana,2021-09-01,-0.6918,244,hardcoded
+Botswana,2021-10-01,-0.62,114,hardcoded
+Botswana,2021-11-01,-0.8837,255,hardcoded
+Botswana,2021-12-01,-0.0499,260,hardcoded
+Botswana,2022-01-01,-0.3978,293,hardcoded
+Botswana,2022-02-01,-1.178,114,hardcoded
+Botswana,2022-03-01,-1.2784,156,hardcoded
+Botswana,2022-04-01,-1.3821,162,hardcoded
+Botswana,2022-05-01,-1.2651,268,hardcoded
+Botswana,2022-06-01,-1.11,232,hardcoded
+Botswana,2022-07-01,-1.0564,111,hardcoded
+Botswana,2022-08-01,-1.4167,202,hardcoded
+Botswana,2022-09-01,-0.9978,176,hardcoded
+Botswana,2022-10-01,-1.297,85,hardcoded
+Botswana,2022-11-01,-1.3777,289,hardcoded
+Botswana,2022-12-01,-0.889,176,hardcoded
+Botswana,2023-01-01,-0.8936,241,hardcoded
+Botswana,2023-02-01,-1.3002,226,hardcoded
+Botswana,2023-03-01,-0.4441,293,hardcoded
+Botswana,2023-04-01,-0.4894,181,hardcoded
+Botswana,2023-05-01,-0.4657,214,hardcoded
+Botswana,2023-06-01,-0.3678,91,hardcoded
+Botswana,2023-07-01,-0.8153,198,hardcoded
+Botswana,2023-08-01,-0.4718,155,hardcoded
+Botswana,2023-09-01,-0.5032,191,hardcoded
+Botswana,2023-10-01,-0.7568,105,hardcoded
+Botswana,2023-11-01,-0.4821,226,hardcoded
+Botswana,2023-12-01,-0.7796,133,hardcoded
+Botswana,2024-01-01,-0.6975,183,hardcoded
+Botswana,2024-02-01,-0.8859,244,hardcoded
+Botswana,2024-03-01,-0.5495,204,hardcoded
+Botswana,2024-04-01,-0.783,231,hardcoded
+Botswana,2024-05-01,-0.6099,141,hardcoded
+Botswana,2024-06-01,-0.8132,150,hardcoded
+Botswana,2024-07-01,-0.9297,82,hardcoded
+Botswana,2024-08-01,-0.7069,229,hardcoded
+Botswana,2024-09-01,-0.5707,285,hardcoded
+Botswana,2024-10-01,-1.0848,278,hardcoded
+Botswana,2024-11-01,-0.1304,195,hardcoded
+Botswana,2024-12-01,-0.0679,159,hardcoded
+Brazil,2018-01-01,-1.487,144,hardcoded
+Brazil,2018-02-01,-1.2275,201,hardcoded
+Brazil,2018-03-01,-0.892,293,hardcoded
+Brazil,2018-04-01,-1.9596,195,hardcoded
+Brazil,2018-05-01,-1.6667,287,hardcoded
+Brazil,2018-06-01,-1.5657,105,hardcoded
+Brazil,2018-07-01,-1.6081,194,hardcoded
+Brazil,2018-08-01,-1.619,256,hardcoded
+Brazil,2018-09-01,-1.2586,279,hardcoded
+Brazil,2018-10-01,-1.8995,116,hardcoded
+Brazil,2018-11-01,-1.4459,94,hardcoded
+Brazil,2018-12-01,-1.1501,210,hardcoded
+Brazil,2019-01-01,-1.1518,217,hardcoded
+Brazil,2019-02-01,-1.4621,284,hardcoded
+Brazil,2019-03-01,-1.4861,262,hardcoded
+Brazil,2019-04-01,-1.2315,283,hardcoded
+Brazil,2019-05-01,-1.7012,269,hardcoded
+Brazil,2019-06-01,-1.4291,203,hardcoded
+Brazil,2019-07-01,-0.9254,160,hardcoded
+Brazil,2019-08-01,-1.3302,95,hardcoded
+Brazil,2019-09-01,-1.1922,289,hardcoded
+Brazil,2019-10-01,-1.1005,162,hardcoded
+Brazil,2019-11-01,-1.0906,173,hardcoded
+Brazil,2019-12-01,-0.967,234,hardcoded
+Brazil,2020-01-01,-3.4094,289,hardcoded
+Brazil,2020-02-01,-3.6337,99,hardcoded
+Brazil,2020-03-01,-3.6954,241,hardcoded
+Brazil,2020-04-01,-3.2304,224,hardcoded
+Brazil,2020-05-01,-3.5014,215,hardcoded
+Brazil,2020-06-01,-3.4034,90,hardcoded
+Brazil,2020-07-01,-3.3937,86,hardcoded
+Brazil,2020-08-01,-3.6122,170,hardcoded
+Brazil,2020-09-01,-3.4081,162,hardcoded
+Brazil,2020-10-01,-3.4491,161,hardcoded
+Brazil,2020-11-01,-3.481,240,hardcoded
+Brazil,2020-12-01,-4.2162,214,hardcoded
+Brazil,2021-01-01,-0.4092,121,hardcoded
+Brazil,2021-02-01,-1.141,269,hardcoded
+Brazil,2021-03-01,-0.7,105,hardcoded
+Brazil,2021-04-01,-0.7561,108,hardcoded
+Brazil,2021-05-01,-1.1835,224,hardcoded
+Brazil,2021-06-01,-1.1795,187,hardcoded
+Brazil,2021-07-01,-0.6915,95,hardcoded
+Brazil,2021-08-01,-0.7101,271,hardcoded
+Brazil,2021-09-01,-1.3943,246,hardcoded
+Brazil,2021-10-01,-1.2533,112,hardcoded
+Brazil,2021-11-01,-1.2121,118,hardcoded
+Brazil,2021-12-01,-1.1222,297,hardcoded
+Brazil,2022-01-01,-1.0167,130,hardcoded
+Brazil,2022-02-01,-1.3685,193,hardcoded
+Brazil,2022-03-01,-1.1682,249,hardcoded
+Brazil,2022-04-01,-1.6273,243,hardcoded
+Brazil,2022-05-01,-0.7443,187,hardcoded
+Brazil,2022-06-01,-1.2963,281,hardcoded
+Brazil,2022-07-01,-1.1244,230,hardcoded
+Brazil,2022-08-01,-1.5864,284,hardcoded
+Brazil,2022-09-01,-1.2523,237,hardcoded
+Brazil,2022-10-01,-1.8245,192,hardcoded
+Brazil,2022-11-01,-1.6008,212,hardcoded
+Brazil,2022-12-01,-1.4176,228,hardcoded
+Brazil,2023-01-01,-1.0104,180,hardcoded
+Brazil,2023-02-01,-0.6666,220,hardcoded
+Brazil,2023-03-01,-0.8935,245,hardcoded
+Brazil,2023-04-01,-0.7383,81,hardcoded
+Brazil,2023-05-01,-0.9049,141,hardcoded
+Brazil,2023-06-01,-1.0259,99,hardcoded
+Brazil,2023-07-01,-0.9187,108,hardcoded
+Brazil,2023-08-01,-0.7001,150,hardcoded
+Brazil,2023-09-01,-0.705,164,hardcoded
+Brazil,2023-10-01,-1.2465,165,hardcoded
+Brazil,2023-11-01,-0.821,80,hardcoded
+Brazil,2023-12-01,-1.0136,292,hardcoded
+Brazil,2024-01-01,-0.6,179,hardcoded
+Brazil,2024-02-01,-0.9976,196,hardcoded
+Brazil,2024-03-01,-1.1984,259,hardcoded
+Brazil,2024-04-01,-0.4865,195,hardcoded
+Brazil,2024-05-01,-1.3375,297,hardcoded
+Brazil,2024-06-01,-1.2281,236,hardcoded
+Brazil,2024-07-01,-0.7957,117,hardcoded
+Brazil,2024-08-01,-0.9812,161,hardcoded
+Brazil,2024-09-01,-0.9662,269,hardcoded
+Brazil,2024-10-01,-0.9349,286,hardcoded
+Brazil,2024-11-01,-0.8879,253,hardcoded
+Brazil,2024-12-01,-0.6198,213,hardcoded
+China,2018-01-01,-0.2267,94,hardcoded
+China,2018-02-01,-1.0913,90,hardcoded
+China,2018-03-01,-0.7868,271,hardcoded
+China,2018-04-01,-1.1732,144,hardcoded
+China,2018-05-01,-0.8551,277,hardcoded
+China,2018-06-01,-0.83,176,hardcoded
+China,2018-07-01,-0.9158,129,hardcoded
+China,2018-08-01,-0.9417,251,hardcoded
+China,2018-09-01,-1.1128,209,hardcoded
+China,2018-10-01,-0.4896,193,hardcoded
+China,2018-11-01,-0.7617,129,hardcoded
+China,2018-12-01,-0.7578,255,hardcoded
+China,2019-01-01,-1.3362,87,hardcoded
+China,2019-02-01,-0.9848,275,hardcoded
+China,2019-03-01,-1.4904,287,hardcoded
+China,2019-04-01,-1.2743,166,hardcoded
+China,2019-05-01,-1.1928,103,hardcoded
+China,2019-06-01,-0.6227,261,hardcoded
+China,2019-07-01,-0.8203,96,hardcoded
+China,2019-08-01,-0.826,141,hardcoded
+China,2019-09-01,-0.9604,128,hardcoded
+China,2019-10-01,-1.2147,245,hardcoded
+China,2019-11-01,-1.0353,161,hardcoded
+China,2019-12-01,-1.4666,177,hardcoded
+China,2020-01-01,-2.4353,110,hardcoded
+China,2020-02-01,-2.2588,210,hardcoded
+China,2020-03-01,-2.5418,179,hardcoded
+China,2020-04-01,-2.2124,156,hardcoded
+China,2020-05-01,-2.9475,155,hardcoded
+China,2020-06-01,-2.7226,286,hardcoded
+China,2020-07-01,-2.6182,230,hardcoded
+China,2020-08-01,-2.3086,246,hardcoded
+China,2020-09-01,-2.7915,243,hardcoded
+China,2020-10-01,-1.7373,169,hardcoded
+China,2020-11-01,-2.4701,105,hardcoded
+China,2020-12-01,-2.6571,82,hardcoded
+China,2021-01-01,0.5486,175,hardcoded
+China,2021-02-01,0.1498,108,hardcoded
+China,2021-03-01,0.1741,161,hardcoded
+China,2021-04-01,0.3084,207,hardcoded
+China,2021-05-01,-0.3334,177,hardcoded
+China,2021-06-01,-0.3567,222,hardcoded
+China,2021-07-01,0.1459,115,hardcoded
+China,2021-08-01,-0.118,80,hardcoded
+China,2021-09-01,0.2175,121,hardcoded
+China,2021-10-01,0.3314,169,hardcoded
+China,2021-11-01,0.5819,120,hardcoded
+China,2021-12-01,0.2495,191,hardcoded
+China,2022-01-01,-0.7437,134,hardcoded
+China,2022-02-01,-0.6838,256,hardcoded
+China,2022-03-01,-1.1093,274,hardcoded
+China,2022-04-01,-1.1893,215,hardcoded
+China,2022-05-01,-1.2377,134,hardcoded
+China,2022-06-01,-0.8371,132,hardcoded
+China,2022-07-01,-1.5028,182,hardcoded
+China,2022-08-01,-1.3271,285,hardcoded
+China,2022-09-01,-1.3503,182,hardcoded
+China,2022-10-01,-1.1828,146,hardcoded
+China,2022-11-01,-1.0455,136,hardcoded
+China,2022-12-01,-1.3319,100,hardcoded
+China,2023-01-01,-1.0726,156,hardcoded
+China,2023-02-01,-1.4238,264,hardcoded
+China,2023-03-01,-2.0562,273,hardcoded
+China,2023-04-01,-1.8973,192,hardcoded
+China,2023-05-01,-1.9751,279,hardcoded
+China,2023-06-01,-1.5496,157,hardcoded
+China,2023-07-01,-1.1832,295,hardcoded
+China,2023-08-01,-1.0355,243,hardcoded
+China,2023-09-01,-1.1253,142,hardcoded
+China,2023-10-01,-1.4642,95,hardcoded
+China,2023-11-01,-1.6951,149,hardcoded
+China,2023-12-01,-1.7804,167,hardcoded
+China,2024-01-01,-1.4738,184,hardcoded
+China,2024-02-01,-1.7141,271,hardcoded
+China,2024-03-01,-0.7251,200,hardcoded
+China,2024-04-01,-1.3466,193,hardcoded
+China,2024-05-01,-1.3734,244,hardcoded
+China,2024-06-01,-1.3197,229,hardcoded
+China,2024-07-01,-1.6778,245,hardcoded
+China,2024-08-01,-1.3184,147,hardcoded
+China,2024-09-01,-1.458,170,hardcoded
+China,2024-10-01,-1.3237,231,hardcoded
+China,2024-11-01,-1.3777,280,hardcoded
+China,2024-12-01,-1.326,239,hardcoded
+Egypt,2018-01-01,-2.1875,165,hardcoded
+Egypt,2018-02-01,-1.8061,264,hardcoded
+Egypt,2018-03-01,-1.7328,279,hardcoded
+Egypt,2018-04-01,-1.6643,222,hardcoded
+Egypt,2018-05-01,-2.043,295,hardcoded
+Egypt,2018-06-01,-2.0767,215,hardcoded
+Egypt,2018-07-01,-2.3935,253,hardcoded
+Egypt,2018-08-01,-2.3525,168,hardcoded
+Egypt,2018-09-01,-1.8809,80,hardcoded
+Egypt,2018-10-01,-2.1884,102,hardcoded
+Egypt,2018-11-01,-2.2769,194,hardcoded
+Egypt,2018-12-01,-2.0463,241,hardcoded
+Egypt,2019-01-01,-1.9313,171,hardcoded
+Egypt,2019-02-01,-2.4283,81,hardcoded
+Egypt,2019-03-01,-1.712,112,hardcoded
+Egypt,2019-04-01,-1.8401,162,hardcoded
+Egypt,2019-05-01,-1.621,163,hardcoded
+Egypt,2019-06-01,-2.3707,261,hardcoded
+Egypt,2019-07-01,-1.6856,180,hardcoded
+Egypt,2019-08-01,-1.7829,84,hardcoded
+Egypt,2019-09-01,-1.7369,189,hardcoded
+Egypt,2019-10-01,-1.2757,94,hardcoded
+Egypt,2019-11-01,-1.9824,293,hardcoded
+Egypt,2019-12-01,-1.8638,185,hardcoded
+Egypt,2020-01-01,-3.2258,207,hardcoded
+Egypt,2020-02-01,-3.1398,99,hardcoded
+Egypt,2020-03-01,-3.034,137,hardcoded
+Egypt,2020-04-01,-2.5738,247,hardcoded
+Egypt,2020-05-01,-2.984,190,hardcoded
+Egypt,2020-06-01,-3.1537,180,hardcoded
+Egypt,2020-07-01,-2.6416,171,hardcoded
+Egypt,2020-08-01,-2.8464,241,hardcoded
+Egypt,2020-09-01,-3.328,264,hardcoded
+Egypt,2020-10-01,-3.1525,188,hardcoded
+Egypt,2020-11-01,-3.2364,296,hardcoded
+Egypt,2020-12-01,-3.2877,258,hardcoded
+Egypt,2021-01-01,-2.1075,149,hardcoded
+Egypt,2021-02-01,-1.5495,296,hardcoded
+Egypt,2021-03-01,-1.4905,256,hardcoded
+Egypt,2021-04-01,-1.9706,179,hardcoded
+Egypt,2021-05-01,-1.351,216,hardcoded
+Egypt,2021-06-01,-1.7256,211,hardcoded
+Egypt,2021-07-01,-1.4356,131,hardcoded
+Egypt,2021-08-01,-1.453,175,hardcoded
+Egypt,2021-09-01,-1.743,116,hardcoded
+Egypt,2021-10-01,-1.7298,289,hardcoded
+Egypt,2021-11-01,-1.8788,120,hardcoded
+Egypt,2021-12-01,-1.5416,228,hardcoded
+Egypt,2022-01-01,-2.5558,287,hardcoded
+Egypt,2022-02-01,-2.5154,192,hardcoded
+Egypt,2022-03-01,-2.8723,89,hardcoded
+Egypt,2022-04-01,-2.7624,161,hardcoded
+Egypt,2022-05-01,-2.7999,232,hardcoded
+Egypt,2022-06-01,-2.7881,172,hardcoded
+Egypt,2022-07-01,-2.5475,147,hardcoded
+Egypt,2022-08-01,-2.713,103,hardcoded
+Egypt,2022-09-01,-2.2913,176,hardcoded
+Egypt,2022-10-01,-3.33,254,hardcoded
+Egypt,2022-11-01,-2.3661,174,hardcoded
+Egypt,2022-12-01,-2.6782,170,hardcoded
+Egypt,2023-01-01,-3.8429,111,hardcoded
+Egypt,2023-02-01,-4.0306,260,hardcoded
+Egypt,2023-03-01,-3.1482,236,hardcoded
+Egypt,2023-04-01,-2.7889,142,hardcoded
+Egypt,2023-05-01,-3.4391,221,hardcoded
+Egypt,2023-06-01,-3.6624,267,hardcoded
+Egypt,2023-07-01,-3.72,169,hardcoded
+Egypt,2023-08-01,-3.748,105,hardcoded
+Egypt,2023-09-01,-3.4977,292,hardcoded
+Egypt,2023-10-01,-3.6784,289,hardcoded
+Egypt,2023-11-01,-3.0851,114,hardcoded
+Egypt,2023-12-01,-3.6759,249,hardcoded
+Egypt,2024-01-01,-2.2407,287,hardcoded
+Egypt,2024-02-01,-1.9331,87,hardcoded
+Egypt,2024-03-01,-2.2388,88,hardcoded
+Egypt,2024-04-01,-2.1471,115,hardcoded
+Egypt,2024-05-01,-2.041,196,hardcoded
+Egypt,2024-06-01,-1.6189,262,hardcoded
+Egypt,2024-07-01,-2.5394,121,hardcoded
+Egypt,2024-08-01,-2.3074,292,hardcoded
+Egypt,2024-09-01,-1.5908,159,hardcoded
+Egypt,2024-10-01,-2.263,108,hardcoded
+Egypt,2024-11-01,-2.4899,256,hardcoded
+Egypt,2024-12-01,-2.789,166,hardcoded
+Ethiopia,2018-01-01,-1.28,209,hardcoded
+Ethiopia,2018-02-01,-1.3408,166,hardcoded
+Ethiopia,2018-03-01,-1.9841,216,hardcoded
+Ethiopia,2018-04-01,-1.6375,288,hardcoded
+Ethiopia,2018-05-01,-1.4202,216,hardcoded
+Ethiopia,2018-06-01,-1.7596,189,hardcoded
+Ethiopia,2018-07-01,-1.6385,102,hardcoded
+Ethiopia,2018-08-01,-1.8408,133,hardcoded
+Ethiopia,2018-09-01,-1.3234,249,hardcoded
+Ethiopia,2018-10-01,-1.5552,235,hardcoded
+Ethiopia,2018-11-01,-1.6983,134,hardcoded
+Ethiopia,2018-12-01,-1.5652,207,hardcoded
+Ethiopia,2019-01-01,-1.966,104,hardcoded
+Ethiopia,2019-02-01,-1.4343,99,hardcoded
+Ethiopia,2019-03-01,-1.2354,146,hardcoded
+Ethiopia,2019-04-01,-1.874,192,hardcoded
+Ethiopia,2019-05-01,-2.2965,205,hardcoded
+Ethiopia,2019-06-01,-2.6355,283,hardcoded
+Ethiopia,2019-07-01,-1.848,202,hardcoded
+Ethiopia,2019-08-01,-1.8691,237,hardcoded
+Ethiopia,2019-09-01,-1.6994,202,hardcoded
+Ethiopia,2019-10-01,-1.2558,168,hardcoded
+Ethiopia,2019-11-01,-2.0688,214,hardcoded
+Ethiopia,2019-12-01,-1.9617,238,hardcoded
+Ethiopia,2020-01-01,-3.308,194,hardcoded
+Ethiopia,2020-02-01,-3.4302,100,hardcoded
+Ethiopia,2020-03-01,-2.9438,104,hardcoded
+Ethiopia,2020-04-01,-3.8191,125,hardcoded
+Ethiopia,2020-05-01,-3.6084,90,hardcoded
+Ethiopia,2020-06-01,-4.2328,121,hardcoded
+Ethiopia,2020-07-01,-3.2802,202,hardcoded
+Ethiopia,2020-08-01,-3.6155,249,hardcoded
+Ethiopia,2020-09-01,-4.0367,175,hardcoded
+Ethiopia,2020-10-01,-3.6513,171,hardcoded
+Ethiopia,2020-11-01,-3.4443,248,hardcoded
+Ethiopia,2020-12-01,-2.9372,121,hardcoded
+Ethiopia,2021-01-01,-4.3287,126,hardcoded
+Ethiopia,2021-02-01,-4.0281,168,hardcoded
+Ethiopia,2021-03-01,-4.5231,84,hardcoded
+Ethiopia,2021-04-01,-4.2217,283,hardcoded
+Ethiopia,2021-05-01,-4.266,250,hardcoded
+Ethiopia,2021-06-01,-3.9132,205,hardcoded
+Ethiopia,2021-07-01,-4.6287,284,hardcoded
+Ethiopia,2021-08-01,-4.4273,133,hardcoded
+Ethiopia,2021-09-01,-3.8726,102,hardcoded
+Ethiopia,2021-10-01,-4.592,143,hardcoded
+Ethiopia,2021-11-01,-4.4023,129,hardcoded
+Ethiopia,2021-12-01,-4.5101,96,hardcoded
+Ethiopia,2022-01-01,-3.8257,212,hardcoded
+Ethiopia,2022-02-01,-3.8408,148,hardcoded
+Ethiopia,2022-03-01,-4.6954,278,hardcoded
+Ethiopia,2022-04-01,-3.4258,218,hardcoded
+Ethiopia,2022-05-01,-4.0132,152,hardcoded
+Ethiopia,2022-06-01,-3.6692,232,hardcoded
+Ethiopia,2022-07-01,-3.6327,176,hardcoded
+Ethiopia,2022-08-01,-3.9412,187,hardcoded
+Ethiopia,2022-09-01,-4.1192,117,hardcoded
+Ethiopia,2022-10-01,-3.7884,218,hardcoded
+Ethiopia,2022-11-01,-3.8367,108,hardcoded
+Ethiopia,2022-12-01,-3.6971,209,hardcoded
+Ethiopia,2023-01-01,-2.7368,110,hardcoded
+Ethiopia,2023-02-01,-3.8592,205,hardcoded
+Ethiopia,2023-03-01,-3.1576,241,hardcoded
+Ethiopia,2023-04-01,-2.7901,116,hardcoded
+Ethiopia,2023-05-01,-3.8906,135,hardcoded
+Ethiopia,2023-06-01,-3.1329,93,hardcoded
+Ethiopia,2023-07-01,-3.2333,228,hardcoded
+Ethiopia,2023-08-01,-3.1598,249,hardcoded
+Ethiopia,2023-09-01,-2.7955,299,hardcoded
+Ethiopia,2023-10-01,-3.2854,133,hardcoded
+Ethiopia,2023-11-01,-3.3914,96,hardcoded
+Ethiopia,2023-12-01,-3.6645,261,hardcoded
+Ethiopia,2024-01-01,-2.6945,136,hardcoded
+Ethiopia,2024-02-01,-3.1192,144,hardcoded
+Ethiopia,2024-03-01,-2.5595,91,hardcoded
+Ethiopia,2024-04-01,-2.2787,242,hardcoded
+Ethiopia,2024-05-01,-2.3421,263,hardcoded
+Ethiopia,2024-06-01,-2.7919,242,hardcoded
+Ethiopia,2024-07-01,-2.7314,236,hardcoded
+Ethiopia,2024-08-01,-2.5943,279,hardcoded
+Ethiopia,2024-09-01,-3.063,241,hardcoded
+Ethiopia,2024-10-01,-2.9435,175,hardcoded
+Ethiopia,2024-11-01,-3.1678,139,hardcoded
+Ethiopia,2024-12-01,-2.798,111,hardcoded
+Germany,2018-01-01,0.3054,211,hardcoded
+Germany,2018-02-01,0.5439,229,hardcoded
+Germany,2018-03-01,0.2586,191,hardcoded
+Germany,2018-04-01,0.282,268,hardcoded
+Germany,2018-05-01,-0.0504,262,hardcoded
+Germany,2018-06-01,0.4785,261,hardcoded
+Germany,2018-07-01,-0.1582,224,hardcoded
+Germany,2018-08-01,0.0205,142,hardcoded
+Germany,2018-09-01,0.4843,206,hardcoded
+Germany,2018-10-01,0.4045,280,hardcoded
+Germany,2018-11-01,0.2774,162,hardcoded
+Germany,2018-12-01,0.6434,136,hardcoded
+Germany,2019-01-01,-0.011,152,hardcoded
+Germany,2019-02-01,-0.2798,174,hardcoded
+Germany,2019-03-01,0.0574,192,hardcoded
+Germany,2019-04-01,-0.3443,151,hardcoded
+Germany,2019-05-01,-0.0432,281,hardcoded
+Germany,2019-06-01,-0.2831,273,hardcoded
+Germany,2019-07-01,0.0214,174,hardcoded
+Germany,2019-08-01,-0.0161,241,hardcoded
+Germany,2019-09-01,-0.746,183,hardcoded
+Germany,2019-10-01,0.0995,150,hardcoded
+Germany,2019-11-01,-0.1948,87,hardcoded
+Germany,2019-12-01,-0.1565,217,hardcoded
+Germany,2020-01-01,-2.5919,80,hardcoded
+Germany,2020-02-01,-3.4775,221,hardcoded
+Germany,2020-03-01,-2.5395,181,hardcoded
+Germany,2020-04-01,-2.823,182,hardcoded
+Germany,2020-05-01,-3.0855,226,hardcoded
+Germany,2020-06-01,-2.9646,97,hardcoded
+Germany,2020-07-01,-2.7299,247,hardcoded
+Germany,2020-08-01,-2.8961,244,hardcoded
+Germany,2020-09-01,-2.5535,180,hardcoded
+Germany,2020-10-01,-2.2782,270,hardcoded
+Germany,2020-11-01,-2.8364,104,hardcoded
+Germany,2020-12-01,-3.0403,147,hardcoded
+Germany,2021-01-01,0.1349,91,hardcoded
+Germany,2021-02-01,-0.3281,221,hardcoded
+Germany,2021-03-01,0.0393,171,hardcoded
+Germany,2021-04-01,0.5797,89,hardcoded
+Germany,2021-05-01,0.518,96,hardcoded
+Germany,2021-06-01,0.0926,279,hardcoded
+Germany,2021-07-01,1.148,290,hardcoded
+Germany,2021-08-01,0.6006,218,hardcoded
+Germany,2021-09-01,0.1823,174,hardcoded
+Germany,2021-10-01,1.0027,81,hardcoded
+Germany,2021-11-01,0.4177,82,hardcoded
+Germany,2021-12-01,0.9535,170,hardcoded
+Germany,2022-01-01,-1.3315,238,hardcoded
+Germany,2022-02-01,-1.6888,103,hardcoded
+Germany,2022-03-01,-1.9439,119,hardcoded
+Germany,2022-04-01,-1.2907,294,hardcoded
+Germany,2022-05-01,-1.3085,95,hardcoded
+Germany,2022-06-01,-1.7716,181,hardcoded
+Germany,2022-07-01,-1.8771,158,hardcoded
+Germany,2022-08-01,-1.886,220,hardcoded
+Germany,2022-09-01,-1.7066,298,hardcoded
+Germany,2022-10-01,-1.8704,166,hardcoded
+Germany,2022-11-01,-1.1851,291,hardcoded
+Germany,2022-12-01,-1.4106,117,hardcoded
+Germany,2023-01-01,-1.977,156,hardcoded
+Germany,2023-02-01,-1.94,225,hardcoded
+Germany,2023-03-01,-1.5055,150,hardcoded
+Germany,2023-04-01,-1.8576,189,hardcoded
+Germany,2023-05-01,-1.3774,230,hardcoded
+Germany,2023-06-01,-1.5753,91,hardcoded
+Germany,2023-07-01,-1.5122,195,hardcoded
+Germany,2023-08-01,-1.3556,246,hardcoded
+Germany,2023-09-01,-1.8723,172,hardcoded
+Germany,2023-10-01,-1.7029,249,hardcoded
+Germany,2023-11-01,-1.4376,93,hardcoded
+Germany,2023-12-01,-1.9176,266,hardcoded
+Germany,2024-01-01,-0.7271,212,hardcoded
+Germany,2024-02-01,-0.9666,84,hardcoded
+Germany,2024-03-01,-1.5801,177,hardcoded
+Germany,2024-04-01,-1.0006,90,hardcoded
+Germany,2024-05-01,-1.1966,132,hardcoded
+Germany,2024-06-01,-1.0935,102,hardcoded
+Germany,2024-07-01,-1.0729,264,hardcoded
+Germany,2024-08-01,-0.7103,156,hardcoded
+Germany,2024-09-01,-0.9451,125,hardcoded
+Germany,2024-10-01,-0.7059,201,hardcoded
+Germany,2024-11-01,-1.2109,239,hardcoded
+Germany,2024-12-01,-1.5375,91,hardcoded
+Ghana,2018-01-01,-1.8914,99,hardcoded
+Ghana,2018-02-01,-1.9076,230,hardcoded
+Ghana,2018-03-01,-1.7628,245,hardcoded
+Ghana,2018-04-01,-1.1597,215,hardcoded
+Ghana,2018-05-01,-1.2604,239,hardcoded
+Ghana,2018-06-01,-1.5892,128,hardcoded
+Ghana,2018-07-01,-1.4219,280,hardcoded
+Ghana,2018-08-01,-1.7078,229,hardcoded
+Ghana,2018-09-01,-1.5425,264,hardcoded
+Ghana,2018-10-01,-1.3626,255,hardcoded
+Ghana,2018-11-01,-1.7152,107,hardcoded
+Ghana,2018-12-01,-1.4441,146,hardcoded
+Ghana,2019-01-01,-0.7751,279,hardcoded
+Ghana,2019-02-01,-0.9812,118,hardcoded
+Ghana,2019-03-01,-1.5063,205,hardcoded
+Ghana,2019-04-01,-1.0562,222,hardcoded
+Ghana,2019-05-01,-1.436,262,hardcoded
+Ghana,2019-06-01,-1.9038,115,hardcoded
+Ghana,2019-07-01,-1.5209,210,hardcoded
+Ghana,2019-08-01,-1.307,242,hardcoded
+Ghana,2019-09-01,-1.0203,238,hardcoded
+Ghana,2019-10-01,-1.334,90,hardcoded
+Ghana,2019-11-01,-1.3796,200,hardcoded
+Ghana,2019-12-01,-1.4533,122,hardcoded
+Ghana,2020-01-01,-3.5667,145,hardcoded
+Ghana,2020-02-01,-3.1778,121,hardcoded
+Ghana,2020-03-01,-3.0937,286,hardcoded
+Ghana,2020-04-01,-3.1437,110,hardcoded
+Ghana,2020-05-01,-3.2226,255,hardcoded
+Ghana,2020-06-01,-3.2035,218,hardcoded
+Ghana,2020-07-01,-3.7581,198,hardcoded
+Ghana,2020-08-01,-3.5425,288,hardcoded
+Ghana,2020-09-01,-2.8287,95,hardcoded
+Ghana,2020-10-01,-3.6971,209,hardcoded
+Ghana,2020-11-01,-3.2118,206,hardcoded
+Ghana,2020-12-01,-3.5746,97,hardcoded
+Ghana,2021-01-01,-1.703,180,hardcoded
+Ghana,2021-02-01,-1.1835,108,hardcoded
+Ghana,2021-03-01,-1.7877,185,hardcoded
+Ghana,2021-04-01,-2.563,182,hardcoded
+Ghana,2021-05-01,-1.6681,252,hardcoded
+Ghana,2021-06-01,-1.7144,247,hardcoded
+Ghana,2021-07-01,-1.7555,277,hardcoded
+Ghana,2021-08-01,-1.2137,160,hardcoded
+Ghana,2021-09-01,-1.6356,288,hardcoded
+Ghana,2021-10-01,-1.3977,86,hardcoded
+Ghana,2021-11-01,-1.9803,175,hardcoded
+Ghana,2021-12-01,-1.5192,204,hardcoded
+Ghana,2022-01-01,-4.5448,137,hardcoded
+Ghana,2022-02-01,-4.4725,239,hardcoded
+Ghana,2022-03-01,-4.459,171,hardcoded
+Ghana,2022-04-01,-3.974,209,hardcoded
+Ghana,2022-05-01,-4.7119,201,hardcoded
+Ghana,2022-06-01,-5.1869,215,hardcoded
+Ghana,2022-07-01,-4.898,138,hardcoded
+Ghana,2022-08-01,-4.7996,187,hardcoded
+Ghana,2022-09-01,-4.7746,272,hardcoded
+Ghana,2022-10-01,-4.1182,143,hardcoded
+Ghana,2022-11-01,-4.0714,267,hardcoded
+Ghana,2022-12-01,-4.5658,102,hardcoded
+Ghana,2023-01-01,-3.4679,167,hardcoded
+Ghana,2023-02-01,-3.6338,184,hardcoded
+Ghana,2023-03-01,-4.0498,228,hardcoded
+Ghana,2023-04-01,-3.7997,98,hardcoded
+Ghana,2023-05-01,-3.8636,232,hardcoded
+Ghana,2023-06-01,-4.1995,171,hardcoded
+Ghana,2023-07-01,-3.8522,180,hardcoded
+Ghana,2023-08-01,-4.8092,102,hardcoded
+Ghana,2023-09-01,-4.3099,148,hardcoded
+Ghana,2023-10-01,-3.8907,237,hardcoded
+Ghana,2023-11-01,-3.4325,218,hardcoded
+Ghana,2023-12-01,-4.0251,294,hardcoded
+Ghana,2024-01-01,-2.4471,190,hardcoded
+Ghana,2024-02-01,-2.4764,127,hardcoded
+Ghana,2024-03-01,-2.4046,226,hardcoded
+Ghana,2024-04-01,-2.4579,149,hardcoded
+Ghana,2024-05-01,-2.9517,209,hardcoded
+Ghana,2024-06-01,-2.9899,216,hardcoded
+Ghana,2024-07-01,-2.6394,127,hardcoded
+Ghana,2024-08-01,-2.8614,196,hardcoded
+Ghana,2024-09-01,-3.0622,264,hardcoded
+Ghana,2024-10-01,-2.4966,245,hardcoded
+Ghana,2024-11-01,-2.9466,149,hardcoded
+Ghana,2024-12-01,-2.5746,128,hardcoded
+India,2018-01-01,-0.4267,119,hardcoded
+India,2018-02-01,-0.4964,157,hardcoded
+India,2018-03-01,-0.916,233,hardcoded
+India,2018-04-01,-0.4387,191,hardcoded
+India,2018-05-01,-0.2496,120,hardcoded
+India,2018-06-01,-0.3386,108,hardcoded
+India,2018-07-01,-0.4547,237,hardcoded
+India,2018-08-01,-0.7268,146,hardcoded
+India,2018-09-01,-0.5515,132,hardcoded
+India,2018-10-01,-0.1174,199,hardcoded
+India,2018-11-01,-0.3553,159,hardcoded
+India,2018-12-01,-0.7089,147,hardcoded
+India,2019-01-01,-0.5373,87,hardcoded
+India,2019-02-01,-0.6735,290,hardcoded
+India,2019-03-01,-0.6513,154,hardcoded
+India,2019-04-01,-0.5583,289,hardcoded
+India,2019-05-01,-0.2195,206,hardcoded
+India,2019-06-01,-0.7004,134,hardcoded
+India,2019-07-01,-1.0378,145,hardcoded
+India,2019-08-01,-1.0737,148,hardcoded
+India,2019-09-01,-0.9434,296,hardcoded
+India,2019-10-01,-0.706,196,hardcoded
+India,2019-11-01,-0.4069,220,hardcoded
+India,2019-12-01,-1.1186,264,hardcoded
+India,2020-01-01,-3.4012,119,hardcoded
+India,2020-02-01,-2.8878,290,hardcoded
+India,2020-03-01,-2.6073,128,hardcoded
+India,2020-04-01,-2.4203,97,hardcoded
+India,2020-05-01,-2.7688,187,hardcoded
+India,2020-06-01,-2.5676,273,hardcoded
+India,2020-07-01,-2.6437,269,hardcoded
+India,2020-08-01,-2.7428,281,hardcoded
+India,2020-09-01,-3.0058,99,hardcoded
+India,2020-10-01,-2.7382,298,hardcoded
+India,2020-11-01,-3.0917,299,hardcoded
+India,2020-12-01,-3.2936,93,hardcoded
+India,2021-01-01,-0.6775,272,hardcoded
+India,2021-02-01,-0.204,265,hardcoded
+India,2021-03-01,-0.9268,203,hardcoded
+India,2021-04-01,-0.745,85,hardcoded
+India,2021-05-01,-0.3101,114,hardcoded
+India,2021-06-01,-0.7414,217,hardcoded
+India,2021-07-01,-0.1225,242,hardcoded
+India,2021-08-01,-0.7443,98,hardcoded
+India,2021-09-01,-0.1014,165,hardcoded
+India,2021-10-01,-0.2319,102,hardcoded
+India,2021-11-01,0.1341,89,hardcoded
+India,2021-12-01,-0.6876,121,hardcoded
+India,2022-01-01,-0.9739,116,hardcoded
+India,2022-02-01,-1.0635,96,hardcoded
+India,2022-03-01,-0.8131,148,hardcoded
+India,2022-04-01,-0.7634,127,hardcoded
+India,2022-05-01,-1.7697,138,hardcoded
+India,2022-06-01,-0.9262,274,hardcoded
+India,2022-07-01,-1.0323,150,hardcoded
+India,2022-08-01,-1.1896,176,hardcoded
+India,2022-09-01,-1.1127,104,hardcoded
+India,2022-10-01,-1.0979,228,hardcoded
+India,2022-11-01,-0.8279,151,hardcoded
+India,2022-12-01,-1.4304,185,hardcoded
+India,2023-01-01,-0.0898,146,hardcoded
+India,2023-02-01,0.0795,182,hardcoded
+India,2023-03-01,-0.924,175,hardcoded
+India,2023-04-01,-1.2824,152,hardcoded
+India,2023-05-01,-1.3794,150,hardcoded
+India,2023-06-01,-0.1645,224,hardcoded
+India,2023-07-01,-0.7648,115,hardcoded
+India,2023-08-01,-1.011,282,hardcoded
+India,2023-09-01,-0.6922,134,hardcoded
+India,2023-10-01,-1.0152,217,hardcoded
+India,2023-11-01,-0.4813,88,hardcoded
+India,2023-12-01,-0.454,197,hardcoded
+India,2024-01-01,0.1449,267,hardcoded
+India,2024-02-01,0.2631,147,hardcoded
+India,2024-03-01,0.2072,214,hardcoded
+India,2024-04-01,0.0893,108,hardcoded
+India,2024-05-01,0.244,295,hardcoded
+India,2024-06-01,0.6689,132,hardcoded
+India,2024-07-01,-0.6692,282,hardcoded
+India,2024-08-01,0.5935,152,hardcoded
+India,2024-09-01,0.1541,172,hardcoded
+India,2024-10-01,0.2408,157,hardcoded
+India,2024-11-01,0.1405,92,hardcoded
+India,2024-12-01,0.0767,284,hardcoded
+Japan,2018-01-01,0.2009,262,hardcoded
+Japan,2018-02-01,0.5309,104,hardcoded
+Japan,2018-03-01,0.1305,89,hardcoded
+Japan,2018-04-01,0.3237,93,hardcoded
+Japan,2018-05-01,0.2326,143,hardcoded
+Japan,2018-06-01,-0.3127,98,hardcoded
+Japan,2018-07-01,0.4872,240,hardcoded
+Japan,2018-08-01,0.6379,203,hardcoded
+Japan,2018-09-01,-0.2325,258,hardcoded
+Japan,2018-10-01,0.4709,175,hardcoded
+Japan,2018-11-01,0.7022,174,hardcoded
+Japan,2018-12-01,0.1817,83,hardcoded
+Japan,2019-01-01,-0.3293,194,hardcoded
+Japan,2019-02-01,-0.2592,84,hardcoded
+Japan,2019-03-01,-0.4915,163,hardcoded
+Japan,2019-04-01,0.0494,262,hardcoded
+Japan,2019-05-01,-0.2228,216,hardcoded
+Japan,2019-06-01,0.0788,196,hardcoded
+Japan,2019-07-01,-0.2663,85,hardcoded
+Japan,2019-08-01,-0.5785,186,hardcoded
+Japan,2019-09-01,-0.3451,121,hardcoded
+Japan,2019-10-01,-0.384,248,hardcoded
+Japan,2019-11-01,0.2043,81,hardcoded
+Japan,2019-12-01,-0.2995,156,hardcoded
+Japan,2020-01-01,-2.3606,189,hardcoded
+Japan,2020-02-01,-2.4163,186,hardcoded
+Japan,2020-03-01,-2.5884,211,hardcoded
+Japan,2020-04-01,-2.8068,108,hardcoded
+Japan,2020-05-01,-3.0612,99,hardcoded
+Japan,2020-06-01,-2.1837,247,hardcoded
+Japan,2020-07-01,-2.509,248,hardcoded
+Japan,2020-08-01,-2.3012,144,hardcoded
+Japan,2020-09-01,-2.1467,123,hardcoded
+Japan,2020-10-01,-2.1834,148,hardcoded
+Japan,2020-11-01,-2.3505,122,hardcoded
+Japan,2020-12-01,-3.0904,261,hardcoded
+Japan,2021-01-01,-0.5659,111,hardcoded
+Japan,2021-02-01,-0.3278,81,hardcoded
+Japan,2021-03-01,-0.6572,261,hardcoded
+Japan,2021-04-01,-0.6752,103,hardcoded
+Japan,2021-05-01,-0.7465,99,hardcoded
+Japan,2021-06-01,-1.1061,176,hardcoded
+Japan,2021-07-01,-0.4191,265,hardcoded
+Japan,2021-08-01,-0.677,280,hardcoded
+Japan,2021-09-01,-0.5158,202,hardcoded
+Japan,2021-10-01,-0.6008,137,hardcoded
+Japan,2021-11-01,-0.7909,101,hardcoded
+Japan,2021-12-01,-0.5409,169,hardcoded
+Japan,2022-01-01,-1.0011,254,hardcoded
+Japan,2022-02-01,-0.8745,197,hardcoded
+Japan,2022-03-01,-0.583,101,hardcoded
+Japan,2022-04-01,-0.5775,161,hardcoded
+Japan,2022-05-01,-0.7643,226,hardcoded
+Japan,2022-06-01,-0.7169,163,hardcoded
+Japan,2022-07-01,-0.5541,121,hardcoded
+Japan,2022-08-01,-0.8472,101,hardcoded
+Japan,2022-09-01,-0.8749,178,hardcoded
+Japan,2022-10-01,-1.2136,222,hardcoded
+Japan,2022-11-01,-0.803,89,hardcoded
+Japan,2022-12-01,-0.5466,200,hardcoded
+Japan,2023-01-01,-0.5566,158,hardcoded
+Japan,2023-02-01,0.0424,216,hardcoded
+Japan,2023-03-01,-0.8034,113,hardcoded
+Japan,2023-04-01,-1.2016,284,hardcoded
+Japan,2023-05-01,-0.744,170,hardcoded
+Japan,2023-06-01,-0.1686,274,hardcoded
+Japan,2023-07-01,-0.2979,186,hardcoded
+Japan,2023-08-01,-0.6994,185,hardcoded
+Japan,2023-09-01,-0.0776,237,hardcoded
+Japan,2023-10-01,-0.635,146,hardcoded
+Japan,2023-11-01,-0.2292,204,hardcoded
+Japan,2023-12-01,-0.1593,101,hardcoded
+Japan,2024-01-01,0.0998,199,hardcoded
+Japan,2024-02-01,0.0843,224,hardcoded
+Japan,2024-03-01,0.3105,236,hardcoded
+Japan,2024-04-01,0.6326,236,hardcoded
+Japan,2024-05-01,0.5269,269,hardcoded
+Japan,2024-06-01,-0.2979,276,hardcoded
+Japan,2024-07-01,0.1653,178,hardcoded
+Japan,2024-08-01,0.4461,278,hardcoded
+Japan,2024-09-01,-0.0263,259,hardcoded
+Japan,2024-10-01,0.0104,196,hardcoded
+Japan,2024-11-01,0.4148,186,hardcoded
+Japan,2024-12-01,-0.1314,128,hardcoded
+Kenya,2018-01-01,-1.5233,165,hardcoded
+Kenya,2018-02-01,-1.4643,119,hardcoded
+Kenya,2018-03-01,-1.5291,186,hardcoded
+Kenya,2018-04-01,-1.191,121,hardcoded
+Kenya,2018-05-01,-1.4104,243,hardcoded
+Kenya,2018-06-01,-1.4852,107,hardcoded
+Kenya,2018-07-01,-1.1357,187,hardcoded
+Kenya,2018-08-01,-1.1825,173,hardcoded
+Kenya,2018-09-01,-1.5404,220,hardcoded
+Kenya,2018-10-01,-1.0578,196,hardcoded
+Kenya,2018-11-01,-0.6934,194,hardcoded
+Kenya,2018-12-01,-1.0312,100,hardcoded
+Kenya,2019-01-01,-2.0215,165,hardcoded
+Kenya,2019-02-01,-1.5297,287,hardcoded
+Kenya,2019-03-01,-1.3882,293,hardcoded
+Kenya,2019-04-01,-1.6496,258,hardcoded
+Kenya,2019-05-01,-1.6748,168,hardcoded
+Kenya,2019-06-01,-1.8425,173,hardcoded
+Kenya,2019-07-01,-1.6356,224,hardcoded
+Kenya,2019-08-01,-1.2124,165,hardcoded
+Kenya,2019-09-01,-1.6379,217,hardcoded
+Kenya,2019-10-01,-1.2856,146,hardcoded
+Kenya,2019-11-01,-2.2067,294,hardcoded
+Kenya,2019-12-01,-1.4157,295,hardcoded
+Kenya,2020-01-01,-2.5437,94,hardcoded
+Kenya,2020-02-01,-2.9083,266,hardcoded
+Kenya,2020-03-01,-3.0393,191,hardcoded
+Kenya,2020-04-01,-3.5357,109,hardcoded
+Kenya,2020-05-01,-2.8182,117,hardcoded
+Kenya,2020-06-01,-2.8733,106,hardcoded
+Kenya,2020-07-01,-3.0814,275,hardcoded
+Kenya,2020-08-01,-3.2933,283,hardcoded
+Kenya,2020-09-01,-3.0229,182,hardcoded
+Kenya,2020-10-01,-3.2006,124,hardcoded
+Kenya,2020-11-01,-2.719,94,hardcoded
+Kenya,2020-12-01,-3.0523,148,hardcoded
+Kenya,2021-01-01,-1.0234,283,hardcoded
+Kenya,2021-02-01,-0.9313,187,hardcoded
+Kenya,2021-03-01,-0.9522,203,hardcoded
+Kenya,2021-04-01,-0.6263,240,hardcoded
+Kenya,2021-05-01,-0.8334,199,hardcoded
+Kenya,2021-06-01,-1.3729,168,hardcoded
+Kenya,2021-07-01,-0.8392,224,hardcoded
+Kenya,2021-08-01,-1.8118,157,hardcoded
+Kenya,2021-09-01,-1.0619,210,hardcoded
+Kenya,2021-10-01,-1.1041,137,hardcoded
+Kenya,2021-11-01,-0.8527,231,hardcoded
+Kenya,2021-12-01,-0.7569,132,hardcoded
+Kenya,2022-01-01,-1.7513,278,hardcoded
+Kenya,2022-02-01,-1.7407,128,hardcoded
+Kenya,2022-03-01,-2.0131,242,hardcoded
+Kenya,2022-04-01,-1.898,176,hardcoded
+Kenya,2022-05-01,-1.9738,176,hardcoded
+Kenya,2022-06-01,-1.2465,191,hardcoded
+Kenya,2022-07-01,-1.545,258,hardcoded
+Kenya,2022-08-01,-2.044,165,hardcoded
+Kenya,2022-09-01,-1.3954,212,hardcoded
+Kenya,2022-10-01,-2.536,287,hardcoded
+Kenya,2022-11-01,-1.9615,256,hardcoded
+Kenya,2022-12-01,-2.0108,100,hardcoded
+Kenya,2023-01-01,-2.812,283,hardcoded
+Kenya,2023-02-01,-2.2053,193,hardcoded
+Kenya,2023-03-01,-2.726,80,hardcoded
+Kenya,2023-04-01,-2.9627,227,hardcoded
+Kenya,2023-05-01,-2.954,236,hardcoded
+Kenya,2023-06-01,-2.3376,80,hardcoded
+Kenya,2023-07-01,-2.614,151,hardcoded
+Kenya,2023-08-01,-2.5608,219,hardcoded
+Kenya,2023-09-01,-2.5351,261,hardcoded
+Kenya,2023-10-01,-2.652,261,hardcoded
+Kenya,2023-11-01,-2.1922,265,hardcoded
+Kenya,2023-12-01,-2.67,82,hardcoded
+Kenya,2024-01-01,-1.9874,282,hardcoded
+Kenya,2024-02-01,-1.8749,89,hardcoded
+Kenya,2024-03-01,-1.7694,192,hardcoded
+Kenya,2024-04-01,-2.0661,201,hardcoded
+Kenya,2024-05-01,-1.4437,86,hardcoded
+Kenya,2024-06-01,-2.0625,103,hardcoded
+Kenya,2024-07-01,-2.276,116,hardcoded
+Kenya,2024-08-01,-2.1162,231,hardcoded
+Kenya,2024-09-01,-2.4166,286,hardcoded
+Kenya,2024-10-01,-1.6195,194,hardcoded
+Kenya,2024-11-01,-2.6085,187,hardcoded
+Kenya,2024-12-01,-2.5164,198,hardcoded
+Mexico,2018-01-01,-1.0576,89,hardcoded
+Mexico,2018-02-01,-0.7605,89,hardcoded
+Mexico,2018-03-01,-1.4667,107,hardcoded
+Mexico,2018-04-01,-1.52,285,hardcoded
+Mexico,2018-05-01,-1.4212,232,hardcoded
+Mexico,2018-06-01,-1.3633,264,hardcoded
+Mexico,2018-07-01,-1.1762,255,hardcoded
+Mexico,2018-08-01,-0.8727,112,hardcoded
+Mexico,2018-09-01,-1.2963,145,hardcoded
+Mexico,2018-10-01,-0.8802,195,hardcoded
+Mexico,2018-11-01,-1.5414,198,hardcoded
+Mexico,2018-12-01,-1.3098,185,hardcoded
+Mexico,2019-01-01,-1.1234,286,hardcoded
+Mexico,2019-02-01,-1.1385,281,hardcoded
+Mexico,2019-03-01,-1.6641,208,hardcoded
+Mexico,2019-04-01,-1.0542,128,hardcoded
+Mexico,2019-05-01,-1.605,125,hardcoded
+Mexico,2019-06-01,-1.1688,86,hardcoded
+Mexico,2019-07-01,-1.354,241,hardcoded
+Mexico,2019-08-01,-1.8782,95,hardcoded
+Mexico,2019-09-01,-1.0284,82,hardcoded
+Mexico,2019-10-01,-1.1816,185,hardcoded
+Mexico,2019-11-01,-1.3486,239,hardcoded
+Mexico,2019-12-01,-1.5,280,hardcoded
+Mexico,2020-01-01,-3.5488,258,hardcoded
+Mexico,2020-02-01,-3.3347,202,hardcoded
+Mexico,2020-03-01,-2.9224,200,hardcoded
+Mexico,2020-04-01,-3.3425,138,hardcoded
+Mexico,2020-05-01,-3.1259,120,hardcoded
+Mexico,2020-06-01,-2.946,194,hardcoded
+Mexico,2020-07-01,-2.9261,257,hardcoded
+Mexico,2020-08-01,-3.3366,232,hardcoded
+Mexico,2020-09-01,-2.8265,249,hardcoded
+Mexico,2020-10-01,-3.7525,265,hardcoded
+Mexico,2020-11-01,-3.1496,104,hardcoded
+Mexico,2020-12-01,-3.5607,172,hardcoded
+Mexico,2021-01-01,-0.9221,278,hardcoded
+Mexico,2021-02-01,-0.9332,213,hardcoded
+Mexico,2021-03-01,-0.1958,111,hardcoded
+Mexico,2021-04-01,-0.8416,221,hardcoded
+Mexico,2021-05-01,-1.0567,114,hardcoded
+Mexico,2021-06-01,-0.9137,193,hardcoded
+Mexico,2021-07-01,-1.101,80,hardcoded
+Mexico,2021-08-01,-1.3548,228,hardcoded
+Mexico,2021-09-01,-0.8184,182,hardcoded
+Mexico,2021-10-01,-1.1077,102,hardcoded
+Mexico,2021-11-01,-0.951,293,hardcoded
+Mexico,2021-12-01,-0.7026,213,hardcoded
+Mexico,2022-01-01,-1.3123,235,hardcoded
+Mexico,2022-02-01,-1.2408,162,hardcoded
+Mexico,2022-03-01,-1.0455,264,hardcoded
+Mexico,2022-04-01,-1.0748,148,hardcoded
+Mexico,2022-05-01,-0.7297,107,hardcoded
+Mexico,2022-06-01,-1.1608,247,hardcoded
+Mexico,2022-07-01,-0.6148,177,hardcoded
+Mexico,2022-08-01,-1.1162,128,hardcoded
+Mexico,2022-09-01,-1.0132,99,hardcoded
+Mexico,2022-10-01,-1.0173,164,hardcoded
+Mexico,2022-11-01,-0.9898,195,hardcoded
+Mexico,2022-12-01,-1.1707,151,hardcoded
+Mexico,2023-01-01,-0.5218,235,hardcoded
+Mexico,2023-02-01,-1.0321,220,hardcoded
+Mexico,2023-03-01,-1.2276,113,hardcoded
+Mexico,2023-04-01,-0.6324,165,hardcoded
+Mexico,2023-05-01,-1.2526,155,hardcoded
+Mexico,2023-06-01,-1.6515,228,hardcoded
+Mexico,2023-07-01,-1.1393,246,hardcoded
+Mexico,2023-08-01,-0.861,211,hardcoded
+Mexico,2023-09-01,-1.1939,262,hardcoded
+Mexico,2023-10-01,-0.9562,248,hardcoded
+Mexico,2023-11-01,-0.859,109,hardcoded
+Mexico,2023-12-01,-0.9383,90,hardcoded
+Mexico,2024-01-01,-0.8193,278,hardcoded
+Mexico,2024-02-01,-0.4344,203,hardcoded
+Mexico,2024-03-01,-0.3998,168,hardcoded
+Mexico,2024-04-01,0.1543,96,hardcoded
+Mexico,2024-05-01,-0.9136,220,hardcoded
+Mexico,2024-06-01,-1.0639,185,hardcoded
+Mexico,2024-07-01,-0.9552,242,hardcoded
+Mexico,2024-08-01,-0.4389,87,hardcoded
+Mexico,2024-09-01,-0.6027,251,hardcoded
+Mexico,2024-10-01,-0.7822,253,hardcoded
+Mexico,2024-11-01,-1.4316,154,hardcoded
+Mexico,2024-12-01,-1.0834,218,hardcoded
+Morocco,2018-01-01,-0.55,146,hardcoded
+Morocco,2018-02-01,-1.0817,190,hardcoded
+Morocco,2018-03-01,-0.8408,236,hardcoded
+Morocco,2018-04-01,-1.5001,285,hardcoded
+Morocco,2018-05-01,-1.1522,103,hardcoded
+Morocco,2018-06-01,-0.7847,131,hardcoded
+Morocco,2018-07-01,-0.9403,208,hardcoded
+Morocco,2018-08-01,-1.2961,222,hardcoded
+Morocco,2018-09-01,-1.1729,93,hardcoded
+Morocco,2018-10-01,-0.9948,197,hardcoded
+Morocco,2018-11-01,-0.8589,182,hardcoded
+Morocco,2018-12-01,-1.3758,145,hardcoded
+Morocco,2019-01-01,-1.2538,229,hardcoded
+Morocco,2019-02-01,-0.7112,174,hardcoded
+Morocco,2019-03-01,-1.123,291,hardcoded
+Morocco,2019-04-01,-1.0991,174,hardcoded
+Morocco,2019-05-01,-1.0718,166,hardcoded
+Morocco,2019-06-01,-0.8496,249,hardcoded
+Morocco,2019-07-01,-1.4796,185,hardcoded
+Morocco,2019-08-01,-1.1643,145,hardcoded
+Morocco,2019-09-01,-1.1992,91,hardcoded
+Morocco,2019-10-01,-1.1146,299,hardcoded
+Morocco,2019-11-01,-1.2875,228,hardcoded
+Morocco,2019-12-01,-1.3192,289,hardcoded
+Morocco,2020-01-01,-3.0302,104,hardcoded
+Morocco,2020-02-01,-2.7837,202,hardcoded
+Morocco,2020-03-01,-2.4827,167,hardcoded
+Morocco,2020-04-01,-2.3956,134,hardcoded
+Morocco,2020-05-01,-2.9262,273,hardcoded
+Morocco,2020-06-01,-3.6347,144,hardcoded
+Morocco,2020-07-01,-2.7671,94,hardcoded
+Morocco,2020-08-01,-2.9039,200,hardcoded
+Morocco,2020-09-01,-2.7996,243,hardcoded
+Morocco,2020-10-01,-2.8774,170,hardcoded
+Morocco,2020-11-01,-3.0679,206,hardcoded
+Morocco,2020-12-01,-2.1358,160,hardcoded
+Morocco,2021-01-01,-0.5918,166,hardcoded
+Morocco,2021-02-01,-0.7574,93,hardcoded
+Morocco,2021-03-01,-0.698,145,hardcoded
+Morocco,2021-04-01,-1.3385,224,hardcoded
+Morocco,2021-05-01,-0.6838,290,hardcoded
+Morocco,2021-06-01,-0.9823,198,hardcoded
+Morocco,2021-07-01,-0.4574,171,hardcoded
+Morocco,2021-08-01,-0.7992,112,hardcoded
+Morocco,2021-09-01,-0.653,176,hardcoded
+Morocco,2021-10-01,-0.8208,214,hardcoded
+Morocco,2021-11-01,-1.2775,143,hardcoded
+Morocco,2021-12-01,-0.391,137,hardcoded
+Morocco,2022-01-01,-1.5423,143,hardcoded
+Morocco,2022-02-01,-1.5932,195,hardcoded
+Morocco,2022-03-01,-1.6945,246,hardcoded
+Morocco,2022-04-01,-0.9037,143,hardcoded
+Morocco,2022-05-01,-0.8245,251,hardcoded
+Morocco,2022-06-01,-1.3541,97,hardcoded
+Morocco,2022-07-01,-1.2957,182,hardcoded
+Morocco,2022-08-01,-1.6964,185,hardcoded
+Morocco,2022-09-01,-0.7911,269,hardcoded
+Morocco,2022-10-01,-1.3753,88,hardcoded
+Morocco,2022-11-01,-2.005,208,hardcoded
+Morocco,2022-12-01,-1.6508,203,hardcoded
+Morocco,2023-01-01,-2.4235,144,hardcoded
+Morocco,2023-02-01,-2.5273,103,hardcoded
+Morocco,2023-03-01,-1.511,277,hardcoded
+Morocco,2023-04-01,-1.7887,197,hardcoded
+Morocco,2023-05-01,-2.13,108,hardcoded
+Morocco,2023-06-01,-2.563,172,hardcoded
+Morocco,2023-07-01,-1.7881,182,hardcoded
+Morocco,2023-08-01,-2.185,132,hardcoded
+Morocco,2023-09-01,-2.1087,269,hardcoded
+Morocco,2023-10-01,-1.9521,219,hardcoded
+Morocco,2023-11-01,-2.6348,128,hardcoded
+Morocco,2023-12-01,-2.1305,229,hardcoded
+Morocco,2024-01-01,-0.9863,147,hardcoded
+Morocco,2024-02-01,-1.3992,288,hardcoded
+Morocco,2024-03-01,-1.0709,153,hardcoded
+Morocco,2024-04-01,-1.1793,111,hardcoded
+Morocco,2024-05-01,-1.1621,250,hardcoded
+Morocco,2024-06-01,-1.7485,162,hardcoded
+Morocco,2024-07-01,-1.5016,164,hardcoded
+Morocco,2024-08-01,-1.3666,280,hardcoded
+Morocco,2024-09-01,-1.1571,98,hardcoded
+Morocco,2024-10-01,-1.0187,131,hardcoded
+Morocco,2024-11-01,-1.0518,122,hardcoded
+Morocco,2024-12-01,-1.3328,123,hardcoded
+Nigeria,2018-01-01,-2.1581,151,hardcoded
+Nigeria,2018-02-01,-1.7756,286,hardcoded
+Nigeria,2018-03-01,-2.3299,80,hardcoded
+Nigeria,2018-04-01,-1.9803,163,hardcoded
+Nigeria,2018-05-01,-2.5721,136,hardcoded
+Nigeria,2018-06-01,-2.3511,254,hardcoded
+Nigeria,2018-07-01,-2.203,213,hardcoded
+Nigeria,2018-08-01,-2.221,267,hardcoded
+Nigeria,2018-09-01,-2.1349,80,hardcoded
+Nigeria,2018-10-01,-2.4103,224,hardcoded
+Nigeria,2018-11-01,-2.4652,266,hardcoded
+Nigeria,2018-12-01,-2.5581,195,hardcoded
+Nigeria,2019-01-01,-1.9171,174,hardcoded
+Nigeria,2019-02-01,-2.0727,278,hardcoded
+Nigeria,2019-03-01,-2.2527,282,hardcoded
+Nigeria,2019-04-01,-2.1648,109,hardcoded
+Nigeria,2019-05-01,-1.8855,221,hardcoded
+Nigeria,2019-06-01,-1.8612,203,hardcoded
+Nigeria,2019-07-01,-2.0363,107,hardcoded
+Nigeria,2019-08-01,-1.7651,298,hardcoded
+Nigeria,2019-09-01,-1.8634,195,hardcoded
+Nigeria,2019-10-01,-1.6169,257,hardcoded
+Nigeria,2019-11-01,-2.5175,242,hardcoded
+Nigeria,2019-12-01,-1.8276,165,hardcoded
+Nigeria,2020-01-01,-3.7482,163,hardcoded
+Nigeria,2020-02-01,-4.0405,209,hardcoded
+Nigeria,2020-03-01,-4.3687,127,hardcoded
+Nigeria,2020-04-01,-3.7546,86,hardcoded
+Nigeria,2020-05-01,-3.6608,282,hardcoded
+Nigeria,2020-06-01,-3.1718,235,hardcoded
+Nigeria,2020-07-01,-3.2189,83,hardcoded
+Nigeria,2020-08-01,-3.9528,252,hardcoded
+Nigeria,2020-09-01,-3.4789,228,hardcoded
+Nigeria,2020-10-01,-3.8634,90,hardcoded
+Nigeria,2020-11-01,-3.8186,226,hardcoded
+Nigeria,2020-12-01,-4.0398,197,hardcoded
+Nigeria,2021-01-01,-1.9479,217,hardcoded
+Nigeria,2021-02-01,-1.122,96,hardcoded
+Nigeria,2021-03-01,-1.6004,251,hardcoded
+Nigeria,2021-04-01,-2.2563,125,hardcoded
+Nigeria,2021-05-01,-1.8155,95,hardcoded
+Nigeria,2021-06-01,-1.8521,259,hardcoded
+Nigeria,2021-07-01,-1.8404,159,hardcoded
+Nigeria,2021-08-01,-1.9998,210,hardcoded
+Nigeria,2021-09-01,-1.6933,248,hardcoded
+Nigeria,2021-10-01,-1.8597,293,hardcoded
+Nigeria,2021-11-01,-2.1858,214,hardcoded
+Nigeria,2021-12-01,-1.732,289,hardcoded
+Nigeria,2022-01-01,-3.1087,144,hardcoded
+Nigeria,2022-02-01,-2.1252,188,hardcoded
+Nigeria,2022-03-01,-2.9998,287,hardcoded
+Nigeria,2022-04-01,-2.4139,264,hardcoded
+Nigeria,2022-05-01,-2.2751,251,hardcoded
+Nigeria,2022-06-01,-2.2001,140,hardcoded
+Nigeria,2022-07-01,-2.2797,157,hardcoded
+Nigeria,2022-08-01,-2.5575,200,hardcoded
+Nigeria,2022-09-01,-2.0524,184,hardcoded
+Nigeria,2022-10-01,-2.4882,167,hardcoded
+Nigeria,2022-11-01,-2.3176,167,hardcoded
+Nigeria,2022-12-01,-2.943,253,hardcoded
+Nigeria,2023-01-01,-3.8887,256,hardcoded
+Nigeria,2023-02-01,-3.5563,185,hardcoded
+Nigeria,2023-03-01,-4.391,273,hardcoded
+Nigeria,2023-04-01,-4.2127,204,hardcoded
+Nigeria,2023-05-01,-3.8933,257,hardcoded
+Nigeria,2023-06-01,-3.8794,175,hardcoded
+Nigeria,2023-07-01,-3.7263,227,hardcoded
+Nigeria,2023-08-01,-3.9047,144,hardcoded
+Nigeria,2023-09-01,-3.3019,274,hardcoded
+Nigeria,2023-10-01,-3.2457,166,hardcoded
+Nigeria,2023-11-01,-3.7526,104,hardcoded
+Nigeria,2023-12-01,-3.9514,159,hardcoded
+Nigeria,2024-01-01,-2.679,212,hardcoded
+Nigeria,2024-02-01,-2.6832,232,hardcoded
+Nigeria,2024-03-01,-2.7863,100,hardcoded
+Nigeria,2024-04-01,-3.5221,269,hardcoded
+Nigeria,2024-05-01,-3.5557,239,hardcoded
+Nigeria,2024-06-01,-3.0085,158,hardcoded
+Nigeria,2024-07-01,-2.9548,105,hardcoded
+Nigeria,2024-08-01,-3.1772,191,hardcoded
+Nigeria,2024-09-01,-3.4006,206,hardcoded
+Nigeria,2024-10-01,-3.3166,205,hardcoded
+Nigeria,2024-11-01,-3.6848,239,hardcoded
+Nigeria,2024-12-01,-3.1861,254,hardcoded
+South Africa,2018-01-01,-1.8738,109,hardcoded
+South Africa,2018-02-01,-1.8039,246,hardcoded
+South Africa,2018-03-01,-2.1343,135,hardcoded
+South Africa,2018-04-01,-1.4301,263,hardcoded
+South Africa,2018-05-01,-1.7315,187,hardcoded
+South Africa,2018-06-01,-1.8979,290,hardcoded
+South Africa,2018-07-01,-1.9332,213,hardcoded
+South Africa,2018-08-01,-1.5062,145,hardcoded
+South Africa,2018-09-01,-1.9947,268,hardcoded
+South Africa,2018-10-01,-1.8419,143,hardcoded
+South Africa,2018-11-01,-2.0534,151,hardcoded
+South Africa,2018-12-01,-1.8403,143,hardcoded
+South Africa,2019-01-01,-2.0419,220,hardcoded
+South Africa,2019-02-01,-1.9053,258,hardcoded
+South Africa,2019-03-01,-2.3784,90,hardcoded
+South Africa,2019-04-01,-2.281,288,hardcoded
+South Africa,2019-05-01,-2.3757,208,hardcoded
+South Africa,2019-06-01,-2.0009,212,hardcoded
+South Africa,2019-07-01,-1.8464,248,hardcoded
+South Africa,2019-08-01,-2.3836,106,hardcoded
+South Africa,2019-09-01,-1.9363,291,hardcoded
+South Africa,2019-10-01,-2.1452,236,hardcoded
+South Africa,2019-11-01,-2.0761,213,hardcoded
+South Africa,2019-12-01,-2.2721,255,hardcoded
+South Africa,2020-01-01,-3.4136,215,hardcoded
+South Africa,2020-02-01,-3.8047,146,hardcoded
+South Africa,2020-03-01,-3.3815,157,hardcoded
+South Africa,2020-04-01,-3.4344,298,hardcoded
+South Africa,2020-05-01,-3.352,236,hardcoded
+South Africa,2020-06-01,-3.2261,165,hardcoded
+South Africa,2020-07-01,-3.6964,231,hardcoded
+South Africa,2020-08-01,-3.625,136,hardcoded
+South Africa,2020-09-01,-3.8672,294,hardcoded
+South Africa,2020-10-01,-3.8275,280,hardcoded
+South Africa,2020-11-01,-3.7584,154,hardcoded
+South Africa,2020-12-01,-3.1794,135,hardcoded
+South Africa,2021-01-01,-1.5853,185,hardcoded
+South Africa,2021-02-01,-0.8997,185,hardcoded
+South Africa,2021-03-01,-0.8494,266,hardcoded
+South Africa,2021-04-01,-1.0491,180,hardcoded
+South Africa,2021-05-01,-1.2646,105,hardcoded
+South Africa,2021-06-01,-1.0155,229,hardcoded
+South Africa,2021-07-01,-1.0403,299,hardcoded
+South Africa,2021-08-01,-1.1753,201,hardcoded
+South Africa,2021-09-01,-0.7976,260,hardcoded
+South Africa,2021-10-01,-0.9542,196,hardcoded
+South Africa,2021-11-01,-1.108,204,hardcoded
+South Africa,2021-12-01,-0.9541,227,hardcoded
+South Africa,2022-01-01,-1.6403,185,hardcoded
+South Africa,2022-02-01,-1.7939,279,hardcoded
+South Africa,2022-03-01,-2.151,215,hardcoded
+South Africa,2022-04-01,-1.6746,202,hardcoded
+South Africa,2022-05-01,-1.8594,235,hardcoded
+South Africa,2022-06-01,-2.4961,205,hardcoded
+South Africa,2022-07-01,-2.0366,156,hardcoded
+South Africa,2022-08-01,-2.1823,107,hardcoded
+South Africa,2022-09-01,-1.6367,160,hardcoded
+South Africa,2022-10-01,-1.7537,162,hardcoded
+South Africa,2022-11-01,-1.9514,233,hardcoded
+South Africa,2022-12-01,-1.9866,230,hardcoded
+South Africa,2023-01-01,-1.9588,158,hardcoded
+South Africa,2023-02-01,-2.5682,236,hardcoded
+South Africa,2023-03-01,-2.364,166,hardcoded
+South Africa,2023-04-01,-3.1106,240,hardcoded
+South Africa,2023-05-01,-2.2274,136,hardcoded
+South Africa,2023-06-01,-1.9595,265,hardcoded
+South Africa,2023-07-01,-1.9279,83,hardcoded
+South Africa,2023-08-01,-2.5206,134,hardcoded
+South Africa,2023-09-01,-2.7051,129,hardcoded
+South Africa,2023-10-01,-2.6652,201,hardcoded
+South Africa,2023-11-01,-2.4185,277,hardcoded
+South Africa,2023-12-01,-2.0665,120,hardcoded
+South Africa,2024-01-01,-1.9362,171,hardcoded
+South Africa,2024-02-01,-2.216,189,hardcoded
+South Africa,2024-03-01,-2.171,215,hardcoded
+South Africa,2024-04-01,-2.3331,182,hardcoded
+South Africa,2024-05-01,-2.0407,228,hardcoded
+South Africa,2024-06-01,-1.2482,179,hardcoded
+South Africa,2024-07-01,-2.1023,250,hardcoded
+South Africa,2024-08-01,-2.2706,251,hardcoded
+South Africa,2024-09-01,-2.3051,162,hardcoded
+South Africa,2024-10-01,-2.7825,184,hardcoded
+South Africa,2024-11-01,-1.3314,289,hardcoded
+South Africa,2024-12-01,-1.9193,265,hardcoded
+United Kingdom,2018-01-01,-0.572,126,hardcoded
+United Kingdom,2018-02-01,-0.092,216,hardcoded
+United Kingdom,2018-03-01,0.2714,261,hardcoded
+United Kingdom,2018-04-01,-0.2745,187,hardcoded
+United Kingdom,2018-05-01,-0.5135,182,hardcoded
+United Kingdom,2018-06-01,-0.7387,269,hardcoded
+United Kingdom,2018-07-01,-0.6325,211,hardcoded
+United Kingdom,2018-08-01,-0.7363,199,hardcoded
+United Kingdom,2018-09-01,-1.0195,264,hardcoded
+United Kingdom,2018-10-01,-0.7562,83,hardcoded
+United Kingdom,2018-11-01,-0.7113,167,hardcoded
+United Kingdom,2018-12-01,-0.0148,94,hardcoded
+United Kingdom,2019-01-01,-0.9216,139,hardcoded
+United Kingdom,2019-02-01,-1.4082,272,hardcoded
+United Kingdom,2019-03-01,-1.9362,135,hardcoded
+United Kingdom,2019-04-01,-1.3688,122,hardcoded
+United Kingdom,2019-05-01,-1.2161,164,hardcoded
+United Kingdom,2019-06-01,-1.2625,216,hardcoded
+United Kingdom,2019-07-01,-2.0505,211,hardcoded
+United Kingdom,2019-08-01,-1.7817,145,hardcoded
+United Kingdom,2019-09-01,-1.7947,283,hardcoded
+United Kingdom,2019-10-01,-1.9429,187,hardcoded
+United Kingdom,2019-11-01,-1.498,156,hardcoded
+United Kingdom,2019-12-01,-0.7975,87,hardcoded
+United Kingdom,2020-01-01,-2.9212,198,hardcoded
+United Kingdom,2020-02-01,-3.2151,211,hardcoded
+United Kingdom,2020-03-01,-2.7373,138,hardcoded
+United Kingdom,2020-04-01,-2.7969,254,hardcoded
+United Kingdom,2020-05-01,-2.8386,210,hardcoded
+United Kingdom,2020-06-01,-3.2395,222,hardcoded
+United Kingdom,2020-07-01,-3.1251,272,hardcoded
+United Kingdom,2020-08-01,-2.7487,257,hardcoded
+United Kingdom,2020-09-01,-2.8618,218,hardcoded
+United Kingdom,2020-10-01,-3.05,251,hardcoded
+United Kingdom,2020-11-01,-2.4045,101,hardcoded
+United Kingdom,2020-12-01,-3.1665,150,hardcoded
+United Kingdom,2021-01-01,-0.7028,134,hardcoded
+United Kingdom,2021-02-01,-0.6322,117,hardcoded
+United Kingdom,2021-03-01,-0.4081,277,hardcoded
+United Kingdom,2021-04-01,-0.4206,95,hardcoded
+United Kingdom,2021-05-01,-0.1274,156,hardcoded
+United Kingdom,2021-06-01,-0.2575,108,hardcoded
+United Kingdom,2021-07-01,-0.3498,245,hardcoded
+United Kingdom,2021-08-01,-0.0739,268,hardcoded
+United Kingdom,2021-09-01,-0.1602,123,hardcoded
+United Kingdom,2021-10-01,-0.8271,165,hardcoded
+United Kingdom,2021-11-01,0.1016,166,hardcoded
+United Kingdom,2021-12-01,-0.1167,184,hardcoded
+United Kingdom,2022-01-01,-1.684,118,hardcoded
+United Kingdom,2022-02-01,-1.9688,200,hardcoded
+United Kingdom,2022-03-01,-1.9846,227,hardcoded
+United Kingdom,2022-04-01,-1.9614,140,hardcoded
+United Kingdom,2022-05-01,-1.5998,296,hardcoded
+United Kingdom,2022-06-01,-1.2308,249,hardcoded
+United Kingdom,2022-07-01,-1.9958,128,hardcoded
+United Kingdom,2022-08-01,-1.5039,86,hardcoded
+United Kingdom,2022-09-01,-1.5323,167,hardcoded
+United Kingdom,2022-10-01,-1.8548,209,hardcoded
+United Kingdom,2022-11-01,-2.1036,122,hardcoded
+United Kingdom,2022-12-01,-1.6338,285,hardcoded
+United Kingdom,2023-01-01,-0.52,278,hardcoded
+United Kingdom,2023-02-01,-1.396,266,hardcoded
+United Kingdom,2023-03-01,-1.4493,246,hardcoded
+United Kingdom,2023-04-01,-0.9541,120,hardcoded
+United Kingdom,2023-05-01,-0.5613,284,hardcoded
+United Kingdom,2023-06-01,-1.4565,225,hardcoded
+United Kingdom,2023-07-01,-1.36,181,hardcoded
+United Kingdom,2023-08-01,-0.7941,100,hardcoded
+United Kingdom,2023-09-01,-1.2352,193,hardcoded
+United Kingdom,2023-10-01,-1.3156,198,hardcoded
+United Kingdom,2023-11-01,-0.4983,197,hardcoded
+United Kingdom,2023-12-01,-1.3504,246,hardcoded
+United Kingdom,2024-01-01,-0.5599,254,hardcoded
+United Kingdom,2024-02-01,-1.0703,179,hardcoded
+United Kingdom,2024-03-01,-0.9678,299,hardcoded
+United Kingdom,2024-04-01,-0.5545,179,hardcoded
+United Kingdom,2024-05-01,-0.3568,278,hardcoded
+United Kingdom,2024-06-01,-0.8911,245,hardcoded
+United Kingdom,2024-07-01,-0.3579,254,hardcoded
+United Kingdom,2024-08-01,-1.1585,198,hardcoded
+United Kingdom,2024-09-01,-0.7095,184,hardcoded
+United Kingdom,2024-10-01,-0.977,213,hardcoded
+United Kingdom,2024-11-01,-0.6204,282,hardcoded
+United Kingdom,2024-12-01,-1.1273,279,hardcoded
+United States,2018-01-01,0.2186,152,hardcoded
+United States,2018-02-01,0.73,214,hardcoded
+United States,2018-03-01,0.3529,170,hardcoded
+United States,2018-04-01,0.6915,276,hardcoded
+United States,2018-05-01,0.6148,213,hardcoded
+United States,2018-06-01,0.7562,130,hardcoded
+United States,2018-07-01,0.292,220,hardcoded
+United States,2018-08-01,-0.0269,233,hardcoded
+United States,2018-09-01,0.8524,108,hardcoded
+United States,2018-10-01,0.8627,231,hardcoded
+United States,2018-11-01,0.3557,187,hardcoded
+United States,2018-12-01,1.0705,127,hardcoded
+United States,2019-01-01,-0.4749,163,hardcoded
+United States,2019-02-01,0.1492,126,hardcoded
+United States,2019-03-01,0.5162,128,hardcoded
+United States,2019-04-01,0.4972,102,hardcoded
+United States,2019-05-01,0.1958,208,hardcoded
+United States,2019-06-01,0.6337,273,hardcoded
+United States,2019-07-01,0.2075,190,hardcoded
+United States,2019-08-01,0.025,272,hardcoded
+United States,2019-09-01,0.1784,200,hardcoded
+United States,2019-10-01,0.5296,230,hardcoded
+United States,2019-11-01,0.393,229,hardcoded
+United States,2019-12-01,-0.124,209,hardcoded
+United States,2020-01-01,-3.0904,134,hardcoded
+United States,2020-02-01,-2.387,97,hardcoded
+United States,2020-03-01,-3.028,105,hardcoded
+United States,2020-04-01,-2.7839,186,hardcoded
+United States,2020-05-01,-2.536,109,hardcoded
+United States,2020-06-01,-2.5266,281,hardcoded
+United States,2020-07-01,-3.0378,106,hardcoded
+United States,2020-08-01,-2.9816,153,hardcoded
+United States,2020-09-01,-3.0258,275,hardcoded
+United States,2020-10-01,-2.8063,200,hardcoded
+United States,2020-11-01,-3.1899,141,hardcoded
+United States,2020-12-01,-2.5676,173,hardcoded
+United States,2021-01-01,0.4946,201,hardcoded
+United States,2021-02-01,0.8721,85,hardcoded
+United States,2021-03-01,1.1018,226,hardcoded
+United States,2021-04-01,1.0602,281,hardcoded
+United States,2021-05-01,0.9322,163,hardcoded
+United States,2021-06-01,0.6938,129,hardcoded
+United States,2021-07-01,0.5884,280,hardcoded
+United States,2021-08-01,0.3418,116,hardcoded
+United States,2021-09-01,0.7205,277,hardcoded
+United States,2021-10-01,0.5413,102,hardcoded
+United States,2021-11-01,0.9849,165,hardcoded
+United States,2021-12-01,1.0562,110,hardcoded
+United States,2022-01-01,-1.3116,196,hardcoded
+United States,2022-02-01,-1.5034,132,hardcoded
+United States,2022-03-01,-1.1506,242,hardcoded
+United States,2022-04-01,-1.4065,113,hardcoded
+United States,2022-05-01,-0.9736,130,hardcoded
+United States,2022-06-01,-1.3358,204,hardcoded
+United States,2022-07-01,-1.0223,285,hardcoded
+United States,2022-08-01,-0.6982,133,hardcoded
+United States,2022-09-01,-1.4822,162,hardcoded
+United States,2022-10-01,-1.4223,105,hardcoded
+United States,2022-11-01,-1.1362,251,hardcoded
+United States,2022-12-01,-1.1317,227,hardcoded
+United States,2023-01-01,-0.2129,200,hardcoded
+United States,2023-02-01,-0.7223,292,hardcoded
+United States,2023-03-01,-0.5178,276,hardcoded
+United States,2023-04-01,-0.5336,133,hardcoded
+United States,2023-05-01,-0.0327,91,hardcoded
+United States,2023-06-01,-0.2672,96,hardcoded
+United States,2023-07-01,-0.4624,274,hardcoded
+United States,2023-08-01,-0.293,247,hardcoded
+United States,2023-09-01,-0.0763,215,hardcoded
+United States,2023-10-01,-1.1007,138,hardcoded
+United States,2023-11-01,-0.4195,203,hardcoded
+United States,2023-12-01,-0.4862,198,hardcoded
+United States,2024-01-01,0.0917,239,hardcoded
+United States,2024-02-01,0.3694,256,hardcoded
+United States,2024-03-01,-0.1926,287,hardcoded
+United States,2024-04-01,0.136,154,hardcoded
+United States,2024-05-01,0.6452,289,hardcoded
+United States,2024-06-01,0.7931,152,hardcoded
+United States,2024-07-01,0.3877,244,hardcoded
+United States,2024-08-01,-0.0391,144,hardcoded
+United States,2024-09-01,0.2501,116,hardcoded
+United States,2024-10-01,0.4495,88,hardcoded
+United States,2024-11-01,0.3023,134,hardcoded
+United States,2024-12-01,0.7425,183,hardcoded
+Zambia,2018-01-01,-2.1502,169,hardcoded
+Zambia,2018-02-01,-2.0785,233,hardcoded
+Zambia,2018-03-01,-2.3243,255,hardcoded
+Zambia,2018-04-01,-2.5178,119,hardcoded
+Zambia,2018-05-01,-3.3483,162,hardcoded
+Zambia,2018-06-01,-2.2015,260,hardcoded
+Zambia,2018-07-01,-2.107,118,hardcoded
+Zambia,2018-08-01,-3.0196,225,hardcoded
+Zambia,2018-09-01,-2.6887,85,hardcoded
+Zambia,2018-10-01,-2.9718,108,hardcoded
+Zambia,2018-11-01,-2.4968,174,hardcoded
+Zambia,2018-12-01,-2.7356,211,hardcoded
+Zambia,2019-01-01,-3.3537,97,hardcoded
+Zambia,2019-02-01,-2.7807,152,hardcoded
+Zambia,2019-03-01,-2.8727,121,hardcoded
+Zambia,2019-04-01,-3.1392,238,hardcoded
+Zambia,2019-05-01,-3.4345,86,hardcoded
+Zambia,2019-06-01,-3.1666,193,hardcoded
+Zambia,2019-07-01,-3.1619,298,hardcoded
+Zambia,2019-08-01,-3.1118,236,hardcoded
+Zambia,2019-09-01,-3.39,185,hardcoded
+Zambia,2019-10-01,-3.2478,219,hardcoded
+Zambia,2019-11-01,-2.7193,224,hardcoded
+Zambia,2019-12-01,-3.1148,213,hardcoded
+Zambia,2020-01-01,-4.0504,276,hardcoded
+Zambia,2020-02-01,-4.2234,136,hardcoded
+Zambia,2020-03-01,-3.9399,162,hardcoded
+Zambia,2020-04-01,-5.0703,148,hardcoded
+Zambia,2020-05-01,-4.2255,232,hardcoded
+Zambia,2020-06-01,-4.1681,190,hardcoded
+Zambia,2020-07-01,-4.0413,271,hardcoded
+Zambia,2020-08-01,-3.9817,201,hardcoded
+Zambia,2020-09-01,-4.5757,263,hardcoded
+Zambia,2020-10-01,-3.7741,217,hardcoded
+Zambia,2020-11-01,-3.8363,220,hardcoded
+Zambia,2020-12-01,-4.3169,233,hardcoded
+Zambia,2021-01-01,-2.8342,272,hardcoded
+Zambia,2021-02-01,-2.4589,80,hardcoded
+Zambia,2021-03-01,-2.5116,298,hardcoded
+Zambia,2021-04-01,-3.4056,292,hardcoded
+Zambia,2021-05-01,-2.8291,114,hardcoded
+Zambia,2021-06-01,-2.6726,280,hardcoded
+Zambia,2021-07-01,-2.4282,225,hardcoded
+Zambia,2021-08-01,-2.8857,86,hardcoded
+Zambia,2021-09-01,-2.9184,251,hardcoded
+Zambia,2021-10-01,-2.6316,268,hardcoded
+Zambia,2021-11-01,-2.9318,118,hardcoded
+Zambia,2021-12-01,-2.9568,231,hardcoded
+Zambia,2022-01-01,-2.1851,141,hardcoded
+Zambia,2022-02-01,-1.532,297,hardcoded
+Zambia,2022-03-01,-2.3094,268,hardcoded
+Zambia,2022-04-01,-2.5827,124,hardcoded
+Zambia,2022-05-01,-1.8575,172,hardcoded
+Zambia,2022-06-01,-1.9185,204,hardcoded
+Zambia,2022-07-01,-2.427,139,hardcoded
+Zambia,2022-08-01,-2.5838,106,hardcoded
+Zambia,2022-09-01,-2.2987,274,hardcoded
+Zambia,2022-10-01,-2.2736,231,hardcoded
+Zambia,2022-11-01,-1.8899,100,hardcoded
+Zambia,2022-12-01,-1.7771,95,hardcoded
+Zambia,2023-01-01,-1.6643,229,hardcoded
+Zambia,2023-02-01,-2.0747,123,hardcoded
+Zambia,2023-03-01,-1.6984,239,hardcoded
+Zambia,2023-04-01,-2.2689,215,hardcoded
+Zambia,2023-05-01,-2.2305,241,hardcoded
+Zambia,2023-06-01,-1.6445,199,hardcoded
+Zambia,2023-07-01,-1.8882,292,hardcoded
+Zambia,2023-08-01,-1.294,211,hardcoded
+Zambia,2023-09-01,-2.0279,194,hardcoded
+Zambia,2023-10-01,-2.0697,137,hardcoded
+Zambia,2023-11-01,-1.3244,220,hardcoded
+Zambia,2023-12-01,-2.0217,281,hardcoded
+Zambia,2024-01-01,-1.9113,174,hardcoded
+Zambia,2024-02-01,-2.0019,158,hardcoded
+Zambia,2024-03-01,-1.8236,291,hardcoded
+Zambia,2024-04-01,-1.8881,195,hardcoded
+Zambia,2024-05-01,-2.0097,222,hardcoded
+Zambia,2024-06-01,-1.706,162,hardcoded
+Zambia,2024-07-01,-1.4092,211,hardcoded
+Zambia,2024-08-01,-1.7495,166,hardcoded
+Zambia,2024-09-01,-1.7943,169,hardcoded
+Zambia,2024-10-01,-1.5187,133,hardcoded
+Zambia,2024-11-01,-1.3139,284,hardcoded
+Zambia,2024-12-01,-1.595,223,hardcoded

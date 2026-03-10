@@ -1,0 +1,4 @@
+Model,Direction Accuracy
+Ordered Logistic,0.5907
+XGBoost,0.8554
+LSTM,0.9436

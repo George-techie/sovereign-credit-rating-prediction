@@ -1,0 +1,24 @@
+country,date,sp_rating,event,class,region
+South Africa,2020-03-27,BB-,downgrade,1,Africa
+South Africa,2020-11-20,BB-,stable,1,Africa
+South Africa,2022-03-25,BB-,stable,1,Africa
+South Africa,2023-05-19,BB-,positive,1,Africa
+Kenya,2023-07-14,B,downgrade,1,Africa
+Kenya,2024-06-27,B,stable,1,Africa
+Ghana,2022-12-19,SD,downgrade,0,Africa
+Ghana,2023-06-05,SD,stable,0,Africa
+Egypt,2023-03-08,B,downgrade,1,Africa
+Egypt,2024-05-16,B+,upgrade,1,Africa
+Nigeria,2020-04-07,B-,downgrade,1,Africa
+Nigeria,2021-09-17,B-,stable,1,Africa
+Nigeria,2023-09-15,B-,stable,1,Africa
+Ethiopia,2023-12-22,CCC,downgrade,1,Africa
+Botswana,2020-04-01,BBB+,downgrade,2,Africa
+Botswana,2021-09-01,BBB+,positive,2,Africa
+Brazil,2015-09-09,BB+,downgrade,1,Benchmark
+Brazil,2018-01-11,BB-,downgrade,1,Benchmark
+Brazil,2023-07-26,BB,upgrade,1,Benchmark
+United States,2023-08-01,AA+,downgrade,2,Benchmark
+India,2021-06-14,BBB-,stable,2,Benchmark
+Mexico,2020-04-16,BBB,downgrade,2,Benchmark
+Mexico,2020-12-11,BBB-,downgrade,2,Benchmark
