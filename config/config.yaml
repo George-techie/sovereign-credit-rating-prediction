@@ -1,0 +1,29 @@
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+
+training:
+  train_end: "2020-01-01"
+  val_end: "2022-01-01"
+  random_seed: 42
+  seq_len: 12
+  lstm_epochs: 30
+  lstm_lr: 0.001
+  batch_size: 32
+
+model:
+  classes: [0, 1, 2]
+  class_names: ["Default", "Junk", "Inv. Grade"]
+  africa_countries:
+    - South Africa
+    - Kenya
+    - Ghana
+    - Egypt
+    - Nigeria
+    - Ethiopia
+    - Botswana
+    - Morocco
+    - Zambia
+
+results:
+  output_dir: results
