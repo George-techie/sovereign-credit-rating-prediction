@@ -3,7 +3,7 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .config/
+.pytest_cache/
 *.pkl
 *.pt
 venv/
-.pytest_cache/
