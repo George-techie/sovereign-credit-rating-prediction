@@ -1,24 +1,35 @@
 # Sovereign Credit Rating Prediction
 
-ML pipeline predicting sovereign credit ratings (Default / Junk / Investment Grade)
-for 17 countries with different economies using FinBERT sentiment + market signals.
+This repository implements a machine learning pipeline for predicting sovereign credit rating categories (Default, Junk, Investment Grade) using a combination of macroeconomic indicators and sentiment features.
+The project includes data processing, feature engineering, model training, and evaluation components, structured as a modular Python codebase.
 
-## Models
-- Ordered Logistic Regression (baseline)
-- XGBoost (grid search tuned)
-- LSTM with Attention (2-layer, 12-month lookback)
+## Project Structure
 
-## Countries
-**Africa:** South Africa, Kenya, Ghana, Egypt, Nigeria, Ethiopia, Botswana, Morocco, Zambia  
-**Benchmark:** United States, United Kingdom, Japan, Brazil, Germany, India, China, Mexico
+- `src/` — Core pipeline code (data processing, feature engineering, models, evaluation)
+- `tests/` — Unit tests for key components
+- `notebooks/` — Exploratory analysis and experiment workflows
+- `data/` — Input datasets (not included or partially included)
+- `results/` — Model outputs and evaluation results
+- `config/` — Configuration files
 
-## Notebooks — Run in Order
-| Notebook | Description |
-|----------|-------------|
-| 01_data_download.ipynb | Downloads all raw data |
-| 02_feature_engineering.ipynb | Builds feature matrix |
-| 03_model_training.ipynb | Trains all 3 models |
-| 04_evaluation_bias_analysis.ipynb | Evaluation + bias analysis |
+## Models Implemented
 
-## Author
-George Nyatangi
+- Ordered Logistic Regression
+- XGBoost
+- LSTM (attention-based sequence model)
+
+## Setup
+
+Build and run using Docker:
+
+```bash
+docker build -t credit-rating .
+docker run credit-rating
+```
+
+## Running Tests
+
+```bash
+pip install -r requirements.txt
+pytest tests/ -v
+```
