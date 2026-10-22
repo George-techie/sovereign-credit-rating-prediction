@@ -23,7 +23,7 @@ It runs two experiments:
 | Source | Coverage | File |
 |---|---|---|
 | World Bank WDI (growth, inflation, current account, reserves, unemployment, GDP per capita, trade, FDI) | 80 countries, 2000–2025 | `data/raw/macro/worldbank_macro.csv` |
-| IMF World Economic Outlook, Oct 2024 (government debt and fiscal balance, % of GDP; IMF estimate years flagged) | 80 countries, 2000–2025; debt 97% filled, balance 99% | `data/raw/macro/imf_weo_fiscal.csv` |
+| IMF World Economic Outlook, Oct 2026 (government debt and fiscal balance, % of GDP; IMF estimate years flagged) | 80 countries, 2000–2025; debt 97% filled, balance 99%; 2025 actual for 69 countries | `data/raw/macro/imf_weo_fiscal.csv` |
 | S&P long-term foreign-currency sovereign ratings and outlooks, via countryeconomy.com | 71 of 80 countries; complete from 2011 | `data/raw/credit_ratings/sp_rating_history.csv`, `sp_ratings_annual.csv` |
 | FX, 10-year yields, GDELT news tone, central-bank sentiment, consensus ratings | 17 countries, monthly 2018–2024 | `data/raw/...`, `data/processed/model_ready_features.csv` |
 
@@ -42,7 +42,9 @@ python scripts/parse_weo.py data/raw/macro/<WEO file>     # IMF debt and fiscal 
 python scripts/collect_sp_ratings.py --refresh            # S&P histories (3 s between requests)
 ```
 
-The IMF also blocks scripted downloads. To update the IMF data, download the newest WEO "entire dataset" (by countries, tab-delimited) in a browser from the IMF Data portal, save it in `data/raw/macro/`, and run `parse_weo.py` on it.
+The IMF also blocks scripted downloads. To update the IMF data, download the newest WEO dataset in a browser from the [IMF Data portal](https://data.imf.org/datasets/WEO), save it in `data/raw/macro/`, and run `parse_weo.py` on it. Both the portal's CSV and the classic tab-delimited `.xls` are read.
+
+The October 2026 edition revised 350 country-years of debt by more than 2 points of GDP. The largest change is Senegal: 2023–2025 debt rose from about 81% to 121–136% of GDP, after a 2024 audit found debt that had not been reported.
 
 ## Models Implemented
 
@@ -64,35 +66,35 @@ The IMF also blocks scripted downloads. To update the IMF data, download the new
 | Model | Accuracy | Macro F1 | Accuracy on the 12 class changes |
 |---|---|---|---|
 | Persistence (same class) | **0.971** | **0.913** | 0.00 |
-| Ordered logit, fundamentals + current rating | 0.936 | 0.877 | 0.08 |
-| XGBoost, fundamentals + current rating | 0.931 | 0.778 | 0.33 |
-| XGBoost, fundamentals only | 0.838 | 0.572 | 0.50 |
-| LSTM, fundamentals + current rating | 0.845 | 0.580 | 0.33 |
+| XGBoost, fundamentals + current rating | 0.943 | 0.822 | 0.50 |
+| Ordered logit, fundamentals + current rating | 0.941 | 0.891 | 0.08 |
+| LSTM, fundamentals + current rating | 0.848 | 0.583 | 0.33 |
+| XGBoost, fundamentals only | 0.843 | 0.576 | 0.50 |
 
 **Downgrade / no change / upgrade (notch direction, 46 downgrades and 31 upgrades in test)**
 
 | Model | Macro F1 | Downgrade recall | Upgrade recall |
 |---|---|---|---|
 | Persistence (no change) | 0.300 | 0.00 | 0.00 |
-| XGBoost, fundamentals only | 0.412 | 0.17 | 0.13 |
-| XGBoost, fundamentals + current rating | **0.506** | **0.30** | **0.26** |
+| XGBoost, fundamentals only | 0.399 | 0.17 | 0.13 |
+| XGBoost, fundamentals + current rating | **0.466** | **0.30** | **0.23** |
 
 **Actual rating minus what fundamentals imply (notches, test years)**
 
 | Region | Countries | Mean residual | Clustered s.e. |
 |---|---|---|---|
-| Middle East | 6 | −2.29 | 1.16 |
-| Africa | 21 | **−1.01** | 0.36 |
-| Latin America | 13 | −0.63 | 0.69 |
-| Europe & Central Asia | 15 | −0.13 | 0.46 |
-| Asia-Pacific | 14 | +1.40 | 0.61 |
-| North America | 2 | +2.19 | 0.57 |
+| Middle East | 6 | −2.27 | 1.12 |
+| Africa | 21 | **−1.02** | 0.40 |
+| Latin America | 13 | −0.58 | 0.71 |
+| Europe & Central Asia | 15 | −0.12 | 0.45 |
+| Asia-Pacific | 14 | +1.31 | 0.62 |
+| North America | 2 | +1.61 | 0.49 |
 
 What these results say:
 
 - **No model beats persistence on the class.** Over 2020–2025, only 12 of 420 country-years changed class. A model that copies the current class is right 97% of the time, and no model beat that.
-- **The useful signal is in the direction of the next notch move.** With the current rating and outlook included, XGBoost catches about a third of downgrades and a quarter of upgrades, where persistence catches none.
-- **Africa is rated about one notch below what its fundamentals imply.** The gap is −1.0 notch, about three standard errors from zero. The Middle East is further below, but with only six countries the estimate is noisy. Asia-Pacific and North America sit above.
+- **The useful signal is in the direction of the next notch move.** With the current rating and outlook included, XGBoost catches about a third of downgrades and a fifth of upgrades, where persistence catches none.
+- **Africa is rated about one notch below what its fundamentals imply.** The gap is −1.0 notch, about 2.5 standard errors from zero. The Middle East is further below, but with only six countries the estimate is noisy. Asia-Pacific and North America sit above.
 - **This gap is not by itself evidence of agency bias.** The fundamentals model leaves out institutional strength, governance and debt-payment history, which agencies weigh explicitly. The residual is what those factors and any bias explain *together*.
 
 ## Experiment B: the 17-country monthly model
