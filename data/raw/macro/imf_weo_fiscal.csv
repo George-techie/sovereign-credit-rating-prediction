@@ -1,0 +1,2081 @@
+country,iso3,year,imf_debt_to_gdp,imf_is_estimate,imf_fiscal_balance,weo_edition
+Algeria,DZA,2000,53.406,False,8.913,WEOOct2024all
+Algeria,DZA,2001,50.003,False,3.152,WEOOct2024all
+Algeria,DZA,2002,47.312,False,0.215,WEOOct2024all
+Algeria,DZA,2003,38.224,False,7.217,WEOOct2024all
+Algeria,DZA,2004,32.69,False,6.363,WEOOct2024all
+Algeria,DZA,2005,25.366,False,11.431,WEOOct2024all
+Algeria,DZA,2006,22.473,False,12.869,WEOOct2024all
+Algeria,DZA,2007,12.794,False,4.628,WEOOct2024all
+Algeria,DZA,2008,7.637,False,7.786,WEOOct2024all
+Algeria,DZA,2009,8.922,False,-6.529,WEOOct2024all
+Algeria,DZA,2010,9.513,False,-1.347,WEOOct2024all
+Algeria,DZA,2011,8.478,False,-1.058,WEOOct2024all
+Algeria,DZA,2012,8.583,False,-4.036,WEOOct2024all
+Algeria,DZA,2013,6.478,False,-0.788,WEOOct2024all
+Algeria,DZA,2014,6.853,False,-7.145,WEOOct2024all
+Algeria,DZA,2015,7.731,False,-13.879,WEOOct2024all
+Algeria,DZA,2016,18.094,False,-11.847,WEOOct2024all
+Algeria,DZA,2017,24.015,False,-7.547,WEOOct2024all
+Algeria,DZA,2018,34.493,False,-6.154,WEOOct2024all
+Algeria,DZA,2019,40.882,False,-8.509,WEOOct2024all
+Algeria,DZA,2020,45.967,False,-10.518,WEOOct2024all
+Algeria,DZA,2021,55.134,False,-6.316,WEOOct2024all
+Algeria,DZA,2022,48.085,False,-2.963,WEOOct2024all
+Algeria,DZA,2023,48.619,False,-5.173,WEOOct2024all
+Algeria,DZA,2024,45.67,True,-9.281,WEOOct2024all
+Algeria,DZA,2025,50.391,True,-8.58,WEOOct2024all
+Angola,AGO,2000,118.243,False,2.021,WEOOct2024all
+Angola,AGO,2001,100.221,False,2.805,WEOOct2024all
+Angola,AGO,2002,65.107,False,-2.245,WEOOct2024all
+Angola,AGO,2003,50.76,False,-4.102,WEOOct2024all
+Angola,AGO,2004,41.627,False,1.032,WEOOct2024all
+Angola,AGO,2005,29.886,False,6.404,WEOOct2024all
+Angola,AGO,2006,16.726,False,8.415,WEOOct2024all
+Angola,AGO,2007,18.804,False,3.853,WEOOct2024all
+Angola,AGO,2008,28.122,False,-3.796,WEOOct2024all
+Angola,AGO,2009,48.448,False,-6.796,WEOOct2024all
+Angola,AGO,2010,32.594,False,2.977,WEOOct2024all
+Angola,AGO,2011,26.318,False,7.195,WEOOct2024all
+Angola,AGO,2012,23.805,False,3.685,WEOOct2024all
+Angola,AGO,2013,29.473,False,-0.27,WEOOct2024all
+Angola,AGO,2014,35.274,False,-5.069,WEOOct2024all
+Angola,AGO,2015,50.386,False,-2.575,WEOOct2024all
+Angola,AGO,2016,66.67,False,-3.983,WEOOct2024all
+Angola,AGO,2017,60.492,False,-5.747,WEOOct2024all
+Angola,AGO,2018,82.541,False,2.03,WEOOct2024all
+Angola,AGO,2019,101.373,False,0.693,WEOOct2024all
+Angola,AGO,2020,119.145,False,-1.659,WEOOct2024all
+Angola,AGO,2021,74.292,False,3.399,WEOOct2024all
+Angola,AGO,2022,56.108,False,0.584,WEOOct2024all
+Angola,AGO,2023,73.682,True,-1.876,WEOOct2024all
+Angola,AGO,2024,59.283,True,1.573,WEOOct2024all
+Angola,AGO,2025,52.085,True,1.259,WEOOct2024all
+Argentina,ARG,2000,40.833,False,-3.417,WEOOct2024all
+Argentina,ARG,2001,48.007,False,-5.364,WEOOct2024all
+Argentina,ARG,2002,147.203,False,-1.91,WEOOct2024all
+Argentina,ARG,2003,125.162,False,1.5,WEOOct2024all
+Argentina,ARG,2004,117.878,False,3.967,WEOOct2024all
+Argentina,ARG,2005,80.282,False,3.341,WEOOct2024all
+Argentina,ARG,2006,70.793,False,1.65,WEOOct2024all
+Argentina,ARG,2007,62.133,False,0.757,WEOOct2024all
+Argentina,ARG,2008,53.814,False,0.352,WEOOct2024all
+Argentina,ARG,2009,55.397,False,-1.83,WEOOct2024all
+Argentina,ARG,2010,43.454,False,-1.393,WEOOct2024all
+Argentina,ARG,2011,38.935,False,-2.746,WEOOct2024all
+Argentina,ARG,2012,40.436,False,-3.018,WEOOct2024all
+Argentina,ARG,2013,43.496,False,-3.254,WEOOct2024all
+Argentina,ARG,2014,44.697,False,-4.252,WEOOct2024all
+Argentina,ARG,2015,52.563,False,-6.001,WEOOct2024all
+Argentina,ARG,2016,53.06,False,-6.655,WEOOct2024all
+Argentina,ARG,2017,57.028,False,-6.693,WEOOct2024all
+Argentina,ARG,2018,85.246,False,-5.441,WEOOct2024all
+Argentina,ARG,2019,89.84,False,-4.445,WEOOct2024all
+Argentina,ARG,2020,103.816,False,-8.674,WEOOct2024all
+Argentina,ARG,2021,81.043,False,-4.333,WEOOct2024all
+Argentina,ARG,2022,84.463,False,-3.844,WEOOct2024all
+Argentina,ARG,2023,155.411,False,-5.362,WEOOct2024all
+Argentina,ARG,2024,91.473,True,-0.088,WEOOct2024all
+Argentina,ARG,2025,78.507,True,0.185,WEOOct2024all
+Australia,AUS,2000,19.494,False,1.25,WEOOct2024all
+Australia,AUS,2001,17.107,False,-0.03,WEOOct2024all
+Australia,AUS,2002,15.012,False,0.193,WEOOct2024all
+Australia,AUS,2003,13.185,False,1.051,WEOOct2024all
+Australia,AUS,2004,11.907,False,1.323,WEOOct2024all
+Australia,AUS,2005,10.859,False,1.707,WEOOct2024all
+Australia,AUS,2006,9.938,False,1.771,WEOOct2024all
+Australia,AUS,2007,9.665,False,1.474,WEOOct2024all
+Australia,AUS,2008,11.742,False,-1.101,WEOOct2024all
+Australia,AUS,2009,16.622,False,-4.563,WEOOct2024all
+Australia,AUS,2010,20.349,False,-5.115,WEOOct2024all
+Australia,AUS,2011,24.039,False,-4.526,WEOOct2024all
+Australia,AUS,2012,27.518,False,-3.508,WEOOct2024all
+Australia,AUS,2013,30.462,False,-2.81,WEOOct2024all
+Australia,AUS,2014,34.027,False,-2.917,WEOOct2024all
+Australia,AUS,2015,37.709,False,-2.785,WEOOct2024all
+Australia,AUS,2016,40.588,False,-2.422,WEOOct2024all
+Australia,AUS,2017,41.149,False,-1.716,WEOOct2024all
+Australia,AUS,2018,41.696,False,-1.257,WEOOct2024all
+Australia,AUS,2019,46.659,False,-4.404,WEOOct2024all
+Australia,AUS,2020,56.999,False,-8.719,WEOOct2024all
+Australia,AUS,2021,55.45,False,-6.353,WEOOct2024all
+Australia,AUS,2022,50.263,False,-2.187,WEOOct2024all
+Australia,AUS,2023,49.009,True,-0.857,WEOOct2024all
+Australia,AUS,2024,49.333,True,-1.661,WEOOct2024all
+Australia,AUS,2025,49.556,True,-2.043,WEOOct2024all
+Azerbaijan,AZE,2000,13.133,False,0.145,WEOOct2024all
+Azerbaijan,AZE,2001,12.954,False,21.764,WEOOct2024all
+Azerbaijan,AZE,2002,11.885,False,19.393,WEOOct2024all
+Azerbaijan,AZE,2003,10.659,False,1.605,WEOOct2024all
+Azerbaijan,AZE,2004,9.71,False,1.781,WEOOct2024all
+Azerbaijan,AZE,2005,6.855,False,2.741,WEOOct2024all
+Azerbaijan,AZE,2006,5.297,False,0.663,WEOOct2024all
+Azerbaijan,AZE,2007,4.003,False,2.337,WEOOct2024all
+Azerbaijan,AZE,2008,3.221,False,17.194,WEOOct2024all
+Azerbaijan,AZE,2009,4.726,False,5.857,WEOOct2024all
+Azerbaijan,AZE,2010,4.981,False,13.831,WEOOct2024all
+Azerbaijan,AZE,2011,4.967,False,10.86,WEOOct2024all
+Azerbaijan,AZE,2012,5.831,False,3.705,WEOOct2024all
+Azerbaijan,AZE,2013,6.179,False,1.643,WEOOct2024all
+Azerbaijan,AZE,2014,8.533,False,2.742,WEOOct2024all
+Azerbaijan,AZE,2015,17.98,False,-4.833,WEOOct2024all
+Azerbaijan,AZE,2016,20.608,False,-1.17,WEOOct2024all
+Azerbaijan,AZE,2017,22.509,False,-1.342,WEOOct2024all
+Azerbaijan,AZE,2018,18.685,False,5.429,WEOOct2024all
+Azerbaijan,AZE,2019,17.656,False,8.955,WEOOct2024all
+Azerbaijan,AZE,2020,21.327,False,-6.44,WEOOct2024all
+Azerbaijan,AZE,2021,26.349,False,4.205,WEOOct2024all
+Azerbaijan,AZE,2022,17.324,False,5.962,WEOOct2024all
+Azerbaijan,AZE,2023,21.829,True,7.928,WEOOct2024all
+Azerbaijan,AZE,2024,20.483,True,1.03,WEOOct2024all
+Azerbaijan,AZE,2025,20.308,True,0.695,WEOOct2024all
+Bahrain,BHR,2000,24.695,False,7.327,WEOOct2024all
+Bahrain,BHR,2001,25.013,False,0.695,WEOOct2024all
+Bahrain,BHR,2002,27.222,False,-3.272,WEOOct2024all
+Bahrain,BHR,2003,31.129,False,-1.703,WEOOct2024all
+Bahrain,BHR,2004,28.198,False,0.237,WEOOct2024all
+Bahrain,BHR,2005,23.207,False,2.796,WEOOct2024all
+Bahrain,BHR,2006,19.426,False,2.242,WEOOct2024all
+Bahrain,BHR,2007,15.679,False,1.521,WEOOct2024all
+Bahrain,BHR,2008,12.051,False,4.083,WEOOct2024all
+Bahrain,BHR,2009,20.492,False,-5.359,WEOOct2024all
+Bahrain,BHR,2010,28.787,False,-9.286,WEOOct2024all
+Bahrain,BHR,2011,31.554,False,-4.901,WEOOct2024all
+Bahrain,BHR,2012,34.833,False,-5.766,WEOOct2024all
+Bahrain,BHR,2013,42.27,False,-8.545,WEOOct2024all
+Bahrain,BHR,2014,42.63,False,-3.319,WEOOct2024all
+Bahrain,BHR,2015,63.18,False,-17.462,WEOOct2024all
+Bahrain,BHR,2016,77.366,False,-16.579,WEOOct2024all
+Bahrain,BHR,2017,84.029,False,-13.377,WEOOct2024all
+Bahrain,BHR,2018,90.384,False,-11.276,WEOOct2024all
+Bahrain,BHR,2019,97.129,False,-8.567,WEOOct2024all
+Bahrain,BHR,2020,125.7,False,-17.305,WEOOct2024all
+Bahrain,BHR,2021,122.3,False,-10.57,WEOOct2024all
+Bahrain,BHR,2022,111.116,False,-5.123,WEOOct2024all
+Bahrain,BHR,2023,123.32,False,-10.554,WEOOct2024all
+Bahrain,BHR,2024,126.711,True,-7.654,WEOOct2024all
+Bahrain,BHR,2025,129.76,True,-7.256,WEOOct2024all
+Bangladesh,BGD,2000,,False,-2.496,WEOOct2024all
+Bangladesh,BGD,2001,,False,-3.439,WEOOct2024all
+Bangladesh,BGD,2002,,False,-2.305,WEOOct2024all
+Bangladesh,BGD,2003,37.044,False,-1.958,WEOOct2024all
+Bangladesh,BGD,2004,36.585,False,-2.208,WEOOct2024all
+Bangladesh,BGD,2005,35.558,False,-2.398,WEOOct2024all
+Bangladesh,BGD,2006,35.332,False,-2.148,WEOOct2024all
+Bangladesh,BGD,2007,34.989,False,-1.864,WEOOct2024all
+Bangladesh,BGD,2008,33.87,False,-3.365,WEOOct2024all
+Bangladesh,BGD,2009,33.01,False,-2.68,WEOOct2024all
+Bangladesh,BGD,2010,29.623,False,-2.233,WEOOct2024all
+Bangladesh,BGD,2011,29.393,False,-2.965,WEOOct2024all
+Bangladesh,BGD,2012,29.078,False,-2.556,WEOOct2024all
+Bangladesh,BGD,2013,28.344,False,-2.857,WEOOct2024all
+Bangladesh,BGD,2014,28.683,False,-2.619,WEOOct2024all
+Bangladesh,BGD,2015,28.206,False,-3.29,WEOOct2024all
+Bangladesh,BGD,2016,27.72,False,-3.163,WEOOct2024all
+Bangladesh,BGD,2017,28.306,False,-4.167,WEOOct2024all
+Bangladesh,BGD,2018,29.553,False,-4.068,WEOOct2024all
+Bangladesh,BGD,2019,31.951,False,-5.408,WEOOct2024all
+Bangladesh,BGD,2020,34.509,False,-4.84,WEOOct2024all
+Bangladesh,BGD,2021,35.614,False,-3.555,WEOOct2024all
+Bangladesh,BGD,2022,37.863,False,-4.117,WEOOct2024all
+Bangladesh,BGD,2023,39.337,False,-4.578,WEOOct2024all
+Bangladesh,BGD,2024,38.452,True,-4.641,WEOOct2024all
+Bangladesh,BGD,2025,39.236,True,-4.199,WEOOct2024all
+Benin,BEN,2000,39.592,False,-3.692,WEOOct2024all
+Benin,BEN,2001,37.987,False,-3.269,WEOOct2024all
+Benin,BEN,2002,30.768,False,-3.33,WEOOct2024all
+Benin,BEN,2003,23.381,False,-1.072,WEOOct2024all
+Benin,BEN,2004,21.51,False,-0.705,WEOOct2024all
+Benin,BEN,2005,26.978,False,-1.523,WEOOct2024all
+Benin,BEN,2006,8.366,False,-0.147,WEOOct2024all
+Benin,BEN,2007,14.286,False,0.222,WEOOct2024all
+Benin,BEN,2008,18.307,False,-0.041,WEOOct2024all
+Benin,BEN,2009,18.748,False,-2.241,WEOOct2024all
+Benin,BEN,2010,21.0,False,-0.276,WEOOct2024all
+Benin,BEN,2011,21.86,False,-0.981,WEOOct2024all
+Benin,BEN,2012,19.54,False,-0.216,WEOOct2024all
+Benin,BEN,2013,18.504,False,-1.365,WEOOct2024all
+Benin,BEN,2014,22.282,False,-1.651,WEOOct2024all
+Benin,BEN,2015,30.9,False,-5.553,WEOOct2024all
+Benin,BEN,2016,35.923,False,-4.289,WEOOct2024all
+Benin,BEN,2017,39.598,False,-4.204,WEOOct2024all
+Benin,BEN,2018,41.08,False,-2.976,WEOOct2024all
+Benin,BEN,2019,41.23,False,-0.54,WEOOct2024all
+Benin,BEN,2020,46.142,False,-4.682,WEOOct2024all
+Benin,BEN,2021,50.288,False,-5.709,WEOOct2024all
+Benin,BEN,2022,54.187,False,-5.555,WEOOct2024all
+Benin,BEN,2023,54.537,False,-4.129,WEOOct2024all
+Benin,BEN,2024,53.975,True,-3.7,WEOOct2024all
+Benin,BEN,2025,52.564,True,-2.9,WEOOct2024all
+Bolivia,BOL,2000,74.318,False,-3.728,WEOOct2024all
+Bolivia,BOL,2001,82.977,False,-6.82,WEOOct2024all
+Bolivia,BOL,2002,86.687,False,-8.788,WEOOct2024all
+Bolivia,BOL,2003,95.645,False,-7.875,WEOOct2024all
+Bolivia,BOL,2004,89.81,False,-5.543,WEOOct2024all
+Bolivia,BOL,2005,82.158,False,-2.245,WEOOct2024all
+Bolivia,BOL,2006,54.375,False,4.47,WEOOct2024all
+Bolivia,BOL,2007,40.032,False,-1.54,WEOOct2024all
+Bolivia,BOL,2008,36.785,False,3.528,WEOOct2024all
+Bolivia,BOL,2009,39.209,False,2.63,WEOOct2024all
+Bolivia,BOL,2010,37.637,False,1.624,WEOOct2024all
+Bolivia,BOL,2011,35.327,False,0.831,WEOOct2024all
+Bolivia,BOL,2012,35.394,False,1.715,WEOOct2024all
+Bolivia,BOL,2013,36.097,False,0.595,WEOOct2024all
+Bolivia,BOL,2014,37.603,False,-3.41,WEOOct2024all
+Bolivia,BOL,2015,40.905,False,-6.935,WEOOct2024all
+Bolivia,BOL,2016,46.49,False,-7.243,WEOOct2024all
+Bolivia,BOL,2017,51.26,False,-7.855,WEOOct2024all
+Bolivia,BOL,2018,53.076,False,-8.172,WEOOct2024all
+Bolivia,BOL,2019,58.626,False,-7.249,WEOOct2024all
+Bolivia,BOL,2020,77.971,False,-12.722,WEOOct2024all
+Bolivia,BOL,2021,81.409,False,-9.329,WEOOct2024all
+Bolivia,BOL,2022,80.1,False,-7.122,WEOOct2024all
+Bolivia,BOL,2023,88.428,True,-10.949,WEOOct2024all
+Bolivia,BOL,2024,93.901,True,-10.436,WEOOct2024all
+Bolivia,BOL,2025,97.893,True,-9.721,WEOOct2024all
+Botswana,BWA,2000,8.161,False,8.73,WEOOct2024all
+Botswana,BWA,2001,7.475,False,-2.913,WEOOct2024all
+Botswana,BWA,2002,8.372,False,-3.941,WEOOct2024all
+Botswana,BWA,2003,7.077,False,-0.175,WEOOct2024all
+Botswana,BWA,2004,10.749,False,1.346,WEOOct2024all
+Botswana,BWA,2005,7.46,False,10.325,WEOOct2024all
+Botswana,BWA,2006,6.136,False,13.311,WEOOct2024all
+Botswana,BWA,2007,5.931,False,5.733,WEOOct2024all
+Botswana,BWA,2008,7.795,False,-7.614,WEOOct2024all
+Botswana,BWA,2009,18.398,False,-13.78,WEOOct2024all
+Botswana,BWA,2010,20.826,False,-7.951,WEOOct2024all
+Botswana,BWA,2011,20.926,False,-0.116,WEOOct2024all
+Botswana,BWA,2012,19.984,False,0.887,WEOOct2024all
+Botswana,BWA,2013,18.292,False,5.839,WEOOct2024all
+Botswana,BWA,2014,18.387,False,3.897,WEOOct2024all
+Botswana,BWA,2015,18.177,False,-4.821,WEOOct2024all
+Botswana,BWA,2016,16.356,False,0.714,WEOOct2024all
+Botswana,BWA,2017,14.531,False,-1.143,WEOOct2024all
+Botswana,BWA,2018,14.856,False,-5.031,WEOOct2024all
+Botswana,BWA,2019,16.472,False,-8.533,WEOOct2024all
+Botswana,BWA,2020,18.699,False,-10.863,WEOOct2024all
+Botswana,BWA,2021,18.691,False,-2.367,WEOOct2024all
+Botswana,BWA,2022,18.11,False,0.036,WEOOct2024all
+Botswana,BWA,2023,20.129,False,-4.702,WEOOct2024all
+Botswana,BWA,2024,22.609,True,-5.921,WEOOct2024all
+Botswana,BWA,2025,22.054,True,-1.69,WEOOct2024all
+Brazil,BRA,2000,62.198,False,,WEOOct2024all
+Brazil,BRA,2001,67.331,False,-3.468,WEOOct2024all
+Brazil,BRA,2002,76.095,False,-4.149,WEOOct2024all
+Brazil,BRA,2003,71.514,False,-5.401,WEOOct2024all
+Brazil,BRA,2004,68.025,False,-2.955,WEOOct2024all
+Brazil,BRA,2005,66.969,False,-3.364,WEOOct2024all
+Brazil,BRA,2006,64.599,False,-4.868,WEOOct2024all
+Brazil,BRA,2007,63.025,False,-2.66,WEOOct2024all
+Brazil,BRA,2008,61.42,False,-2.393,WEOOct2024all
+Brazil,BRA,2009,64.702,False,-4.23,WEOOct2024all
+Brazil,BRA,2010,62.433,False,-3.554,WEOOct2024all
+Brazil,BRA,2011,60.634,False,-2.741,WEOOct2024all
+Brazil,BRA,2012,61.614,False,-2.351,WEOOct2024all
+Brazil,BRA,2013,59.595,False,-3.422,WEOOct2024all
+Brazil,BRA,2014,61.617,False,-6.275,WEOOct2024all
+Brazil,BRA,2015,71.73,False,-9.281,WEOOct2024all
+Brazil,BRA,2016,77.422,False,-7.991,WEOOct2024all
+Brazil,BRA,2017,82.745,False,-7.97,WEOOct2024all
+Brazil,BRA,2018,84.777,False,-6.99,WEOOct2024all
+Brazil,BRA,2019,87.118,False,-4.859,WEOOct2024all
+Brazil,BRA,2020,96.007,False,-11.637,WEOOct2024all
+Brazil,BRA,2021,88.934,False,-2.631,WEOOct2024all
+Brazil,BRA,2022,83.939,False,-3.965,WEOOct2024all
+Brazil,BRA,2023,84.675,False,-7.647,WEOOct2024all
+Brazil,BRA,2024,87.575,True,-6.931,WEOOct2024all
+Brazil,BRA,2025,91.977,True,-7.301,WEOOct2024all
+Bulgaria,BGR,2000,73.341,False,-0.605,WEOOct2024all
+Bulgaria,BGR,2001,67.06,False,-0.58,WEOOct2024all
+Bulgaria,BGR,2002,53.404,False,-0.614,WEOOct2024all
+Bulgaria,BGR,2003,45.428,False,0.003,WEOOct2024all
+Bulgaria,BGR,2004,37.764,False,1.593,WEOOct2024all
+Bulgaria,BGR,2005,28.472,False,2.187,WEOOct2024all
+Bulgaria,BGR,2006,22.608,False,3.221,WEOOct2024all
+Bulgaria,BGR,2007,17.588,False,3.086,WEOOct2024all
+Bulgaria,BGR,2008,14.702,False,2.732,WEOOct2024all
+Bulgaria,BGR,2009,14.54,False,-0.856,WEOOct2024all
+Bulgaria,BGR,2010,14.064,False,-3.769,WEOOct2024all
+Bulgaria,BGR,2011,14.335,False,-1.834,WEOOct2024all
+Bulgaria,BGR,2012,16.545,False,-0.434,WEOOct2024all
+Bulgaria,BGR,2013,17.165,False,-1.752,WEOOct2024all
+Bulgaria,BGR,2014,26.266,False,-3.652,WEOOct2024all
+Bulgaria,BGR,2015,25.359,False,-2.775,WEOOct2024all
+Bulgaria,BGR,2016,27.007,False,1.54,WEOOct2024all
+Bulgaria,BGR,2017,22.919,False,0.823,WEOOct2024all
+Bulgaria,BGR,2018,20.075,False,0.123,WEOOct2024all
+Bulgaria,BGR,2019,18.315,False,-0.958,WEOOct2024all
+Bulgaria,BGR,2020,22.827,False,-2.931,WEOOct2024all
+Bulgaria,BGR,2021,22.462,False,-2.814,WEOOct2024all
+Bulgaria,BGR,2022,21.528,False,-0.803,WEOOct2024all
+Bulgaria,BGR,2023,22.049,False,-3.058,WEOOct2024all
+Bulgaria,BGR,2024,23.748,True,-2.93,WEOOct2024all
+Bulgaria,BGR,2025,25.377,True,-2.956,WEOOct2024all
+Burkina Faso,BFA,2000,,False,-3.028,WEOOct2024all
+Burkina Faso,BFA,2001,,False,-3.557,WEOOct2024all
+Burkina Faso,BFA,2002,43.287,False,-4.433,WEOOct2024all
+Burkina Faso,BFA,2003,39.658,False,-1.79,WEOOct2024all
+Burkina Faso,BFA,2004,40.74,False,-4.194,WEOOct2024all
+Burkina Faso,BFA,2005,39.214,False,-4.89,WEOOct2024all
+Burkina Faso,BFA,2006,20.089,False,14.346,WEOOct2024all
+Burkina Faso,BFA,2007,22.416,False,-5.015,WEOOct2024all
+Burkina Faso,BFA,2008,24.868,False,-3.627,WEOOct2024all
+Burkina Faso,BFA,2009,25.871,False,-4.16,WEOOct2024all
+Burkina Faso,BFA,2010,22.668,False,-4.058,WEOOct2024all
+Burkina Faso,BFA,2011,28.4,False,-2.039,WEOOct2024all
+Burkina Faso,BFA,2012,25.211,False,-2.763,WEOOct2024all
+Burkina Faso,BFA,2013,25.901,False,-3.548,WEOOct2024all
+Burkina Faso,BFA,2014,26.086,False,-1.737,WEOOct2024all
+Burkina Faso,BFA,2015,31.251,False,-2.09,WEOOct2024all
+Burkina Faso,BFA,2016,32.855,False,-3.082,WEOOct2024all
+Burkina Faso,BFA,2017,33.882,False,-6.919,WEOOct2024all
+Burkina Faso,BFA,2018,38.114,False,-4.434,WEOOct2024all
+Burkina Faso,BFA,2019,41.898,False,-3.4,WEOOct2024all
+Burkina Faso,BFA,2020,43.848,False,-5.184,WEOOct2024all
+Burkina Faso,BFA,2021,55.639,False,-7.47,WEOOct2024all
+Burkina Faso,BFA,2022,58.405,False,-10.749,WEOOct2024all
+Burkina Faso,BFA,2023,55.905,False,-6.855,WEOOct2024all
+Burkina Faso,BFA,2024,57.356,True,-5.69,WEOOct2024all
+Burkina Faso,BFA,2025,56.043,True,-4.708,WEOOct2024all
+Cameroon,CMR,2000,75.881,False,1.545,WEOOct2024all
+Cameroon,CMR,2001,62.182,False,0.861,WEOOct2024all
+Cameroon,CMR,2002,56.6,False,1.507,WEOOct2024all
+Cameroon,CMR,2003,51.521,False,0.56,WEOOct2024all
+Cameroon,CMR,2004,51.728,False,-0.456,WEOOct2024all
+Cameroon,CMR,2005,43.843,False,3.029,WEOOct2024all
+Cameroon,CMR,2006,18.354,False,28.214,WEOOct2024all
+Cameroon,CMR,2007,13.804,False,3.874,WEOOct2024all
+Cameroon,CMR,2008,11.153,False,2.0,WEOOct2024all
+Cameroon,CMR,2009,11.256,False,-0.041,WEOOct2024all
+Cameroon,CMR,2010,13.989,False,-0.932,WEOOct2024all
+Cameroon,CMR,2011,15.047,False,-2.258,WEOOct2024all
+Cameroon,CMR,2012,14.874,False,-1.396,WEOOct2024all
+Cameroon,CMR,2013,17.472,False,-3.555,WEOOct2024all
+Cameroon,CMR,2014,20.707,False,-4.087,WEOOct2024all
+Cameroon,CMR,2015,31.62,False,-4.246,WEOOct2024all
+Cameroon,CMR,2016,32.108,False,-5.881,WEOOct2024all
+Cameroon,CMR,2017,36.539,False,-4.725,WEOOct2024all
+Cameroon,CMR,2018,38.335,False,-2.408,WEOOct2024all
+Cameroon,CMR,2019,41.597,False,-3.244,WEOOct2024all
+Cameroon,CMR,2020,44.858,False,-3.188,WEOOct2024all
+Cameroon,CMR,2021,47.154,False,-3.008,WEOOct2024all
+Cameroon,CMR,2022,45.578,False,-1.112,WEOOct2024all
+Cameroon,CMR,2023,43.152,True,-0.634,WEOOct2024all
+Cameroon,CMR,2024,40.34,True,-0.458,WEOOct2024all
+Cameroon,CMR,2025,38.265,True,-0.775,WEOOct2024all
+Canada,CAN,2000,80.437,False,2.64,WEOOct2024all
+Canada,CAN,2001,81.462,False,0.529,WEOOct2024all
+Canada,CAN,2002,79.604,False,-0.234,WEOOct2024all
+Canada,CAN,2003,75.912,False,-0.127,WEOOct2024all
+Canada,CAN,2004,71.889,False,0.768,WEOOct2024all
+Canada,CAN,2005,70.64,False,1.553,WEOOct2024all
+Canada,CAN,2006,69.92,False,1.828,WEOOct2024all
+Canada,CAN,2007,67.181,False,1.82,WEOOct2024all
+Canada,CAN,2008,70.355,False,0.184,WEOOct2024all
+Canada,CAN,2009,81.804,False,-3.881,WEOOct2024all
+Canada,CAN,2010,83.976,False,-4.738,WEOOct2024all
+Canada,CAN,2011,84.286,False,-3.309,WEOOct2024all
+Canada,CAN,2012,87.151,False,-2.525,WEOOct2024all
+Canada,CAN,2013,87.605,False,-1.495,WEOOct2024all
+Canada,CAN,2014,85.541,False,0.175,WEOOct2024all
+Canada,CAN,2015,92.029,False,-0.062,WEOOct2024all
+Canada,CAN,2016,92.397,False,-0.453,WEOOct2024all
+Canada,CAN,2017,90.942,False,-0.112,WEOOct2024all
+Canada,CAN,2018,90.776,False,0.36,WEOOct2024all
+Canada,CAN,2019,90.21,False,-0.017,WEOOct2024all
+Canada,CAN,2020,118.2,False,-10.949,WEOOct2024all
+Canada,CAN,2021,113.483,False,-2.919,WEOOct2024all
+Canada,CAN,2022,107.368,False,0.109,WEOOct2024all
+Canada,CAN,2023,107.495,False,-0.573,WEOOct2024all
+Canada,CAN,2024,106.078,True,-1.982,WEOOct2024all
+Canada,CAN,2025,103.248,True,-1.023,WEOOct2024all
+Cape Verde,CPV,2000,71.943,False,-15.532,WEOOct2024all
+Cape Verde,CPV,2001,62.158,False,-5.029,WEOOct2024all
+Cape Verde,CPV,2002,64.658,False,-6.139,WEOOct2024all
+Cape Verde,CPV,2003,65.582,False,-3.627,WEOOct2024all
+Cape Verde,CPV,2004,67.847,False,-2.979,WEOOct2024all
+Cape Verde,CPV,2005,66.713,False,-4.693,WEOOct2024all
+Cape Verde,CPV,2006,66.203,False,-4.316,WEOOct2024all
+Cape Verde,CPV,2007,59.601,False,-0.863,WEOOct2024all
+Cape Verde,CPV,2008,57.493,False,-1.415,WEOOct2024all
+Cape Verde,CPV,2009,58.788,False,-5.32,WEOOct2024all
+Cape Verde,CPV,2010,73.515,False,-9.597,WEOOct2024all
+Cape Verde,CPV,2011,71.56,False,-6.976,WEOOct2024all
+Cape Verde,CPV,2012,82.937,False,-9.364,WEOOct2024all
+Cape Verde,CPV,2013,93.476,False,-8.49,WEOOct2024all
+Cape Verde,CPV,2014,105.589,False,-6.934,WEOOct2024all
+Cape Verde,CPV,2015,115.571,False,-4.157,WEOOct2024all
+Cape Verde,CPV,2016,115.403,False,-2.728,WEOOct2024all
+Cape Verde,CPV,2017,112.759,False,-2.635,WEOOct2024all
+Cape Verde,CPV,2018,112.001,False,-2.364,WEOOct2024all
+Cape Verde,CPV,2019,109.419,False,-1.617,WEOOct2024all
+Cape Verde,CPV,2020,143.783,False,-9.287,WEOOct2024all
+Cape Verde,CPV,2021,149.063,False,-7.512,WEOOct2024all
+Cape Verde,CPV,2022,124.026,False,-4.146,WEOOct2024all
+Cape Verde,CPV,2023,114.039,True,-0.268,WEOOct2024all
+Cape Verde,CPV,2024,111.006,True,-2.882,WEOOct2024all
+Cape Verde,CPV,2025,107.21,True,-2.126,WEOOct2024all
+Chile,CHL,2000,13.146,False,-0.693,WEOOct2024all
+Chile,CHL,2001,14.348,False,-0.495,WEOOct2024all
+Chile,CHL,2002,15.045,False,-1.171,WEOOct2024all
+Chile,CHL,2003,12.573,False,-0.416,WEOOct2024all
+Chile,CHL,2004,10.314,False,2.051,WEOOct2024all
+Chile,CHL,2005,7.04,False,4.568,WEOOct2024all
+Chile,CHL,2006,5.022,False,7.509,WEOOct2024all
+Chile,CHL,2007,3.901,False,7.955,WEOOct2024all
+Chile,CHL,2008,4.916,False,3.93,WEOOct2024all
+Chile,CHL,2009,5.845,False,-4.259,WEOOct2024all
+Chile,CHL,2010,8.607,False,-0.363,WEOOct2024all
+Chile,CHL,2011,11.127,False,1.427,WEOOct2024all
+Chile,CHL,2012,11.939,False,0.682,WEOOct2024all
+Chile,CHL,2013,12.784,False,-0.47,WEOOct2024all
+Chile,CHL,2014,15.02,False,-1.496,WEOOct2024all
+Chile,CHL,2015,17.375,False,-2.089,WEOOct2024all
+Chile,CHL,2016,21.101,False,-2.661,WEOOct2024all
+Chile,CHL,2017,23.652,False,-2.628,WEOOct2024all
+Chile,CHL,2018,25.798,False,-1.482,WEOOct2024all
+Chile,CHL,2019,28.33,False,-2.731,WEOOct2024all
+Chile,CHL,2020,32.38,False,-7.095,WEOOct2024all
+Chile,CHL,2021,36.426,False,-7.521,WEOOct2024all
+Chile,CHL,2022,37.796,False,1.356,WEOOct2024all
+Chile,CHL,2023,39.413,False,-2.273,WEOOct2024all
+Chile,CHL,2024,41.0,True,-2.323,WEOOct2024all
+Chile,CHL,2025,41.635,True,-1.429,WEOOct2024all
+China,CHN,2000,22.987,False,-2.846,WEOOct2024all
+China,CHN,2001,24.575,False,-2.596,WEOOct2024all
+China,CHN,2002,25.916,False,-2.884,WEOOct2024all
+China,CHN,2003,26.8,False,-2.394,WEOOct2024all
+China,CHN,2004,26.393,False,-1.512,WEOOct2024all
+China,CHN,2005,26.312,False,-1.401,WEOOct2024all
+China,CHN,2006,25.568,False,-1.144,WEOOct2024all
+China,CHN,2007,29.164,False,0.059,WEOOct2024all
+China,CHN,2008,27.159,False,-0.025,WEOOct2024all
+China,CHN,2009,34.567,False,-1.751,WEOOct2024all
+China,CHN,2010,33.924,False,-0.362,WEOOct2024all
+China,CHN,2011,33.772,False,-0.098,WEOOct2024all
+China,CHN,2012,34.393,False,-0.302,WEOOct2024all
+China,CHN,2013,37.035,False,-0.836,WEOOct2024all
+China,CHN,2014,39.969,False,-0.683,WEOOct2024all
+China,CHN,2015,41.489,False,-2.544,WEOOct2024all
+China,CHN,2016,50.701,False,-3.392,WEOOct2024all
+China,CHN,2017,54.951,False,-3.403,WEOOct2024all
+China,CHN,2018,56.659,False,-4.283,WEOOct2024all
+China,CHN,2019,60.404,False,-6.102,WEOOct2024all
+China,CHN,2020,70.155,False,-9.718,WEOOct2024all
+China,CHN,2021,71.852,False,-6.045,WEOOct2024all
+China,CHN,2022,77.393,False,-7.507,WEOOct2024all
+China,CHN,2023,84.381,False,-6.945,WEOOct2024all
+China,CHN,2024,90.119,True,-7.432,WEOOct2024all
+China,CHN,2025,93.845,True,-7.557,WEOOct2024all
+Colombia,COL,2000,37.988,False,-2.937,WEOOct2024all
+Colombia,COL,2001,41.095,False,-2.709,WEOOct2024all
+Colombia,COL,2002,47.545,False,-3.452,WEOOct2024all
+Colombia,COL,2003,45.04,False,-2.702,WEOOct2024all
+Colombia,COL,2004,41.482,False,-1.311,WEOOct2024all
+Colombia,COL,2005,38.532,False,-0.021,WEOOct2024all
+Colombia,COL,2006,35.969,False,-0.993,WEOOct2024all
+Colombia,COL,2007,32.663,False,-0.82,WEOOct2024all
+Colombia,COL,2008,32.382,False,0.042,WEOOct2024all
+Colombia,COL,2009,35.387,False,-2.674,WEOOct2024all
+Colombia,COL,2010,36.497,False,-3.303,WEOOct2024all
+Colombia,COL,2011,35.783,False,-1.993,WEOOct2024all
+Colombia,COL,2012,33.967,False,0.155,WEOOct2024all
+Colombia,COL,2013,37.592,False,-1.021,WEOOct2024all
+Colombia,COL,2014,43.319,False,-1.744,WEOOct2024all
+Colombia,COL,2015,50.419,False,-3.52,WEOOct2024all
+Colombia,COL,2016,49.796,False,-2.274,WEOOct2024all
+Colombia,COL,2017,49.436,False,-2.496,WEOOct2024all
+Colombia,COL,2018,53.584,False,-4.668,WEOOct2024all
+Colombia,COL,2019,52.401,False,-3.482,WEOOct2024all
+Colombia,COL,2020,65.674,False,-6.954,WEOOct2024all
+Colombia,COL,2021,64.039,False,-7.085,WEOOct2024all
+Colombia,COL,2022,60.055,False,-6.17,WEOOct2024all
+Colombia,COL,2023,54.317,False,-2.724,WEOOct2024all
+Colombia,COL,2024,55.792,True,-4.393,WEOOct2024all
+Colombia,COL,2025,56.06,True,-3.768,WEOOct2024all
+Costa Rica,CRI,2000,38.85,False,-3.684,WEOOct2024all
+Costa Rica,CRI,2001,39.644,False,-3.471,WEOOct2024all
+Costa Rica,CRI,2002,41.438,False,-4.992,WEOOct2024all
+Costa Rica,CRI,2003,40.566,False,-3.432,WEOOct2024all
+Costa Rica,CRI,2004,41.002,False,-3.415,WEOOct2024all
+Costa Rica,CRI,2005,37.321,False,-2.091,WEOOct2024all
+Costa Rica,CRI,2006,33.037,False,-1.043,WEOOct2024all
+Costa Rica,CRI,2007,26.975,False,0.558,WEOOct2024all
+Costa Rica,CRI,2008,24.007,False,0.182,WEOOct2024all
+Costa Rica,CRI,2009,26.026,False,-3.251,WEOOct2024all
+Costa Rica,CRI,2010,28.09,False,-4.956,WEOOct2024all
+Costa Rica,CRI,2011,29.513,False,-3.91,WEOOct2024all
+Costa Rica,CRI,2012,33.741,False,-4.215,WEOOct2024all
+Costa Rica,CRI,2013,35.076,False,-5.246,WEOOct2024all
+Costa Rica,CRI,2014,37.436,False,-5.454,WEOOct2024all
+Costa Rica,CRI,2015,39.786,False,-5.522,WEOOct2024all
+Costa Rica,CRI,2016,44.056,False,-5.094,WEOOct2024all
+Costa Rica,CRI,2017,47.064,False,-5.879,WEOOct2024all
+Costa Rica,CRI,2018,51.839,False,-5.66,WEOOct2024all
+Costa Rica,CRI,2019,56.431,False,-6.684,WEOOct2024all
+Costa Rica,CRI,2020,66.912,False,-8.38,WEOOct2024all
+Costa Rica,CRI,2021,67.628,False,-5.086,WEOOct2024all
+Costa Rica,CRI,2022,62.985,False,-2.805,WEOOct2024all
+Costa Rica,CRI,2023,61.119,False,-3.17,WEOOct2024all
+Costa Rica,CRI,2024,61.245,True,-3.71,WEOOct2024all
+Costa Rica,CRI,2025,60.863,True,-3.119,WEOOct2024all
+Czech Republic,CZE,2000,16.895,False,-3.556,WEOOct2024all
+Czech Republic,CZE,2001,22.597,False,-5.732,WEOOct2024all
+Czech Republic,CZE,2002,25.703,False,-6.32,WEOOct2024all
+Czech Republic,CZE,2003,28.062,False,-6.834,WEOOct2024all
+Czech Republic,CZE,2004,28.289,False,-2.363,WEOOct2024all
+Czech Republic,CZE,2005,27.678,False,-3.024,WEOOct2024all
+Czech Republic,CZE,2006,27.565,False,-2.151,WEOOct2024all
+Czech Republic,CZE,2007,27.346,False,-0.645,WEOOct2024all
+Czech Republic,CZE,2008,28.155,False,-1.967,WEOOct2024all
+Czech Republic,CZE,2009,33.43,False,-5.423,WEOOct2024all
+Czech Republic,CZE,2010,36.7,False,-4.111,WEOOct2024all
+Czech Republic,CZE,2011,39.402,False,-2.679,WEOOct2024all
+Czech Republic,CZE,2012,43.835,False,-3.869,WEOOct2024all
+Czech Republic,CZE,2013,44.141,False,-1.276,WEOOct2024all
+Czech Republic,CZE,2014,41.546,False,-2.06,WEOOct2024all
+Czech Republic,CZE,2015,39.469,False,-0.64,WEOOct2024all
+Czech Republic,CZE,2016,36.232,False,0.705,WEOOct2024all
+Czech Republic,CZE,2017,33.782,False,1.482,WEOOct2024all
+Czech Republic,CZE,2018,31.678,False,0.882,WEOOct2024all
+Czech Republic,CZE,2019,29.552,False,0.284,WEOOct2024all
+Czech Republic,CZE,2020,36.886,False,-5.649,WEOOct2024all
+Czech Republic,CZE,2021,40.692,False,-4.952,WEOOct2024all
+Czech Republic,CZE,2022,42.52,False,-3.055,WEOOct2024all
+Czech Republic,CZE,2023,42.375,False,-3.828,WEOOct2024all
+Czech Republic,CZE,2024,43.508,True,-2.872,WEOOct2024all
+Czech Republic,CZE,2025,43.782,True,-2.305,WEOOct2024all
+Democratic Republic of Congo,COD,2000,134.982,False,-1.853,WEOOct2024all
+Democratic Republic of Congo,COD,2001,181.617,False,-1.273,WEOOct2024all
+Democratic Republic of Congo,COD,2002,136.042,False,0.719,WEOOct2024all
+Democratic Republic of Congo,COD,2003,114.464,False,-4.242,WEOOct2024all
+Democratic Republic of Congo,COD,2004,141.759,False,-1.093,WEOOct2024all
+Democratic Republic of Congo,COD,2005,96.28,False,0.607,WEOOct2024all
+Democratic Republic of Congo,COD,2006,96.303,False,0.985,WEOOct2024all
+Democratic Republic of Congo,COD,2007,76.634,False,0.41,WEOOct2024all
+Democratic Republic of Congo,COD,2008,75.761,False,-0.412,WEOOct2024all
+Democratic Republic of Congo,COD,2009,90.617,False,0.918,WEOOct2024all
+Democratic Republic of Congo,COD,2010,29.479,False,-0.966,WEOOct2024all
+Democratic Republic of Congo,COD,2011,24.44,False,-0.964,WEOOct2024all
+Democratic Republic of Congo,COD,2012,21.26,False,1.708,WEOOct2024all
+Democratic Republic of Congo,COD,2013,17.907,False,1.756,WEOOct2024all
+Democratic Republic of Congo,COD,2014,15.732,False,4.36,WEOOct2024all
+Democratic Republic of Congo,COD,2015,16.047,False,0.657,WEOOct2024all
+Democratic Republic of Congo,COD,2016,18.792,False,-0.476,WEOOct2024all
+Democratic Republic of Congo,COD,2017,18.47,False,0.73,WEOOct2024all
+Democratic Republic of Congo,COD,2018,14.778,False,-0.784,WEOOct2024all
+Democratic Republic of Congo,COD,2019,14.847,False,-2.48,WEOOct2024all
+Democratic Republic of Congo,COD,2020,16.245,False,-3.127,WEOOct2024all
+Democratic Republic of Congo,COD,2021,15.864,False,-1.595,WEOOct2024all
+Democratic Republic of Congo,COD,2022,14.349,False,-0.508,WEOOct2024all
+Democratic Republic of Congo,COD,2023,14.367,True,-1.716,WEOOct2024all
+Democratic Republic of Congo,COD,2024,11.545,True,-2.02,WEOOct2024all
+Democratic Republic of Congo,COD,2025,5.951,True,-1.199,WEOOct2024all
+Ecuador,ECU,2000,,False,-0.32,WEOOct2024all
+Ecuador,ECU,2001,63.803,False,0.033,WEOOct2024all
+Ecuador,ECU,2002,55.043,False,0.738,WEOOct2024all
+Ecuador,ECU,2003,47.198,False,1.045,WEOOct2024all
+Ecuador,ECU,2004,40.2,False,1.942,WEOOct2024all
+Ecuador,ECU,2005,35.758,False,0.661,WEOOct2024all
+Ecuador,ECU,2006,33.094,False,2.921,WEOOct2024all
+Ecuador,ECU,2007,29.648,False,2.658,WEOOct2024all
+Ecuador,ECU,2008,24.873,False,0.568,WEOOct2024all
+Ecuador,ECU,2009,19.667,False,-3.714,WEOOct2024all
+Ecuador,ECU,2010,18.436,False,-1.385,WEOOct2024all
+Ecuador,ECU,2011,18.607,False,-0.127,WEOOct2024all
+Ecuador,ECU,2012,19.341,False,-2.835,WEOOct2024all
+Ecuador,ECU,2013,23.426,False,-8.165,WEOOct2024all
+Ecuador,ECU,2014,28.163,False,-8.106,WEOOct2024all
+Ecuador,ECU,2015,36.438,False,-6.866,WEOOct2024all
+Ecuador,ECU,2016,46.066,False,-10.292,WEOOct2024all
+Ecuador,ECU,2017,47.391,False,-5.772,WEOOct2024all
+Ecuador,ECU,2018,49.505,False,-2.803,WEOOct2024all
+Ecuador,ECU,2019,52.064,False,-3.468,WEOOct2024all
+Ecuador,ECU,2020,63.551,False,-7.376,WEOOct2024all
+Ecuador,ECU,2021,61.609,False,-1.584,WEOOct2024all
+Ecuador,ECU,2022,56.98,False,0.045,WEOOct2024all
+Ecuador,ECU,2023,55.348,False,-3.553,WEOOct2024all
+Ecuador,ECU,2024,56.48,True,-1.996,WEOOct2024all
+Ecuador,ECU,2025,56.508,True,-1.114,WEOOct2024all
+Egypt,EGY,2000,71.687,False,1.32,WEOOct2024all
+Egypt,EGY,2001,79.146,False,-1.07,WEOOct2024all
+Egypt,EGY,2002,85.776,False,-6.768,WEOOct2024all
+Egypt,EGY,2003,97.095,False,-5.729,WEOOct2024all
+Egypt,EGY,2004,96.512,False,-5.762,WEOOct2024all
+Egypt,EGY,2005,98.263,False,-6.687,WEOOct2024all
+Egypt,EGY,2006,85.924,False,-7.355,WEOOct2024all
+Egypt,EGY,2007,76.268,False,-4.899,WEOOct2024all
+Egypt,EGY,2008,66.761,False,-6.049,WEOOct2024all
+Egypt,EGY,2009,69.45,False,-6.195,WEOOct2024all
+Egypt,EGY,2010,69.59,False,-7.447,WEOOct2024all
+Egypt,EGY,2011,72.83,False,-9.6,WEOOct2024all
+Egypt,EGY,2012,69.862,False,-9.471,WEOOct2024all
+Egypt,EGY,2013,79.812,False,-12.279,WEOOct2024all
+Egypt,EGY,2014,80.874,False,-10.723,WEOOct2024all
+Egypt,EGY,2015,83.754,False,-10.37,WEOOct2024all
+Egypt,EGY,2016,91.586,False,-11.796,WEOOct2024all
+Egypt,EGY,2017,97.8,False,-9.898,WEOOct2024all
+Egypt,EGY,2018,87.949,False,-8.975,WEOOct2024all
+Egypt,EGY,2019,80.092,False,-7.595,WEOOct2024all
+Egypt,EGY,2020,86.222,False,-7.469,WEOOct2024all
+Egypt,EGY,2021,89.903,False,-6.955,WEOOct2024all
+Egypt,EGY,2022,88.534,False,-5.779,WEOOct2024all
+Egypt,EGY,2023,95.93,False,-5.768,WEOOct2024all
+Egypt,EGY,2024,90.857,True,-10.142,WEOOct2024all
+Egypt,EGY,2025,84.542,True,-10.065,WEOOct2024all
+Ethiopia,ETH,2000,93.633,False,-8.88,WEOOct2024all
+Ethiopia,ETH,2001,97.325,False,-3.76,WEOOct2024all
+Ethiopia,ETH,2002,107.363,False,-5.764,WEOOct2024all
+Ethiopia,ETH,2003,103.691,False,-5.592,WEOOct2024all
+Ethiopia,ETH,2004,103.104,False,-2.651,WEOOct2024all
+Ethiopia,ETH,2005,78.239,False,-4.122,WEOOct2024all
+Ethiopia,ETH,2006,78.062,False,-3.788,WEOOct2024all
+Ethiopia,ETH,2007,43.042,False,-3.567,WEOOct2024all
+Ethiopia,ETH,2008,41.798,False,-2.882,WEOOct2024all
+Ethiopia,ETH,2009,29.96,False,-0.932,WEOOct2024all
+Ethiopia,ETH,2010,39.436,False,-1.321,WEOOct2024all
+Ethiopia,ETH,2011,44.565,False,-1.607,WEOOct2024all
+Ethiopia,ETH,2012,39.358,False,-1.172,WEOOct2024all
+Ethiopia,ETH,2013,44.104,False,-1.931,WEOOct2024all
+Ethiopia,ETH,2014,44.152,False,-2.582,WEOOct2024all
+Ethiopia,ETH,2015,50.743,False,-1.947,WEOOct2024all
+Ethiopia,ETH,2016,51.803,False,-2.3,WEOOct2024all
+Ethiopia,ETH,2017,55.278,False,-3.243,WEOOct2024all
+Ethiopia,ETH,2018,58.449,False,-3.029,WEOOct2024all
+Ethiopia,ETH,2019,54.699,False,-2.533,WEOOct2024all
+Ethiopia,ETH,2020,53.697,False,-2.764,WEOOct2024all
+Ethiopia,ETH,2021,53.767,False,-2.767,WEOOct2024all
+Ethiopia,ETH,2022,46.923,False,-4.158,WEOOct2024all
+Ethiopia,ETH,2023,38.741,False,-2.599,WEOOct2024all
+Ethiopia,ETH,2024,33.556,True,-1.7,WEOOct2024all
+Ethiopia,ETH,2025,41.788,True,-1.7,WEOOct2024all
+France,FRA,2000,59.083,False,-1.316,WEOOct2024all
+France,FRA,2001,58.651,False,-1.416,WEOOct2024all
+France,FRA,2002,60.621,False,-3.175,WEOOct2024all
+France,FRA,2003,64.747,False,-4.095,WEOOct2024all
+France,FRA,2004,66.246,False,-3.555,WEOOct2024all
+France,FRA,2005,67.529,False,-3.505,WEOOct2024all
+France,FRA,2006,64.685,False,-2.656,WEOOct2024all
+France,FRA,2007,64.653,False,-2.99,WEOOct2024all
+France,FRA,2008,68.859,False,-3.501,WEOOct2024all
+France,FRA,2009,83.065,False,-7.383,WEOOct2024all
+France,FRA,2010,85.222,False,-7.159,WEOOct2024all
+France,FRA,2011,87.676,False,-5.299,WEOOct2024all
+France,FRA,2012,90.625,False,-5.169,WEOOct2024all
+France,FRA,2013,93.272,False,-4.936,WEOOct2024all
+France,FRA,2014,94.715,False,-4.571,WEOOct2024all
+France,FRA,2015,95.453,False,-3.887,WEOOct2024all
+France,FRA,2016,98.059,False,-3.763,WEOOct2024all
+France,FRA,2017,98.369,False,-3.365,WEOOct2024all
+France,FRA,2018,98.112,False,-2.322,WEOOct2024all
+France,FRA,2019,97.644,False,-2.392,WEOOct2024all
+France,FRA,2020,114.628,False,-8.93,WEOOct2024all
+France,FRA,2021,112.583,False,-6.584,WEOOct2024all
+France,FRA,2022,111.093,False,-4.735,WEOOct2024all
+France,FRA,2023,109.876,False,-5.455,WEOOct2024all
+France,FRA,2024,112.32,True,-5.963,WEOOct2024all
+France,FRA,2025,115.276,True,-5.917,WEOOct2024all
+Georgia,GEO,2000,58.516,False,-1.921,WEOOct2024all
+Georgia,GEO,2001,52.984,False,-0.707,WEOOct2024all
+Georgia,GEO,2002,50.264,False,-0.186,WEOOct2024all
+Georgia,GEO,2003,54.552,False,-0.548,WEOOct2024all
+Georgia,GEO,2004,44.277,False,3.592,WEOOct2024all
+Georgia,GEO,2005,35.322,False,2.145,WEOOct2024all
+Georgia,GEO,2006,28.279,False,3.284,WEOOct2024all
+Georgia,GEO,2007,22.536,False,0.809,WEOOct2024all
+Georgia,GEO,2008,26.346,False,-1.922,WEOOct2024all
+Georgia,GEO,2009,33.649,False,-6.365,WEOOct2024all
+Georgia,GEO,2010,31.448,False,-4.477,WEOOct2024all
+Georgia,GEO,2011,27.687,False,-0.808,WEOOct2024all
+Georgia,GEO,2012,28.123,False,-0.71,WEOOct2024all
+Georgia,GEO,2013,28.942,False,-1.248,WEOOct2024all
+Georgia,GEO,2014,30.335,False,-1.779,WEOOct2024all
+Georgia,GEO,2015,36.015,False,-1.163,WEOOct2024all
+Georgia,GEO,2016,39.465,False,-1.49,WEOOct2024all
+Georgia,GEO,2017,38.894,False,-0.452,WEOOct2024all
+Georgia,GEO,2018,38.221,False,-0.803,WEOOct2024all
+Georgia,GEO,2019,40.049,False,-1.825,WEOOct2024all
+Georgia,GEO,2020,59.559,False,-9.158,WEOOct2024all
+Georgia,GEO,2021,49.094,False,-5.972,WEOOct2024all
+Georgia,GEO,2022,39.169,False,-2.56,WEOOct2024all
+Georgia,GEO,2023,39.232,False,-2.347,WEOOct2024all
+Georgia,GEO,2024,38.167,True,-2.503,WEOOct2024all
+Georgia,GEO,2025,37.377,True,-2.019,WEOOct2024all
+Germany,DEU,2000,58.767,False,-1.714,WEOOct2024all
+Germany,DEU,2001,57.584,False,-3.125,WEOOct2024all
+Germany,DEU,2002,59.265,False,-4.086,WEOOct2024all
+Germany,DEU,2003,62.709,False,-3.83,WEOOct2024all
+Germany,DEU,2004,64.333,False,-3.421,WEOOct2024all
+Germany,DEU,2005,66.46,False,-3.371,WEOOct2024all
+Germany,DEU,2006,65.754,False,-1.755,WEOOct2024all
+Germany,DEU,2007,63.081,False,0.155,WEOOct2024all
+Germany,DEU,2008,64.586,False,-0.263,WEOOct2024all
+Germany,DEU,2009,71.716,False,-3.175,WEOOct2024all
+Germany,DEU,2010,80.376,False,-4.42,WEOOct2024all
+Germany,DEU,2011,77.849,False,-0.84,WEOOct2024all
+Germany,DEU,2012,79.157,False,-0.054,WEOOct2024all
+Germany,DEU,2013,76.795,False,0.122,WEOOct2024all
+Germany,DEU,2014,73.823,False,0.731,WEOOct2024all
+Germany,DEU,2015,70.56,False,0.915,WEOOct2024all
+Germany,DEU,2016,67.631,False,1.134,WEOOct2024all
+Germany,DEU,2017,63.952,False,1.338,WEOOct2024all
+Germany,DEU,2018,60.729,False,1.885,WEOOct2024all
+Germany,DEU,2019,58.556,False,1.328,WEOOct2024all
+Germany,DEU,2020,67.858,False,-4.381,WEOOct2024all
+Germany,DEU,2021,67.879,False,-3.167,WEOOct2024all
+Germany,DEU,2022,64.789,False,-2.147,WEOOct2024all
+Germany,DEU,2023,62.66,False,-2.569,WEOOct2024all
+Germany,DEU,2024,62.679,True,-2.003,WEOOct2024all
+Germany,DEU,2025,62.098,True,-1.683,WEOOct2024all
+Ghana,GHA,2000,80.17,False,-4.285,WEOOct2024all
+Ghana,GHA,2001,61.919,False,-3.898,WEOOct2024all
+Ghana,GHA,2002,57.96,False,-2.922,WEOOct2024all
+Ghana,GHA,2003,52.847,False,-2.137,WEOOct2024all
+Ghana,GHA,2004,41.107,False,-2.169,WEOOct2024all
+Ghana,GHA,2005,33.993,False,-2.01,WEOOct2024all
+Ghana,GHA,2006,18.509,False,-3.327,WEOOct2024all
+Ghana,GHA,2007,22.549,False,-5.262,WEOOct2024all
+Ghana,GHA,2008,24.644,False,-5.906,WEOOct2024all
+Ghana,GHA,2009,26.792,False,-5.324,WEOOct2024all
+Ghana,GHA,2010,34.507,False,-7.471,WEOOct2024all
+Ghana,GHA,2011,31.264,False,-5.473,WEOOct2024all
+Ghana,GHA,2012,35.351,False,-8.328,WEOOct2024all
+Ghana,GHA,2013,42.93,False,-9.117,WEOOct2024all
+Ghana,GHA,2014,50.111,False,-7.812,WEOOct2024all
+Ghana,GHA,2015,53.896,False,-4.007,WEOOct2024all
+Ghana,GHA,2016,55.942,False,-6.746,WEOOct2024all
+Ghana,GHA,2017,56.984,False,-3.966,WEOOct2024all
+Ghana,GHA,2018,61.976,False,-6.791,WEOOct2024all
+Ghana,GHA,2019,58.347,False,-7.519,WEOOct2024all
+Ghana,GHA,2020,72.337,False,-17.443,WEOOct2024all
+Ghana,GHA,2021,79.159,False,-12.03,WEOOct2024all
+Ghana,GHA,2022,92.687,False,-11.76,WEOOct2024all
+Ghana,GHA,2023,82.936,False,-3.55,WEOOct2024all
+Ghana,GHA,2024,82.515,True,-4.721,WEOOct2024all
+Ghana,GHA,2025,79.515,True,-3.735,WEOOct2024all
+Hungary,HUN,2000,55.705,False,-3.041,WEOOct2024all
+Hungary,HUN,2001,52.253,False,-3.999,WEOOct2024all
+Hungary,HUN,2002,55.579,False,-8.798,WEOOct2024all
+Hungary,HUN,2003,58.11,False,-7.183,WEOOct2024all
+Hungary,HUN,2004,58.847,False,-6.591,WEOOct2024all
+Hungary,HUN,2005,60.518,False,-7.779,WEOOct2024all
+Hungary,HUN,2006,64.427,False,-9.26,WEOOct2024all
+Hungary,HUN,2007,65.55,False,-5.083,WEOOct2024all
+Hungary,HUN,2008,71.757,False,-3.783,WEOOct2024all
+Hungary,HUN,2009,78.032,False,-4.75,WEOOct2024all
+Hungary,HUN,2010,80.007,False,-4.427,WEOOct2024all
+Hungary,HUN,2011,80.338,False,-5.211,WEOOct2024all
+Hungary,HUN,2012,78.155,False,-2.324,WEOOct2024all
+Hungary,HUN,2013,77.198,False,-2.597,WEOOct2024all
+Hungary,HUN,2014,76.542,False,-2.775,WEOOct2024all
+Hungary,HUN,2015,75.76,False,-2.004,WEOOct2024all
+Hungary,HUN,2016,74.85,False,-1.797,WEOOct2024all
+Hungary,HUN,2017,72.114,False,-2.459,WEOOct2024all
+Hungary,HUN,2018,69.079,False,-2.057,WEOOct2024all
+Hungary,HUN,2019,65.333,False,-2.047,WEOOct2024all
+Hungary,HUN,2020,79.254,False,-7.56,WEOOct2024all
+Hungary,HUN,2021,76.689,False,-7.155,WEOOct2024all
+Hungary,HUN,2022,74.065,False,-6.228,WEOOct2024all
+Hungary,HUN,2023,73.453,False,-6.692,WEOOct2024all
+Hungary,HUN,2024,73.494,True,-4.952,WEOOct2024all
+Hungary,HUN,2025,73.576,True,-4.596,WEOOct2024all
+India,IND,2000,74.941,False,-8.409,WEOOct2024all
+India,IND,2001,80.11,False,-11.033,WEOOct2024all
+India,IND,2002,84.304,False,-11.072,WEOOct2024all
+India,IND,2003,85.883,False,-11.428,WEOOct2024all
+India,IND,2004,84.89,False,-9.221,WEOOct2024all
+India,IND,2005,82.378,False,-7.493,WEOOct2024all
+India,IND,2006,77.941,False,-6.38,WEOOct2024all
+India,IND,2007,75.455,False,-4.586,WEOOct2024all
+India,IND,2008,74.368,False,-9.171,WEOOct2024all
+India,IND,2009,72.77,False,-9.701,WEOOct2024all
+India,IND,2010,67.702,False,-8.795,WEOOct2024all
+India,IND,2011,68.648,False,-8.349,WEOOct2024all
+India,IND,2012,67.985,False,-7.55,WEOOct2024all
+India,IND,2013,67.713,False,-7.0,WEOOct2024all
+India,IND,2014,67.102,False,-7.071,WEOOct2024all
+India,IND,2015,69.049,False,-7.205,WEOOct2024all
+India,IND,2016,68.943,False,-7.12,WEOOct2024all
+India,IND,2017,69.669,False,-6.227,WEOOct2024all
+India,IND,2018,70.392,False,-6.376,WEOOct2024all
+India,IND,2019,75.04,False,-7.694,WEOOct2024all
+India,IND,2020,88.427,False,-12.864,WEOOct2024all
+India,IND,2021,83.487,False,-9.268,WEOOct2024all
+India,IND,2022,81.683,False,-9.195,WEOOct2024all
+India,IND,2023,83.02,False,-8.32,WEOOct2024all
+India,IND,2024,83.064,True,-7.782,WEOOct2024all
+India,IND,2025,82.616,True,-7.562,WEOOct2024all
+Indonesia,IDN,2000,87.437,False,-1.87,WEOOct2024all
+Indonesia,IDN,2001,73.702,False,-1.763,WEOOct2024all
+Indonesia,IDN,2002,62.339,False,-0.576,WEOOct2024all
+Indonesia,IDN,2003,55.643,False,-1.077,WEOOct2024all
+Indonesia,IDN,2004,51.328,False,-0.26,WEOOct2024all
+Indonesia,IDN,2005,42.612,False,0.462,WEOOct2024all
+Indonesia,IDN,2006,35.848,False,0.451,WEOOct2024all
+Indonesia,IDN,2007,38.121,False,-0.953,WEOOct2024all
+Indonesia,IDN,2008,30.252,False,0.054,WEOOct2024all
+Indonesia,IDN,2009,26.483,False,-1.644,WEOOct2024all
+Indonesia,IDN,2010,26.363,False,-1.242,WEOOct2024all
+Indonesia,IDN,2011,23.106,False,-0.704,WEOOct2024all
+Indonesia,IDN,2012,22.955,False,-1.586,WEOOct2024all
+Indonesia,IDN,2013,24.884,False,-2.217,WEOOct2024all
+Indonesia,IDN,2014,24.645,False,-1.805,WEOOct2024all
+Indonesia,IDN,2015,27.013,False,-2.724,WEOOct2024all
+Indonesia,IDN,2016,27.955,False,-2.561,WEOOct2024all
+Indonesia,IDN,2017,29.396,False,-2.264,WEOOct2024all
+Indonesia,IDN,2018,30.423,False,-1.69,WEOOct2024all
+Indonesia,IDN,2019,30.563,False,-2.091,WEOOct2024all
+Indonesia,IDN,2020,39.747,False,-6.075,WEOOct2024all
+Indonesia,IDN,2021,41.14,False,-4.405,WEOOct2024all
+Indonesia,IDN,2022,40.141,False,-2.191,WEOOct2024all
+Indonesia,IDN,2023,39.601,False,-1.613,WEOOct2024all
+Indonesia,IDN,2024,40.515,True,-2.662,WEOOct2024all
+Indonesia,IDN,2025,40.712,True,-2.539,WEOOct2024all
+Israel,ISR,2000,77.146,False,-0.798,WEOOct2024all
+Israel,ISR,2001,81.047,False,-4.052,WEOOct2024all
+Israel,ISR,2002,87.128,False,-8.218,WEOOct2024all
+Israel,ISR,2003,89.542,False,-5.03,WEOOct2024all
+Israel,ISR,2004,88.182,False,-3.403,WEOOct2024all
+Israel,ISR,2005,85.175,False,-2.743,WEOOct2024all
+Israel,ISR,2006,77.474,False,-0.954,WEOOct2024all
+Israel,ISR,2007,70.686,False,-0.446,WEOOct2024all
+Israel,ISR,2008,70.15,False,-3.507,WEOOct2024all
+Israel,ISR,2009,72.468,False,-6.536,WEOOct2024all
+Israel,ISR,2010,68.94,False,-3.725,WEOOct2024all
+Israel,ISR,2011,67.098,False,-3.443,WEOOct2024all
+Israel,ISR,2012,66.788,False,-4.469,WEOOct2024all
+Israel,ISR,2013,65.932,False,-4.068,WEOOct2024all
+Israel,ISR,2014,64.724,False,-2.299,WEOOct2024all
+Israel,ISR,2015,63.03,False,-1.217,WEOOct2024all
+Israel,ISR,2016,61.565,False,-1.794,WEOOct2024all
+Israel,ISR,2017,59.641,False,-1.136,WEOOct2024all
+Israel,ISR,2018,59.946,False,-3.553,WEOOct2024all
+Israel,ISR,2019,59.049,False,-3.799,WEOOct2024all
+Israel,ISR,2020,70.688,False,-10.68,WEOOct2024all
+Israel,ISR,2021,67.423,False,-3.376,WEOOct2024all
+Israel,ISR,2022,60.182,False,0.443,WEOOct2024all
+Israel,ISR,2023,61.443,False,-4.838,WEOOct2024all
+Israel,ISR,2024,67.985,True,-9.042,WEOOct2024all
+Israel,ISR,2025,69.339,True,-5.443,WEOOct2024all
+Italy,ITA,2000,108.743,False,-2.42,WEOOct2024all
+Italy,ITA,2001,108.513,False,-3.182,WEOOct2024all
+Italy,ITA,2002,105.948,False,-2.881,WEOOct2024all
+Italy,ITA,2003,105.141,False,-3.228,WEOOct2024all
+Italy,ITA,2004,104.738,False,-3.463,WEOOct2024all
+Italy,ITA,2005,106.171,False,-4.1,WEOOct2024all
+Italy,ITA,2006,106.249,False,-3.608,WEOOct2024all
+Italy,ITA,2007,103.45,False,-1.329,WEOOct2024all
+Italy,ITA,2008,105.778,False,-2.587,WEOOct2024all
+Italy,ITA,2009,116.111,False,-5.065,WEOOct2024all
+Italy,ITA,2010,118.717,False,-4.177,WEOOct2024all
+Italy,ITA,2011,119.086,False,-3.537,WEOOct2024all
+Italy,ITA,2012,125.849,False,-2.997,WEOOct2024all
+Italy,ITA,2013,131.779,False,-2.893,WEOOct2024all
+Italy,ITA,2014,134.684,False,-2.84,WEOOct2024all
+Italy,ITA,2015,134.654,False,-2.488,WEOOct2024all
+Italy,ITA,2016,134.087,False,-2.437,WEOOct2024all
+Italy,ITA,2017,133.576,False,-2.543,WEOOct2024all
+Italy,ITA,2018,133.989,False,-2.238,WEOOct2024all
+Italy,ITA,2019,133.639,False,-1.482,WEOOct2024all
+Italy,ITA,2020,154.14,False,-9.379,WEOOct2024all
+Italy,ITA,2021,145.484,False,-8.854,WEOOct2024all
+Italy,ITA,2022,138.115,False,-8.091,WEOOct2024all
+Italy,ITA,2023,134.56,False,-7.177,WEOOct2024all
+Italy,ITA,2024,136.894,True,-3.995,WEOOct2024all
+Italy,ITA,2025,138.659,True,-3.792,WEOOct2024all
+Ivory Coast,CIV,2000,73.987,False,-0.831,WEOOct2024all
+Ivory Coast,CIV,2001,71.172,False,0.699,WEOOct2024all
+Ivory Coast,CIV,2002,62.982,False,-0.637,WEOOct2024all
+Ivory Coast,CIV,2003,56.381,False,-1.261,WEOOct2024all
+Ivory Coast,CIV,2004,56.718,False,-1.038,WEOOct2024all
+Ivory Coast,CIV,2005,58.164,False,-1.025,WEOOct2024all
+Ivory Coast,CIV,2006,57.471,False,-1.034,WEOOct2024all
+Ivory Coast,CIV,2007,53.533,False,-0.389,WEOOct2024all
+Ivory Coast,CIV,2008,51.24,False,-0.21,WEOOct2024all
+Ivory Coast,CIV,2009,46.476,False,-1.002,WEOOct2024all
+Ivory Coast,CIV,2010,45.612,False,-1.337,WEOOct2024all
+Ivory Coast,CIV,2011,50.028,False,-2.889,WEOOct2024all
+Ivory Coast,CIV,2012,24.693,False,-2.276,WEOOct2024all
+Ivory Coast,CIV,2013,24.624,False,-1.621,WEOOct2024all
+Ivory Coast,CIV,2014,26.71,False,-1.568,WEOOct2024all
+Ivory Coast,CIV,2015,29.172,False,-2.042,WEOOct2024all
+Ivory Coast,CIV,2016,31.118,False,-2.979,WEOOct2024all
+Ivory Coast,CIV,2017,32.595,False,-3.274,WEOOct2024all
+Ivory Coast,CIV,2018,35.317,False,-2.905,WEOOct2024all
+Ivory Coast,CIV,2019,37.216,False,-2.22,WEOOct2024all
+Ivory Coast,CIV,2020,46.315,False,-5.419,WEOOct2024all
+Ivory Coast,CIV,2021,50.165,False,-4.859,WEOOct2024all
+Ivory Coast,CIV,2022,56.634,False,-6.812,WEOOct2024all
+Ivory Coast,CIV,2023,58.07,False,-5.242,WEOOct2024all
+Ivory Coast,CIV,2024,59.276,True,-4.049,WEOOct2024all
+Ivory Coast,CIV,2025,55.902,True,-3.044,WEOOct2024all
+Japan,JPN,2000,135.609,False,-7.282,WEOOct2024all
+Japan,JPN,2001,145.124,False,-6.2,WEOOct2024all
+Japan,JPN,2002,154.096,False,-7.336,WEOOct2024all
+Japan,JPN,2003,160.021,False,-7.433,WEOOct2024all
+Japan,JPN,2004,169.49,False,-5.314,WEOOct2024all
+Japan,JPN,2005,174.595,False,-4.438,WEOOct2024all
+Japan,JPN,2006,174.143,False,-3.029,WEOOct2024all
+Japan,JPN,2007,172.951,False,-2.901,WEOOct2024all
+Japan,JPN,2008,180.851,False,-4.11,WEOOct2024all
+Japan,JPN,2009,198.807,False,-9.693,WEOOct2024all
+Japan,JPN,2010,205.879,False,-9.076,WEOOct2024all
+Japan,JPN,2011,219.162,False,-8.986,WEOOct2024all
+Japan,JPN,2012,226.093,False,-8.196,WEOOct2024all
+Japan,JPN,2013,229.451,False,-7.611,WEOOct2024all
+Japan,JPN,2014,233.281,False,-5.616,WEOOct2024all
+Japan,JPN,2015,228.278,False,-3.678,WEOOct2024all
+Japan,JPN,2016,232.421,False,-3.6,WEOOct2024all
+Japan,JPN,2017,231.321,False,-3.099,WEOOct2024all
+Japan,JPN,2018,232.38,False,-2.471,WEOOct2024all
+Japan,JPN,2019,236.378,False,-3.045,WEOOct2024all
+Japan,JPN,2020,258.374,False,-9.055,WEOOct2024all
+Japan,JPN,2021,253.653,False,-6.098,WEOOct2024all
+Japan,JPN,2022,256.297,False,-4.375,WEOOct2024all
+Japan,JPN,2023,249.669,True,-4.215,WEOOct2024all
+Japan,JPN,2024,251.153,True,-6.094,WEOOct2024all
+Japan,JPN,2025,248.666,True,-3.019,WEOOct2024all
+Jordan,JOR,2000,99.259,False,-3.995,WEOOct2024all
+Jordan,JOR,2001,94.41,False,-2.77,WEOOct2024all
+Jordan,JOR,2002,94.884,False,-4.437,WEOOct2024all
+Jordan,JOR,2003,88.788,False,-2.517,WEOOct2024all
+Jordan,JOR,2004,81.525,False,-1.089,WEOOct2024all
+Jordan,JOR,2005,72.959,False,-5.359,WEOOct2024all
+Jordan,JOR,2006,66.304,False,-3.82,WEOOct2024all
+Jordan,JOR,2007,64.252,False,-5.031,WEOOct2024all
+Jordan,JOR,2008,54.24,False,-4.797,WEOOct2024all
+Jordan,JOR,2009,57.965,False,-8.842,WEOOct2024all
+Jordan,JOR,2010,59.437,False,-7.814,WEOOct2024all
+Jordan,JOR,2011,62.069,False,-9.818,WEOOct2024all
+Jordan,JOR,2012,70.521,False,-14.329,WEOOct2024all
+Jordan,JOR,2013,75.584,False,-10.067,WEOOct2024all
+Jordan,JOR,2014,75.013,False,-8.475,WEOOct2024all
+Jordan,JOR,2015,78.423,False,-8.389,WEOOct2024all
+Jordan,JOR,2016,77.432,False,-3.657,WEOOct2024all
+Jordan,JOR,2017,75.657,False,-3.567,WEOOct2024all
+Jordan,JOR,2018,74.302,False,-4.613,WEOOct2024all
+Jordan,JOR,2019,78.015,False,-5.834,WEOOct2024all
+Jordan,JOR,2020,87.95,False,-9.069,WEOOct2024all
+Jordan,JOR,2021,93.3,False,-7.461,WEOOct2024all
+Jordan,JOR,2022,93.027,False,-6.95,WEOOct2024all
+Jordan,JOR,2023,92.81,False,-7.205,WEOOct2024all
+Jordan,JOR,2024,91.652,True,-7.552,WEOOct2024all
+Jordan,JOR,2025,89.199,True,-5.516,WEOOct2024all
+Kazakhstan,KAZ,2000,,False,,WEOOct2024all
+Kazakhstan,KAZ,2001,,False,,WEOOct2024all
+Kazakhstan,KAZ,2002,17.592,False,1.924,WEOOct2024all
+Kazakhstan,KAZ,2003,14.962,False,3.996,WEOOct2024all
+Kazakhstan,KAZ,2004,11.392,False,3.287,WEOOct2024all
+Kazakhstan,KAZ,2005,8.104,False,6.078,WEOOct2024all
+Kazakhstan,KAZ,2006,6.677,False,7.653,WEOOct2024all
+Kazakhstan,KAZ,2007,4.092,False,5.134,WEOOct2024all
+Kazakhstan,KAZ,2008,6.766,False,1.227,WEOOct2024all
+Kazakhstan,KAZ,2009,10.227,False,-1.328,WEOOct2024all
+Kazakhstan,KAZ,2010,10.683,False,1.47,WEOOct2024all
+Kazakhstan,KAZ,2011,10.161,False,5.811,WEOOct2024all
+Kazakhstan,KAZ,2012,12.125,False,4.431,WEOOct2024all
+Kazakhstan,KAZ,2013,12.603,False,4.946,WEOOct2024all
+Kazakhstan,KAZ,2014,14.496,False,2.482,WEOOct2024all
+Kazakhstan,KAZ,2015,21.882,False,-6.259,WEOOct2024all
+Kazakhstan,KAZ,2016,19.677,False,-4.503,WEOOct2024all
+Kazakhstan,KAZ,2017,19.869,False,-4.266,WEOOct2024all
+Kazakhstan,KAZ,2018,20.259,False,2.58,WEOOct2024all
+Kazakhstan,KAZ,2019,19.944,False,-0.57,WEOOct2024all
+Kazakhstan,KAZ,2020,26.357,False,-7.037,WEOOct2024all
+Kazakhstan,KAZ,2021,25.1,False,-4.966,WEOOct2024all
+Kazakhstan,KAZ,2022,23.524,False,0.105,WEOOct2024all
+Kazakhstan,KAZ,2023,22.769,False,-1.508,WEOOct2024all
+Kazakhstan,KAZ,2024,24.752,True,-2.333,WEOOct2024all
+Kazakhstan,KAZ,2025,27.58,True,-2.25,WEOOct2024all
+Kenya,KEN,2000,43.122,False,0.381,WEOOct2024all
+Kenya,KEN,2001,41.276,False,-0.528,WEOOct2024all
+Kenya,KEN,2002,42.01,False,-1.295,WEOOct2024all
+Kenya,KEN,2003,43.792,False,-0.728,WEOOct2024all
+Kenya,KEN,2004,40.755,False,0.502,WEOOct2024all
+Kenya,KEN,2005,37.412,False,-0.193,WEOOct2024all
+Kenya,KEN,2006,37.066,False,-0.432,WEOOct2024all
+Kenya,KEN,2007,34.195,False,-0.954,WEOOct2024all
+Kenya,KEN,2008,34.254,False,-1.952,WEOOct2024all
+Kenya,KEN,2009,35.961,False,-3.124,WEOOct2024all
+Kenya,KEN,2010,36.695,False,-3.673,WEOOct2024all
+Kenya,KEN,2011,35.687,False,-3.639,WEOOct2024all
+Kenya,KEN,2012,37.616,False,-5.288,WEOOct2024all
+Kenya,KEN,2013,39.756,False,-5.246,WEOOct2024all
+Kenya,KEN,2014,41.281,False,-5.753,WEOOct2024all
+Kenya,KEN,2015,45.832,False,-6.682,WEOOct2024all
+Kenya,KEN,2016,50.399,False,-7.469,WEOOct2024all
+Kenya,KEN,2017,53.866,False,-7.396,WEOOct2024all
+Kenya,KEN,2018,56.449,False,-6.936,WEOOct2024all
+Kenya,KEN,2019,59.085,False,-7.415,WEOOct2024all
+Kenya,KEN,2020,67.965,False,-8.134,WEOOct2024all
+Kenya,KEN,2021,68.232,False,-7.196,WEOOct2024all
+Kenya,KEN,2022,67.8,False,-6.057,WEOOct2024all
+Kenya,KEN,2023,73.107,False,-5.759,WEOOct2024all
+Kenya,KEN,2024,69.873,True,-5.037,WEOOct2024all
+Kenya,KEN,2025,72.361,True,-4.281,WEOOct2024all
+Lebanon,LBN,2000,148.076,False,-23.945,WEOOct2024all
+Lebanon,LBN,2001,163.082,False,-21.025,WEOOct2024all
+Lebanon,LBN,2002,163.117,False,-16.188,WEOOct2024all
+Lebanon,LBN,2003,171.308,False,-13.967,WEOOct2024all
+Lebanon,LBN,2004,169.547,False,-9.832,WEOOct2024all
+Lebanon,LBN,2005,178.926,False,-8.573,WEOOct2024all
+Lebanon,LBN,2006,183.291,False,-10.572,WEOOct2024all
+Lebanon,LBN,2007,169.301,False,-10.928,WEOOct2024all
+Lebanon,LBN,2008,161.487,False,-9.856,WEOOct2024all
+Lebanon,LBN,2009,144.499,False,-8.098,WEOOct2024all
+Lebanon,LBN,2010,136.829,False,-7.466,WEOOct2024all
+Lebanon,LBN,2011,134.386,False,-5.945,WEOOct2024all
+Lebanon,LBN,2012,131.051,False,-8.434,WEOOct2024all
+Lebanon,LBN,2013,135.403,False,-8.823,WEOOct2024all
+Lebanon,LBN,2014,138.401,False,-6.217,WEOOct2024all
+Lebanon,LBN,2015,140.841,False,-7.484,WEOOct2024all
+Lebanon,LBN,2016,146.403,False,-8.884,WEOOct2024all
+Lebanon,LBN,2017,149.979,False,-8.654,WEOOct2024all
+Lebanon,LBN,2018,155.081,False,-11.3,WEOOct2024all
+Lebanon,LBN,2019,172.1,False,-10.515,WEOOct2024all
+Lebanon,LBN,2020,148.709,False,-7.386,WEOOct2024all
+Lebanon,LBN,2021,357.687,False,-2.666,WEOOct2024all
+Lebanon,LBN,2022,255.183,True,-6.555,WEOOct2024all
+Lebanon,LBN,2023,195.17,True,-0.393,WEOOct2024all
+Lebanon,LBN,2024,,True,,WEOOct2024all
+Lebanon,LBN,2025,,True,,WEOOct2024all
+Libya,LBY,2000,,False,13.64,WEOOct2024all
+Libya,LBY,2001,,False,0.067,WEOOct2024all
+Libya,LBY,2002,,False,6.991,WEOOct2024all
+Libya,LBY,2003,,False,6.166,WEOOct2024all
+Libya,LBY,2004,,False,11.312,WEOOct2024all
+Libya,LBY,2005,,False,30.381,WEOOct2024all
+Libya,LBY,2006,,False,29.091,WEOOct2024all
+Libya,LBY,2007,,False,28.363,WEOOct2024all
+Libya,LBY,2008,,False,27.677,WEOOct2024all
+Libya,LBY,2009,,False,-5.459,WEOOct2024all
+Libya,LBY,2010,,False,11.469,WEOOct2024all
+Libya,LBY,2011,,False,-11.45,WEOOct2024all
+Libya,LBY,2012,,False,24.613,WEOOct2024all
+Libya,LBY,2013,,False,-16.299,WEOOct2024all
+Libya,LBY,2014,,False,-30.508,WEOOct2024all
+Libya,LBY,2015,,False,-28.492,WEOOct2024all
+Libya,LBY,2016,,False,-29.29,WEOOct2024all
+Libya,LBY,2017,,False,-11.062,WEOOct2024all
+Libya,LBY,2018,,False,9.393,WEOOct2024all
+Libya,LBY,2019,,False,11.93,WEOOct2024all
+Libya,LBY,2020,,False,-22.273,WEOOct2024all
+Libya,LBY,2021,,False,14.828,WEOOct2024all
+Libya,LBY,2022,,False,23.595,WEOOct2024all
+Libya,LBY,2023,,False,8.216,WEOOct2024all
+Libya,LBY,2024,,False,-4.781,WEOOct2024all
+Libya,LBY,2025,,False,-2.105,WEOOct2024all
+Malaysia,MYS,2000,32.518,False,-6.053,WEOOct2024all
+Malaysia,MYS,2001,38.065,False,-4.361,WEOOct2024all
+Malaysia,MYS,2002,39.532,False,-3.96,WEOOct2024all
+Malaysia,MYS,2003,41.393,False,-4.597,WEOOct2024all
+Malaysia,MYS,2004,41.96,False,-3.353,WEOOct2024all
+Malaysia,MYS,2005,40.778,False,-2.833,WEOOct2024all
+Malaysia,MYS,2006,39.662,False,-2.602,WEOOct2024all
+Malaysia,MYS,2007,39.348,False,-2.571,WEOOct2024all
+Malaysia,MYS,2008,39.361,False,-3.405,WEOOct2024all
+Malaysia,MYS,2009,50.408,False,-5.88,WEOOct2024all
+Malaysia,MYS,2010,51.212,False,-4.319,WEOOct2024all
+Malaysia,MYS,2011,51.898,False,-3.568,WEOOct2024all
+Malaysia,MYS,2012,53.788,False,-3.103,WEOOct2024all
+Malaysia,MYS,2013,55.656,False,-3.478,WEOOct2024all
+Malaysia,MYS,2014,55.373,False,-2.628,WEOOct2024all
+Malaysia,MYS,2015,56.971,False,-2.546,WEOOct2024all
+Malaysia,MYS,2016,55.787,False,-2.603,WEOOct2024all
+Malaysia,MYS,2017,54.395,False,-2.412,WEOOct2024all
+Malaysia,MYS,2018,55.646,False,-2.645,WEOOct2024all
+Malaysia,MYS,2019,57.083,False,-2.008,WEOOct2024all
+Malaysia,MYS,2020,67.693,False,-4.902,WEOOct2024all
+Malaysia,MYS,2021,69.162,False,-6.032,WEOOct2024all
+Malaysia,MYS,2022,65.5,False,-4.808,WEOOct2024all
+Malaysia,MYS,2023,69.762,False,-4.552,WEOOct2024all
+Malaysia,MYS,2024,68.384,True,-3.594,WEOOct2024all
+Malaysia,MYS,2025,68.06,True,-3.492,WEOOct2024all
+Mali,MLI,2000,90.522,False,-2.643,WEOOct2024all
+Mali,MLI,2001,77.498,False,-2.798,WEOOct2024all
+Mali,MLI,2002,42.643,False,-3.094,WEOOct2024all
+Mali,MLI,2003,44.15,False,-1.187,WEOOct2024all
+Mali,MLI,2004,42.434,False,-2.36,WEOOct2024all
+Mali,MLI,2005,46.626,False,-2.764,WEOOct2024all
+Mali,MLI,2006,18.066,False,27.783,WEOOct2024all
+Mali,MLI,2007,18.535,False,-2.784,WEOOct2024all
+Mali,MLI,2008,20.098,False,-1.97,WEOOct2024all
+Mali,MLI,2009,21.855,False,-3.707,WEOOct2024all
+Mali,MLI,2010,25.289,False,-2.568,WEOOct2024all
+Mali,MLI,2011,23.965,False,-3.417,WEOOct2024all
+Mali,MLI,2012,25.39,False,-0.956,WEOOct2024all
+Mali,MLI,2013,26.382,False,-2.372,WEOOct2024all
+Mali,MLI,2014,26.907,False,-2.886,WEOOct2024all
+Mali,MLI,2015,30.661,False,-1.822,WEOOct2024all
+Mali,MLI,2016,37.221,False,-3.945,WEOOct2024all
+Mali,MLI,2017,38.226,False,-2.862,WEOOct2024all
+Mali,MLI,2018,37.524,False,-4.742,WEOOct2024all
+Mali,MLI,2019,40.725,False,-1.684,WEOOct2024all
+Mali,MLI,2020,46.925,False,-5.373,WEOOct2024all
+Mali,MLI,2021,50.346,False,-4.797,WEOOct2024all
+Mali,MLI,2022,53.081,False,-5.008,WEOOct2024all
+Mali,MLI,2023,55.889,True,-3.9,WEOOct2024all
+Mali,MLI,2024,55.722,True,-3.6,WEOOct2024all
+Mali,MLI,2025,55.922,True,-3.3,WEOOct2024all
+Mauritius,MUS,2000,56.944,False,-4.193,WEOOct2024all
+Mauritius,MUS,2001,58.184,False,-5.318,WEOOct2024all
+Mauritius,MUS,2002,62.955,False,-4.891,WEOOct2024all
+Mauritius,MUS,2003,66.947,False,-4.555,WEOOct2024all
+Mauritius,MUS,2004,59.421,False,-4.22,WEOOct2024all
+Mauritius,MUS,2005,58.292,False,-4.2,WEOOct2024all
+Mauritius,MUS,2006,55.307,False,-3.864,WEOOct2024all
+Mauritius,MUS,2007,48.808,False,-2.921,WEOOct2024all
+Mauritius,MUS,2008,48.759,False,-2.628,WEOOct2024all
+Mauritius,MUS,2009,56.837,False,-3.315,WEOOct2024all
+Mauritius,MUS,2010,54.392,False,-2.957,WEOOct2024all
+Mauritius,MUS,2011,54.865,False,-2.997,WEOOct2024all
+Mauritius,MUS,2012,54.184,False,-1.731,WEOOct2024all
+Mauritius,MUS,2013,56.476,False,-3.297,WEOOct2024all
+Mauritius,MUS,2014,59.129,False,-3.054,WEOOct2024all
+Mauritius,MUS,2015,63.021,False,-3.48,WEOOct2024all
+Mauritius,MUS,2016,62.596,False,-2.736,WEOOct2024all
+Mauritius,MUS,2017,61.337,False,-1.615,WEOOct2024all
+Mauritius,MUS,2018,63.148,False,-2.154,WEOOct2024all
+Mauritius,MUS,2019,81.068,False,-8.192,WEOOct2024all
+Mauritius,MUS,2020,91.896,False,-10.45,WEOOct2024all
+Mauritius,MUS,2021,85.92,False,-4.069,WEOOct2024all
+Mauritius,MUS,2022,81.203,False,-3.097,WEOOct2024all
+Mauritius,MUS,2023,78.649,False,-4.149,WEOOct2024all
+Mauritius,MUS,2024,80.132,True,-2.889,WEOOct2024all
+Mauritius,MUS,2025,80.936,True,-2.941,WEOOct2024all
+Mexico,MEX,2000,38.455,False,-2.685,WEOOct2024all
+Mexico,MEX,2001,37.315,False,-2.573,WEOOct2024all
+Mexico,MEX,2002,39.866,False,-2.181,WEOOct2024all
+Mexico,MEX,2003,42.133,False,-2.244,WEOOct2024all
+Mexico,MEX,2004,38.906,False,-1.346,WEOOct2024all
+Mexico,MEX,2005,36.841,False,-1.434,WEOOct2024all
+Mexico,MEX,2006,35.777,False,-1.226,WEOOct2024all
+Mexico,MEX,2007,35.529,False,-1.458,WEOOct2024all
+Mexico,MEX,2008,40.605,False,-0.681,WEOOct2024all
+Mexico,MEX,2009,41.667,False,-3.935,WEOOct2024all
+Mexico,MEX,2010,40.155,False,-3.804,WEOOct2024all
+Mexico,MEX,2011,41.167,False,-3.204,WEOOct2024all
+Mexico,MEX,2012,40.815,False,-3.566,WEOOct2024all
+Mexico,MEX,2013,44.066,False,-3.559,WEOOct2024all
+Mexico,MEX,2014,47.093,False,-4.371,WEOOct2024all
+Mexico,MEX,2015,50.973,False,-3.859,WEOOct2024all
+Mexico,MEX,2016,55.003,False,-2.681,WEOOct2024all
+Mexico,MEX,2017,52.521,False,-1.034,WEOOct2024all
+Mexico,MEX,2018,52.202,False,-2.139,WEOOct2024all
+Mexico,MEX,2019,51.859,False,-2.264,WEOOct2024all
+Mexico,MEX,2020,58.505,False,-4.291,WEOOct2024all
+Mexico,MEX,2021,56.895,False,-3.757,WEOOct2024all
+Mexico,MEX,2022,54.169,False,-4.271,WEOOct2024all
+Mexico,MEX,2023,53.097,True,-4.311,WEOOct2024all
+Mexico,MEX,2024,57.746,True,-5.9,WEOOct2024all
+Mexico,MEX,2025,57.932,True,-3.5,WEOOct2024all
+Mongolia,MNG,2000,,False,-5.821,WEOOct2024all
+Mongolia,MNG,2001,,False,-4.327,WEOOct2024all
+Mongolia,MNG,2002,,False,-4.736,WEOOct2024all
+Mongolia,MNG,2003,,False,-3.382,WEOOct2024all
+Mongolia,MNG,2004,,False,-1.618,WEOOct2024all
+Mongolia,MNG,2005,,False,2.435,WEOOct2024all
+Mongolia,MNG,2006,40.937,False,7.585,WEOOct2024all
+Mongolia,MNG,2007,36.113,False,2.639,WEOOct2024all
+Mongolia,MNG,2008,30.992,False,-4.521,WEOOct2024all
+Mongolia,MNG,2009,48.536,False,-5.199,WEOOct2024all
+Mongolia,MNG,2010,30.975,False,0.425,WEOOct2024all
+Mongolia,MNG,2011,32.653,False,-4.014,WEOOct2024all
+Mongolia,MNG,2012,43.692,False,-6.244,WEOOct2024all
+Mongolia,MNG,2013,49.423,False,-0.927,WEOOct2024all
+Mongolia,MNG,2014,43.963,False,-3.725,WEOOct2024all
+Mongolia,MNG,2015,50.547,False,-5.043,WEOOct2024all
+Mongolia,MNG,2016,78.678,False,-15.295,WEOOct2024all
+Mongolia,MNG,2017,86.898,False,-3.716,WEOOct2024all
+Mongolia,MNG,2018,76.539,False,2.854,WEOOct2024all
+Mongolia,MNG,2019,66.837,False,1.003,WEOOct2024all
+Mongolia,MNG,2020,83.392,False,-9.24,WEOOct2024all
+Mongolia,MNG,2021,67.728,False,7.75,WEOOct2024all
+Mongolia,MNG,2022,64.489,False,0.672,WEOOct2024all
+Mongolia,MNG,2023,46.795,False,2.732,WEOOct2024all
+Mongolia,MNG,2024,42.369,True,0.398,WEOOct2024all
+Mongolia,MNG,2025,40.045,True,-0.983,WEOOct2024all
+Morocco,MAR,2000,64.86,False,-1.973,WEOOct2024all
+Morocco,MAR,2001,60.435,False,-3.79,WEOOct2024all
+Morocco,MAR,2002,59.372,False,-4.369,WEOOct2024all
+Morocco,MAR,2003,56.929,False,-3.745,WEOOct2024all
+Morocco,MAR,2004,54.431,False,-3.313,WEOOct2024all
+Morocco,MAR,2005,54.767,False,-5.455,WEOOct2024all
+Morocco,MAR,2006,50.642,False,-1.8,WEOOct2024all
+Morocco,MAR,2007,47.066,False,-0.116,WEOOct2024all
+Morocco,MAR,2008,41.991,False,0.626,WEOOct2024all
+Morocco,MAR,2009,42.622,False,-1.629,WEOOct2024all
+Morocco,MAR,2010,45.276,False,-3.932,WEOOct2024all
+Morocco,MAR,2011,48.555,False,-6.075,WEOOct2024all
+Morocco,MAR,2012,52.282,False,-6.632,WEOOct2024all
+Morocco,MAR,2013,57.076,False,-4.702,WEOOct2024all
+Morocco,MAR,2014,58.564,False,-4.78,WEOOct2024all
+Morocco,MAR,2015,58.394,False,-4.514,WEOOct2024all
+Morocco,MAR,2016,60.084,False,-4.426,WEOOct2024all
+Morocco,MAR,2017,60.261,False,-3.233,WEOOct2024all
+Morocco,MAR,2018,60.458,False,-3.431,WEOOct2024all
+Morocco,MAR,2019,60.27,False,-3.551,WEOOct2024all
+Morocco,MAR,2020,72.245,False,-7.147,WEOOct2024all
+Morocco,MAR,2021,69.351,False,-5.977,WEOOct2024all
+Morocco,MAR,2022,71.532,False,-5.378,WEOOct2024all
+Morocco,MAR,2023,69.47,False,-4.404,WEOOct2024all
+Morocco,MAR,2024,68.712,True,-4.273,WEOOct2024all
+Morocco,MAR,2025,67.973,True,-3.764,WEOOct2024all
+Mozambique,MOZ,2000,95.818,False,-1.26,WEOOct2024all
+Mozambique,MOZ,2001,99.766,False,-4.434,WEOOct2024all
+Mozambique,MOZ,2002,63.351,False,-3.364,WEOOct2024all
+Mozambique,MOZ,2003,63.157,False,-2.636,WEOOct2024all
+Mozambique,MOZ,2004,50.767,False,-3.168,WEOOct2024all
+Mozambique,MOZ,2005,60.084,False,-2.059,WEOOct2024all
+Mozambique,MOZ,2006,40.029,False,-3.034,WEOOct2024all
+Mozambique,MOZ,2007,31.181,False,-2.191,WEOOct2024all
+Mozambique,MOZ,2008,32.755,False,-1.898,WEOOct2024all
+Mozambique,MOZ,2009,39.329,False,-4.346,WEOOct2024all
+Mozambique,MOZ,2010,38.551,False,-3.404,WEOOct2024all
+Mozambique,MOZ,2011,34.155,False,-4.336,WEOOct2024all
+Mozambique,MOZ,2012,36.679,False,-3.45,WEOOct2024all
+Mozambique,MOZ,2013,49.482,False,-2.463,WEOOct2024all
+Mozambique,MOZ,2014,63.403,False,-9.753,WEOOct2024all
+Mozambique,MOZ,2015,86.034,False,-6.555,WEOOct2024all
+Mozambique,MOZ,2016,124.808,False,-5.064,WEOOct2024all
+Mozambique,MOZ,2017,103.792,False,-1.986,WEOOct2024all
+Mozambique,MOZ,2018,105.525,False,-5.701,WEOOct2024all
+Mozambique,MOZ,2019,98.262,False,1.704,WEOOct2024all
+Mozambique,MOZ,2020,119.966,False,-4.513,WEOOct2024all
+Mozambique,MOZ,2021,104.336,False,-3.881,WEOOct2024all
+Mozambique,MOZ,2022,100.259,False,-5.106,WEOOct2024all
+Mozambique,MOZ,2023,93.883,False,-4.11,WEOOct2024all
+Mozambique,MOZ,2024,95.984,True,-4.247,WEOOct2024all
+Mozambique,MOZ,2025,96.474,True,-1.995,WEOOct2024all
+Namibia,NAM,2000,20.859,False,-0.788,WEOOct2024all
+Namibia,NAM,2001,24.393,False,-2.014,WEOOct2024all
+Namibia,NAM,2002,22.187,False,-1.378,WEOOct2024all
+Namibia,NAM,2003,27.146,False,-4.474,WEOOct2024all
+Namibia,NAM,2004,29.179,False,-2.672,WEOOct2024all
+Namibia,NAM,2005,26.897,False,-0.309,WEOOct2024all
+Namibia,NAM,2006,26.136,False,3.41,WEOOct2024all
+Namibia,NAM,2007,19.364,False,6.007,WEOOct2024all
+Namibia,NAM,2008,19.097,False,3.48,WEOOct2024all
+Namibia,NAM,2009,15.851,False,-0.405,WEOOct2024all
+Namibia,NAM,2010,16.328,False,-4.981,WEOOct2024all
+Namibia,NAM,2011,27.45,False,-7.087,WEOOct2024all
+Namibia,NAM,2012,24.628,False,-3.102,WEOOct2024all
+Namibia,NAM,2013,26.113,False,-4.69,WEOOct2024all
+Namibia,NAM,2014,27.572,False,-6.444,WEOOct2024all
+Namibia,NAM,2015,42.09,False,-8.301,WEOOct2024all
+Namibia,NAM,2016,45.833,False,-9.303,WEOOct2024all
+Namibia,NAM,2017,43.829,False,-4.994,WEOOct2024all
+Namibia,NAM,2018,48.744,False,-5.094,WEOOct2024all
+Namibia,NAM,2019,57.568,False,-5.491,WEOOct2024all
+Namibia,NAM,2020,64.297,False,-8.07,WEOOct2024all
+Namibia,NAM,2021,69.603,False,-8.752,WEOOct2024all
+Namibia,NAM,2022,70.038,False,-6.051,WEOOct2024all
+Namibia,NAM,2023,66.145,False,-3.106,WEOOct2024all
+Namibia,NAM,2024,66.747,True,-2.644,WEOOct2024all
+Namibia,NAM,2025,62.532,True,-4.07,WEOOct2024all
+New Zealand,NZL,2000,30.025,False,0.17,WEOOct2024all
+New Zealand,NZL,2001,28.16,False,1.286,WEOOct2024all
+New Zealand,NZL,2002,26.396,False,2.55,WEOOct2024all
+New Zealand,NZL,2003,24.718,False,3.683,WEOOct2024all
+New Zealand,NZL,2004,22.505,False,4.492,WEOOct2024all
+New Zealand,NZL,2005,20.78,False,5.13,WEOOct2024all
+New Zealand,NZL,2006,18.401,False,4.619,WEOOct2024all
+New Zealand,NZL,2007,16.308,False,3.596,WEOOct2024all
+New Zealand,NZL,2008,19.003,False,1.472,WEOOct2024all
+New Zealand,NZL,2009,24.335,False,-1.817,WEOOct2024all
+New Zealand,NZL,2010,29.678,False,-5.526,WEOOct2024all
+New Zealand,NZL,2011,34.722,False,-4.967,WEOOct2024all
+New Zealand,NZL,2012,35.729,False,-2.195,WEOOct2024all
+New Zealand,NZL,2013,34.576,False,-1.288,WEOOct2024all
+New Zealand,NZL,2014,34.177,False,-0.336,WEOOct2024all
+New Zealand,NZL,2015,34.192,False,0.365,WEOOct2024all
+New Zealand,NZL,2016,33.373,False,0.978,WEOOct2024all
+New Zealand,NZL,2017,31.127,False,1.358,WEOOct2024all
+New Zealand,NZL,2018,28.1,False,1.271,WEOOct2024all
+New Zealand,NZL,2019,31.85,False,-2.499,WEOOct2024all
+New Zealand,NZL,2020,43.297,False,-4.328,WEOOct2024all
+New Zealand,NZL,2021,47.536,False,-3.237,WEOOct2024all
+New Zealand,NZL,2022,47.141,False,-3.511,WEOOct2024all
+New Zealand,NZL,2023,45.772,False,-3.333,WEOOct2024all
+New Zealand,NZL,2024,47.216,True,-3.845,WEOOct2024all
+New Zealand,NZL,2025,48.632,True,-3.493,WEOOct2024all
+Nigeria,NGA,2000,57.6,False,4.065,WEOOct2024all
+Nigeria,NGA,2001,53.097,False,-3.222,WEOOct2024all
+Nigeria,NGA,2002,43.266,False,1.342,WEOOct2024all
+Nigeria,NGA,2003,42.085,False,-2.195,WEOOct2024all
+Nigeria,NGA,2004,35.488,False,5.488,WEOOct2024all
+Nigeria,NGA,2005,18.94,False,4.908,WEOOct2024all
+Nigeria,NGA,2006,9.404,False,8.759,WEOOct2024all
+Nigeria,NGA,2007,8.116,False,-1.116,WEOOct2024all
+Nigeria,NGA,2008,7.276,False,5.697,WEOOct2024all
+Nigeria,NGA,2009,8.617,False,-5.326,WEOOct2024all
+Nigeria,NGA,2010,9.393,False,-4.171,WEOOct2024all
+Nigeria,NGA,2011,17.431,False,0.432,WEOOct2024all
+Nigeria,NGA,2012,17.577,False,-0.129,WEOOct2024all
+Nigeria,NGA,2013,18.289,False,-2.662,WEOOct2024all
+Nigeria,NGA,2014,17.541,False,-2.429,WEOOct2024all
+Nigeria,NGA,2015,20.328,False,-3.799,WEOOct2024all
+Nigeria,NGA,2016,23.41,False,-4.644,WEOOct2024all
+Nigeria,NGA,2017,24.259,False,-5.415,WEOOct2024all
+Nigeria,NGA,2018,27.689,False,-4.315,WEOOct2024all
+Nigeria,NGA,2019,29.17,False,-4.657,WEOOct2024all
+Nigeria,NGA,2020,34.486,False,-5.575,WEOOct2024all
+Nigeria,NGA,2021,35.67,False,-5.481,WEOOct2024all
+Nigeria,NGA,2022,39.7,False,-5.422,WEOOct2024all
+Nigeria,NGA,2023,46.406,False,-4.16,WEOOct2024all
+Nigeria,NGA,2024,51.276,True,-4.551,WEOOct2024all
+Nigeria,NGA,2025,50.032,True,-4.19,WEOOct2024all
+Pakistan,PAK,2000,61.673,False,-3.212,WEOOct2024all
+Pakistan,PAK,2001,65.148,False,-2.455,WEOOct2024all
+Pakistan,PAK,2002,60.531,False,-2.637,WEOOct2024all
+Pakistan,PAK,2003,56.326,False,-0.118,WEOOct2024all
+Pakistan,PAK,2004,50.609,False,-1.291,WEOOct2024all
+Pakistan,PAK,2005,47.878,False,-2.287,WEOOct2024all
+Pakistan,PAK,2006,46.189,False,-2.786,WEOOct2024all
+Pakistan,PAK,2007,43.854,False,-4.234,WEOOct2024all
+Pakistan,PAK,2008,49.114,False,-5.938,WEOOct2024all
+Pakistan,PAK,2009,53.361,False,-4.531,WEOOct2024all
+Pakistan,PAK,2010,55.259,False,-5.415,WEOOct2024all
+Pakistan,PAK,2011,55.065,False,-6.234,WEOOct2024all
+Pakistan,PAK,2012,57.281,False,-7.743,WEOOct2024all
+Pakistan,PAK,2013,58.258,False,-7.481,WEOOct2024all
+Pakistan,PAK,2014,57.817,False,-4.369,WEOOct2024all
+Pakistan,PAK,2015,57.886,False,-4.739,WEOOct2024all
+Pakistan,PAK,2016,60.809,False,-3.923,WEOOct2024all
+Pakistan,PAK,2017,60.856,False,-5.171,WEOOct2024all
+Pakistan,PAK,2018,64.82,False,-5.673,WEOOct2024all
+Pakistan,PAK,2019,77.505,False,-7.789,WEOOct2024all
+Pakistan,PAK,2020,79.559,False,-7.032,WEOOct2024all
+Pakistan,PAK,2021,73.508,False,-6.041,WEOOct2024all
+Pakistan,PAK,2022,76.159,False,-7.838,WEOOct2024all
+Pakistan,PAK,2023,77.291,False,-7.715,WEOOct2024all
+Pakistan,PAK,2024,69.248,False,-6.747,WEOOct2024all
+Pakistan,PAK,2025,71.444,True,-6.037,WEOOct2024all
+Panama,PAN,2000,53.854,False,2.094,WEOOct2024all
+Panama,PAN,2001,58.077,False,-0.379,WEOOct2024all
+Panama,PAN,2002,57.231,False,-0.932,WEOOct2024all
+Panama,PAN,2003,56.732,False,-2.499,WEOOct2024all
+Panama,PAN,2004,59.027,False,-4.882,WEOOct2024all
+Panama,PAN,2005,59.555,False,-3.216,WEOOct2024all
+Panama,PAN,2006,54.943,False,0.51,WEOOct2024all
+Panama,PAN,2007,47.623,False,3.598,WEOOct2024all
+Panama,PAN,2008,40.192,False,0.41,WEOOct2024all
+Panama,PAN,2009,40.148,False,0.016,WEOOct2024all
+Panama,PAN,2010,39.095,False,-2.03,WEOOct2024all
+Panama,PAN,2011,36.51,False,-2.158,WEOOct2024all
+Panama,PAN,2012,34.764,False,-1.466,WEOOct2024all
+Panama,PAN,2013,34.372,False,-2.41,WEOOct2024all
+Panama,PAN,2014,35.312,False,-3.163,WEOOct2024all
+Panama,PAN,2015,34.743,False,-2.254,WEOOct2024all
+Panama,PAN,2016,34.074,False,-1.876,WEOOct2024all
+Panama,PAN,2017,33.996,False,-1.881,WEOOct2024all
+Panama,PAN,2018,36.008,False,-2.727,WEOOct2024all
+Panama,PAN,2019,40.253,False,-2.924,WEOOct2024all
+Panama,PAN,2020,61.974,False,-9.982,WEOOct2024all
+Panama,PAN,2021,55.583,False,-6.416,WEOOct2024all
+Panama,PAN,2022,53.678,False,-4.037,WEOOct2024all
+Panama,PAN,2023,52.387,False,-2.986,WEOOct2024all
+Panama,PAN,2024,54.648,True,-4.26,WEOOct2024all
+Panama,PAN,2025,55.817,True,-3.212,WEOOct2024all
+Paraguay,PRY,2000,33.58,False,-0.547,WEOOct2024all
+Paraguay,PRY,2001,37.097,False,0.074,WEOOct2024all
+Paraguay,PRY,2002,50.537,False,-1.893,WEOOct2024all
+Paraguay,PRY,2003,37.508,False,0.062,WEOOct2024all
+Paraguay,PRY,2004,36.045,False,0.766,WEOOct2024all
+Paraguay,PRY,2005,28.285,False,0.713,WEOOct2024all
+Paraguay,PRY,2006,20.966,False,1.425,WEOOct2024all
+Paraguay,PRY,2007,16.812,False,1.142,WEOOct2024all
+Paraguay,PRY,2008,16.041,False,1.791,WEOOct2024all
+Paraguay,PRY,2009,14.939,False,-0.826,WEOOct2024all
+Paraguay,PRY,2010,12.976,False,0.068,WEOOct2024all
+Paraguay,PRY,2011,11.052,False,0.977,WEOOct2024all
+Paraguay,PRY,2012,12.312,False,-1.581,WEOOct2024all
+Paraguay,PRY,2013,13.495,False,-1.322,WEOOct2024all
+Paraguay,PRY,2014,15.589,False,-0.271,WEOOct2024all
+Paraguay,PRY,2015,18.613,False,-0.437,WEOOct2024all
+Paraguay,PRY,2016,19.39,False,-0.374,WEOOct2024all
+Paraguay,PRY,2017,19.847,False,-0.439,WEOOct2024all
+Paraguay,PRY,2018,22.331,False,-1.014,WEOOct2024all
+Paraguay,PRY,2019,25.768,False,-2.497,WEOOct2024all
+Paraguay,PRY,2020,36.899,False,-5.719,WEOOct2024all
+Paraguay,PRY,2021,37.501,False,-3.392,WEOOct2024all
+Paraguay,PRY,2022,40.528,False,-2.638,WEOOct2024all
+Paraguay,PRY,2023,41.216,False,-3.824,WEOOct2024all
+Paraguay,PRY,2024,41.918,True,-2.334,WEOOct2024all
+Paraguay,PRY,2025,41.229,True,-1.759,WEOOct2024all
+Peru,PER,2000,44.909,False,-2.116,WEOOct2024all
+Peru,PER,2001,43.841,False,-2.154,WEOOct2024all
+Peru,PER,2002,45.463,False,-1.404,WEOOct2024all
+Peru,PER,2003,49.376,False,-1.622,WEOOct2024all
+Peru,PER,2004,46.738,False,-1.033,WEOOct2024all
+Peru,PER,2005,40.359,False,-0.436,WEOOct2024all
+Peru,PER,2006,34.94,False,2.029,WEOOct2024all
+Peru,PER,2007,31.87,False,3.348,WEOOct2024all
+Peru,PER,2008,28.032,False,2.476,WEOOct2024all
+Peru,PER,2009,28.256,False,-1.483,WEOOct2024all
+Peru,PER,2010,25.116,False,-0.016,WEOOct2024all
+Peru,PER,2011,23.012,False,2.043,WEOOct2024all
+Peru,PER,2012,20.636,False,2.07,WEOOct2024all
+Peru,PER,2013,19.904,False,0.754,WEOOct2024all
+Peru,PER,2014,20.501,False,-0.189,WEOOct2024all
+Peru,PER,2015,23.882,False,-2.036,WEOOct2024all
+Peru,PER,2016,24.248,False,-2.146,WEOOct2024all
+Peru,PER,2017,25.137,False,-2.827,WEOOct2024all
+Peru,PER,2018,25.941,False,-1.964,WEOOct2024all
+Peru,PER,2019,26.889,False,-1.388,WEOOct2024all
+Peru,PER,2020,34.875,False,-8.301,WEOOct2024all
+Peru,PER,2021,36.087,False,-2.529,WEOOct2024all
+Peru,PER,2022,34.016,False,-1.402,WEOOct2024all
+Peru,PER,2023,33.022,False,-2.772,WEOOct2024all
+Peru,PER,2024,34.181,True,-3.21,WEOOct2024all
+Peru,PER,2025,35.295,True,-1.959,WEOOct2024all
+Philippines,PHL,2000,59.203,False,-3.274,WEOOct2024all
+Philippines,PHL,2001,59.471,False,-3.494,WEOOct2024all
+Philippines,PHL,2002,65.184,False,-3.707,WEOOct2024all
+Philippines,PHL,2003,71.393,False,-3.491,WEOOct2024all
+Philippines,PHL,2004,71.082,False,-2.807,WEOOct2024all
+Philippines,PHL,2005,64.674,False,-1.625,WEOOct2024all
+Philippines,PHL,2006,57.189,False,-0.046,WEOOct2024all
+Philippines,PHL,2007,50.168,False,-0.285,WEOOct2024all
+Philippines,PHL,2008,50.01,False,0.016,WEOOct2024all
+Philippines,PHL,2009,49.805,False,-2.569,WEOOct2024all
+Philippines,PHL,2010,47.587,False,-2.254,WEOOct2024all
+Philippines,PHL,2011,45.434,False,-0.377,WEOOct2024all
+Philippines,PHL,2012,45.691,False,-0.219,WEOOct2024all
+Philippines,PHL,2013,43.863,False,0.371,WEOOct2024all
+Philippines,PHL,2014,40.299,False,1.323,WEOOct2024all
+Philippines,PHL,2015,39.688,False,0.145,WEOOct2024all
+Philippines,PHL,2016,37.376,False,-0.744,WEOOct2024all
+Philippines,PHL,2017,38.13,False,-0.752,WEOOct2024all
+Philippines,PHL,2018,37.147,False,-1.484,WEOOct2024all
+Philippines,PHL,2019,36.973,False,-1.502,WEOOct2024all
+Philippines,PHL,2020,51.644,False,-5.544,WEOOct2024all
+Philippines,PHL,2021,57.005,False,-6.231,WEOOct2024all
+Philippines,PHL,2022,57.389,False,-5.476,WEOOct2024all
+Philippines,PHL,2023,56.473,False,-4.373,WEOOct2024all
+Philippines,PHL,2024,57.596,True,-3.871,WEOOct2024all
+Philippines,PHL,2025,58.248,True,-3.907,WEOOct2024all
+Poland,POL,2000,36.376,False,-3.994,WEOOct2024all
+Poland,POL,2001,37.14,False,-4.727,WEOOct2024all
+Poland,POL,2002,41.542,False,-4.8,WEOOct2024all
+Poland,POL,2003,46.366,False,-6.011,WEOOct2024all
+Poland,POL,2004,45.137,False,-5.01,WEOOct2024all
+Poland,POL,2005,46.604,False,-3.938,WEOOct2024all
+Poland,POL,2006,47.271,False,-3.539,WEOOct2024all
+Poland,POL,2007,44.499,False,-1.883,WEOOct2024all
+Poland,POL,2008,46.735,False,-3.606,WEOOct2024all
+Poland,POL,2009,49.821,False,-7.252,WEOOct2024all
+Poland,POL,2010,54.01,False,-7.465,WEOOct2024all
+Poland,POL,2011,55.134,False,-5.004,WEOOct2024all
+Poland,POL,2012,54.784,False,-3.816,WEOOct2024all
+Poland,POL,2013,57.116,False,-4.268,WEOOct2024all
+Poland,POL,2014,51.39,False,-3.669,WEOOct2024all
+Poland,POL,2015,51.345,False,-2.6,WEOOct2024all
+Poland,POL,2016,54.501,False,-2.399,WEOOct2024all
+Poland,POL,2017,50.797,False,-1.492,WEOOct2024all
+Poland,POL,2018,48.709,False,-0.25,WEOOct2024all
+Poland,POL,2019,45.708,False,-0.743,WEOOct2024all
+Poland,POL,2020,57.195,False,-6.935,WEOOct2024all
+Poland,POL,2021,53.622,False,-1.833,WEOOct2024all
+Poland,POL,2022,49.199,False,-3.444,WEOOct2024all
+Poland,POL,2023,49.594,False,-5.098,WEOOct2024all
+Poland,POL,2024,55.533,True,-5.656,WEOOct2024all
+Poland,POL,2025,59.986,True,-5.489,WEOOct2024all
+Romania,ROU,2000,29.558,False,-3.988,WEOOct2024all
+Romania,ROU,2001,27.409,False,-3.201,WEOOct2024all
+Romania,ROU,2002,27.383,False,-2.595,WEOOct2024all
+Romania,ROU,2003,24.88,False,-2.286,WEOOct2024all
+Romania,ROU,2004,21.329,False,-3.393,WEOOct2024all
+Romania,ROU,2005,17.767,False,-0.69,WEOOct2024all
+Romania,ROU,2006,12.691,False,-1.36,WEOOct2024all
+Romania,ROU,2007,12.431,False,-3.046,WEOOct2024all
+Romania,ROU,2008,13.004,False,-4.605,WEOOct2024all
+Romania,ROU,2009,22.452,False,-6.858,WEOOct2024all
+Romania,ROU,2010,30.171,False,-6.221,WEOOct2024all
+Romania,ROU,2011,32.599,False,-4.059,WEOOct2024all
+Romania,ROU,2012,36.164,False,-2.385,WEOOct2024all
+Romania,ROU,2013,39.264,False,-2.439,WEOOct2024all
+Romania,ROU,2014,40.476,False,-1.982,WEOOct2024all
+Romania,ROU,2015,39.354,False,-1.347,WEOOct2024all
+Romania,ROU,2016,39.548,False,-2.497,WEOOct2024all
+Romania,ROU,2017,37.107,False,-2.856,WEOOct2024all
+Romania,ROU,2018,36.189,False,-2.739,WEOOct2024all
+Romania,ROU,2019,36.629,False,-4.557,WEOOct2024all
+Romania,ROU,2020,49.391,False,-9.564,WEOOct2024all
+Romania,ROU,2021,51.671,False,-6.722,WEOOct2024all
+Romania,ROU,2022,51.282,False,-5.813,WEOOct2024all
+Romania,ROU,2023,52.109,False,-5.606,WEOOct2024all
+Romania,ROU,2024,55.726,True,-7.786,WEOOct2024all
+Romania,ROU,2025,59.656,True,-7.387,WEOOct2024all
+Rwanda,RWA,2000,85.991,False,-0.218,WEOOct2024all
+Rwanda,RWA,2001,84.021,False,-1.801,WEOOct2024all
+Rwanda,RWA,2002,92.027,False,-2.032,WEOOct2024all
+Rwanda,RWA,2003,79.535,False,-1.233,WEOOct2024all
+Rwanda,RWA,2004,80.943,False,2.274,WEOOct2024all
+Rwanda,RWA,2005,58.937,False,1.124,WEOOct2024all
+Rwanda,RWA,2006,22.492,False,-0.029,WEOOct2024all
+Rwanda,RWA,2007,22.098,False,-1.555,WEOOct2024all
+Rwanda,RWA,2008,18.28,False,0.825,WEOOct2024all
+Rwanda,RWA,2009,18.492,False,0.259,WEOOct2024all
+Rwanda,RWA,2010,18.81,False,-0.638,WEOOct2024all
+Rwanda,RWA,2011,18.717,False,-0.86,WEOOct2024all
+Rwanda,RWA,2012,19.086,False,-2.381,WEOOct2024all
+Rwanda,RWA,2013,26.065,False,-1.269,WEOOct2024all
+Rwanda,RWA,2014,28.308,False,-3.916,WEOOct2024all
+Rwanda,RWA,2015,32.369,False,-2.681,WEOOct2024all
+Rwanda,RWA,2016,36.547,False,-2.27,WEOOct2024all
+Rwanda,RWA,2017,41.317,False,-2.517,WEOOct2024all
+Rwanda,RWA,2018,44.947,False,-2.573,WEOOct2024all
+Rwanda,RWA,2019,49.854,False,-5.077,WEOOct2024all
+Rwanda,RWA,2020,65.641,False,-9.543,WEOOct2024all
+Rwanda,RWA,2021,66.581,False,-7.0,WEOOct2024all
+Rwanda,RWA,2022,60.58,False,-5.735,WEOOct2024all
+Rwanda,RWA,2023,64.473,False,-5.123,WEOOct2024all
+Rwanda,RWA,2024,71.356,True,-7.277,WEOOct2024all
+Rwanda,RWA,2025,73.298,True,-3.684,WEOOct2024all
+Saudi Arabia,SAU,2000,86.702,False,3.184,WEOOct2024all
+Saudi Arabia,SAU,2001,93.148,False,-3.906,WEOOct2024all
+Saudi Arabia,SAU,2002,96.352,False,-5.907,WEOOct2024all
+Saudi Arabia,SAU,2003,81.564,False,1.199,WEOOct2024all
+Saudi Arabia,SAU,2004,62.928,False,9.718,WEOOct2024all
+Saudi Arabia,SAU,2005,37.342,False,17.987,WEOOct2024all
+Saudi Arabia,SAU,2006,25.831,False,20.823,WEOOct2024all
+Saudi Arabia,SAU,2007,17.115,False,11.784,WEOOct2024all
+Saudi Arabia,SAU,2008,12.056,False,29.802,WEOOct2024all
+Saudi Arabia,SAU,2009,13.989,False,-5.383,WEOOct2024all
+Saudi Arabia,SAU,2010,8.426,False,4.392,WEOOct2024all
+Saudi Arabia,SAU,2011,5.34,False,11.462,WEOOct2024all
+Saudi Arabia,SAU,2012,3.012,False,11.838,WEOOct2024all
+Saudi Arabia,SAU,2013,2.127,False,5.585,WEOOct2024all
+Saudi Arabia,SAU,2014,1.541,False,-3.495,WEOOct2024all
+Saudi Arabia,SAU,2015,5.668,False,-15.478,WEOOct2024all
+Saudi Arabia,SAU,2016,12.676,False,-13.656,WEOOct2024all
+Saudi Arabia,SAU,2017,16.532,False,-8.887,WEOOct2024all
+Saudi Arabia,SAU,2018,17.639,False,-5.454,WEOOct2024all
+Saudi Arabia,SAU,2019,21.56,False,-4.203,WEOOct2024all
+Saudi Arabia,SAU,2020,31.001,False,-10.68,WEOOct2024all
+Saudi Arabia,SAU,2021,28.616,False,-2.241,WEOOct2024all
+Saudi Arabia,SAU,2022,23.933,False,2.525,WEOOct2024all
+Saudi Arabia,SAU,2023,26.227,False,-2.021,WEOOct2024all
+Saudi Arabia,SAU,2024,28.305,True,-3.034,WEOOct2024all
+Saudi Arabia,SAU,2025,30.571,True,-3.436,WEOOct2024all
+Senegal,SEN,2000,57.514,False,0.782,WEOOct2024all
+Senegal,SEN,2001,53.209,False,-1.441,WEOOct2024all
+Senegal,SEN,2002,51.993,False,0.191,WEOOct2024all
+Senegal,SEN,2003,42.883,False,-0.516,WEOOct2024all
+Senegal,SEN,2004,37.999,False,0.184,WEOOct2024all
+Senegal,SEN,2005,36.13,False,-0.263,WEOOct2024all
+Senegal,SEN,2006,17.487,False,-3.665,WEOOct2024all
+Senegal,SEN,2007,18.963,False,-2.798,WEOOct2024all
+Senegal,SEN,2008,19.073,False,-3.531,WEOOct2024all
+Senegal,SEN,2009,29.937,False,-3.663,WEOOct2024all
+Senegal,SEN,2010,34.6,False,-3.938,WEOOct2024all
+Senegal,SEN,2011,32.877,False,-4.924,WEOOct2024all
+Senegal,SEN,2012,34.489,False,-4.185,WEOOct2024all
+Senegal,SEN,2013,36.86,False,-4.335,WEOOct2024all
+Senegal,SEN,2014,42.366,False,-3.896,WEOOct2024all
+Senegal,SEN,2015,44.509,False,-3.663,WEOOct2024all
+Senegal,SEN,2016,47.524,False,-3.272,WEOOct2024all
+Senegal,SEN,2017,61.139,False,-2.968,WEOOct2024all
+Senegal,SEN,2018,61.523,False,-3.663,WEOOct2024all
+Senegal,SEN,2019,63.575,False,-3.853,WEOOct2024all
+Senegal,SEN,2020,69.166,False,-6.405,WEOOct2024all
+Senegal,SEN,2021,73.306,False,-6.314,WEOOct2024all
+Senegal,SEN,2022,75.954,False,-6.63,WEOOct2024all
+Senegal,SEN,2023,81.199,True,-4.859,WEOOct2024all
+Senegal,SEN,2024,84.336,True,-7.508,WEOOct2024all
+Senegal,SEN,2025,80.476,True,-4.529,WEOOct2024all
+Serbia,SRB,2000,213.781,False,-0.158,WEOOct2024all
+Serbia,SRB,2001,100.618,False,0.341,WEOOct2024all
+Serbia,SRB,2002,71.656,False,-2.438,WEOOct2024all
+Serbia,SRB,2003,67.63,False,-2.503,WEOOct2024all
+Serbia,SRB,2004,59.133,False,0.063,WEOOct2024all
+Serbia,SRB,2005,51.312,False,1.045,WEOOct2024all
+Serbia,SRB,2006,37.972,False,-0.928,WEOOct2024all
+Serbia,SRB,2007,31.204,False,-0.834,WEOOct2024all
+Serbia,SRB,2008,30.556,False,-4.413,WEOOct2024all
+Serbia,SRB,2009,33.925,False,-3.433,WEOOct2024all
+Serbia,SRB,2010,39.766,False,-3.485,WEOOct2024all
+Serbia,SRB,2011,43.709,False,-3.905,WEOOct2024all
+Serbia,SRB,2012,53.869,False,-6.36,WEOOct2024all
+Serbia,SRB,2013,56.406,False,-4.993,WEOOct2024all
+Serbia,SRB,2014,66.242,False,-5.853,WEOOct2024all
+Serbia,SRB,2015,69.854,False,-3.379,WEOOct2024all
+Serbia,SRB,2016,67.426,False,-1.119,WEOOct2024all
+Serbia,SRB,2017,57.5,False,1.37,WEOOct2024all
+Serbia,SRB,2018,53.305,False,0.811,WEOOct2024all
+Serbia,SRB,2019,51.711,False,-0.005,WEOOct2024all
+Serbia,SRB,2020,56.888,False,-7.239,WEOOct2024all
+Serbia,SRB,2021,56.24,False,-3.309,WEOOct2024all
+Serbia,SRB,2022,53.497,False,-0.148,WEOOct2024all
+Serbia,SRB,2023,48.912,False,-1.31,WEOOct2024all
+Serbia,SRB,2024,48.609,True,-2.589,WEOOct2024all
+Serbia,SRB,2025,47.409,True,-2.271,WEOOct2024all
+South Africa,ZAF,2000,37.929,False,-1.383,WEOOct2024all
+South Africa,ZAF,2001,38.045,False,-1.015,WEOOct2024all
+South Africa,ZAF,2002,31.801,False,-0.958,WEOOct2024all
+South Africa,ZAF,2003,31.514,False,-1.588,WEOOct2024all
+South Africa,ZAF,2004,30.733,False,-1.044,WEOOct2024all
+South Africa,ZAF,2005,29.637,False,-0.102,WEOOct2024all
+South Africa,ZAF,2006,28.03,False,0.813,WEOOct2024all
+South Africa,ZAF,2007,24.326,False,1.215,WEOOct2024all
+South Africa,ZAF,2008,24.045,False,-0.488,WEOOct2024all
+South Africa,ZAF,2009,26.995,False,-4.667,WEOOct2024all
+South Africa,ZAF,2010,31.185,False,-4.514,WEOOct2024all
+South Africa,ZAF,2011,34.742,False,-3.704,WEOOct2024all
+South Africa,ZAF,2012,37.408,False,-4.039,WEOOct2024all
+South Africa,ZAF,2013,40.356,False,-3.904,WEOOct2024all
+South Africa,ZAF,2014,43.253,False,-3.926,WEOOct2024all
+South Africa,ZAF,2015,45.195,False,-4.374,WEOOct2024all
+South Africa,ZAF,2016,47.134,False,-3.725,WEOOct2024all
+South Africa,ZAF,2017,48.588,False,-4.016,WEOOct2024all
+South Africa,ZAF,2018,51.536,False,-3.732,WEOOct2024all
+South Africa,ZAF,2019,56.101,False,-5.072,WEOOct2024all
+South Africa,ZAF,2020,68.927,False,-9.621,WEOOct2024all
+South Africa,ZAF,2021,68.672,False,-5.524,WEOOct2024all
+South Africa,ZAF,2022,70.832,False,-4.256,WEOOct2024all
+South Africa,ZAF,2023,73.363,True,-5.843,WEOOct2024all
+South Africa,ZAF,2024,74.978,True,-6.229,WEOOct2024all
+South Africa,ZAF,2025,77.401,True,-6.347,WEOOct2024all
+South Korea,KOR,2000,16.087,False,3.905,WEOOct2024all
+South Korea,KOR,2001,16.625,False,2.42,WEOOct2024all
+South Korea,KOR,2002,16.444,False,3.229,WEOOct2024all
+South Korea,KOR,2003,19.102,False,1.509,WEOOct2024all
+South Korea,KOR,2004,21.603,False,0.086,WEOOct2024all
+South Korea,KOR,2005,24.917,False,0.955,WEOOct2024all
+South Korea,KOR,2006,27.043,False,1.185,WEOOct2024all
+South Korea,KOR,2007,26.346,False,2.494,WEOOct2024all
+South Korea,KOR,2008,25.856,False,1.581,WEOOct2024all
+South Korea,KOR,2009,28.791,False,0.239,WEOOct2024all
+South Korea,KOR,2010,28.275,False,1.606,WEOOct2024all
+South Korea,KOR,2011,31.7,False,1.721,WEOOct2024all
+South Korea,KOR,2012,33.536,False,1.631,WEOOct2024all
+South Korea,KOR,2013,36.004,False,0.789,WEOOct2024all
+South Korea,KOR,2014,37.876,False,0.573,WEOOct2024all
+South Korea,KOR,2015,38.845,False,0.497,WEOOct2024all
+South Korea,KOR,2016,39.143,False,1.563,WEOOct2024all
+South Korea,KOR,2017,38.01,False,2.077,WEOOct2024all
+South Korea,KOR,2018,37.853,False,2.424,WEOOct2024all
+South Korea,KOR,2019,39.729,False,0.351,WEOOct2024all
+South Korea,KOR,2020,45.913,False,-2.105,WEOOct2024all
+South Korea,KOR,2021,47.986,False,-0.019,WEOOct2024all
+South Korea,KOR,2022,49.798,False,-1.492,WEOOct2024all
+South Korea,KOR,2023,51.498,False,-0.671,WEOOct2024all
+South Korea,KOR,2024,52.876,True,-0.526,WEOOct2024all
+South Korea,KOR,2025,54.28,True,-0.102,WEOOct2024all
+Sri Lanka,LKA,2000,79.202,False,-7.778,WEOOct2024all
+Sri Lanka,LKA,2001,84.364,False,-8.48,WEOOct2024all
+Sri Lanka,LKA,2002,96.301,False,-6.904,WEOOct2024all
+Sri Lanka,LKA,2003,86.45,False,-6.152,WEOOct2024all
+Sri Lanka,LKA,2004,86.499,False,-6.323,WEOOct2024all
+Sri Lanka,LKA,2005,76.589,False,-5.933,WEOOct2024all
+Sri Lanka,LKA,2006,74.29,False,-5.913,WEOOct2024all
+Sri Lanka,LKA,2007,71.849,False,-5.808,WEOOct2024all
+Sri Lanka,LKA,2008,68.782,False,-5.93,WEOOct2024all
+Sri Lanka,LKA,2009,72.75,False,-8.328,WEOOct2024all
+Sri Lanka,LKA,2010,68.731,False,-6.728,WEOOct2024all
+Sri Lanka,LKA,2011,69.428,False,-6.009,WEOOct2024all
+Sri Lanka,LKA,2012,67.504,False,-5.439,WEOOct2024all
+Sri Lanka,LKA,2013,69.457,False,-5.005,WEOOct2024all
+Sri Lanka,LKA,2014,69.561,False,-5.992,WEOOct2024all
+Sri Lanka,LKA,2015,76.334,False,-6.639,WEOOct2024all
+Sri Lanka,LKA,2016,75.0,False,-4.997,WEOOct2024all
+Sri Lanka,LKA,2017,72.26,False,-5.098,WEOOct2024all
+Sri Lanka,LKA,2018,83.585,False,-4.956,WEOOct2024all
+Sri Lanka,LKA,2019,82.594,False,-7.519,WEOOct2024all
+Sri Lanka,LKA,2020,96.881,False,-12.21,WEOOct2024all
+Sri Lanka,LKA,2021,102.669,False,-11.685,WEOOct2024all
+Sri Lanka,LKA,2022,115.94,False,-10.223,WEOOct2024all
+Sri Lanka,LKA,2023,,True,,WEOOct2024all
+Sri Lanka,LKA,2024,,True,,WEOOct2024all
+Sri Lanka,LKA,2025,,True,,WEOOct2024all
+Sudan,SDN,2000,143.248,False,-0.698,WEOOct2024all
+Sudan,SDN,2001,125.587,False,-0.767,WEOOct2024all
+Sudan,SDN,2002,121.72,False,-0.685,WEOOct2024all
+Sudan,SDN,2003,117.353,False,0.768,WEOOct2024all
+Sudan,SDN,2004,97.804,False,0.156,WEOOct2024all
+Sudan,SDN,2005,75.477,False,-1.876,WEOOct2024all
+Sudan,SDN,2006,63.706,False,-1.323,WEOOct2024all
+Sudan,SDN,2007,53.692,False,-2.842,WEOOct2024all
+Sudan,SDN,2008,55.756,False,0.491,WEOOct2024all
+Sudan,SDN,2009,70.995,False,-3.796,WEOOct2024all
+Sudan,SDN,2010,74.568,False,0.111,WEOOct2024all
+Sudan,SDN,2011,78.113,False,-2.327,WEOOct2024all
+Sudan,SDN,2012,117.671,False,-7.368,WEOOct2024all
+Sudan,SDN,2013,105.752,False,-5.761,WEOOct2024all
+Sudan,SDN,2014,84.426,False,-4.718,WEOOct2024all
+Sudan,SDN,2015,93.196,False,-3.869,WEOOct2024all
+Sudan,SDN,2016,109.93,False,-3.918,WEOOct2024all
+Sudan,SDN,2017,149.539,False,-6.069,WEOOct2024all
+Sudan,SDN,2018,209.809,False,-7.922,WEOOct2024all
+Sudan,SDN,2019,216.501,False,-10.76,WEOOct2024all
+Sudan,SDN,2020,278.303,False,-6.032,WEOOct2024all
+Sudan,SDN,2021,189.603,False,-0.287,WEOOct2024all
+Sudan,SDN,2022,186.765,True,-2.145,WEOOct2024all
+Sudan,SDN,2023,252.225,True,-3.599,WEOOct2024all
+Sudan,SDN,2024,344.423,True,-2.757,WEOOct2024all
+Sudan,SDN,2025,237.101,True,-3.75,WEOOct2024all
+Tanzania,TZA,2000,,False,-0.73,WEOOct2024all
+Tanzania,TZA,2001,50.77,False,-0.414,WEOOct2024all
+Tanzania,TZA,2002,47.371,False,-0.727,WEOOct2024all
+Tanzania,TZA,2003,44.376,False,-1.775,WEOOct2024all
+Tanzania,TZA,2004,44.522,False,-2.434,WEOOct2024all
+Tanzania,TZA,2005,46.091,False,-3.276,WEOOct2024all
+Tanzania,TZA,2006,34.462,False,-3.384,WEOOct2024all
+Tanzania,TZA,2007,23.761,False,-1.443,WEOOct2024all
+Tanzania,TZA,2008,21.743,False,-1.917,WEOOct2024all
+Tanzania,TZA,2009,24.013,False,-4.464,WEOOct2024all
+Tanzania,TZA,2010,27.553,False,-4.744,WEOOct2024all
+Tanzania,TZA,2011,28.383,False,-3.511,WEOOct2024all
+Tanzania,TZA,2012,30.046,False,-3.997,WEOOct2024all
+Tanzania,TZA,2013,32.68,False,-3.759,WEOOct2024all
+Tanzania,TZA,2014,36.409,False,-2.911,WEOOct2024all
+Tanzania,TZA,2015,39.524,False,-3.169,WEOOct2024all
+Tanzania,TZA,2016,39.797,False,-2.083,WEOOct2024all
+Tanzania,TZA,2017,40.109,False,-1.142,WEOOct2024all
+Tanzania,TZA,2018,42.032,False,-2.01,WEOOct2024all
+Tanzania,TZA,2019,40.437,False,-2.059,WEOOct2024all
+Tanzania,TZA,2020,41.269,False,-2.557,WEOOct2024all
+Tanzania,TZA,2021,43.394,False,-3.546,WEOOct2024all
+Tanzania,TZA,2022,44.854,False,-3.916,WEOOct2024all
+Tanzania,TZA,2023,46.872,False,-3.495,WEOOct2024all
+Tanzania,TZA,2024,47.335,True,-2.904,WEOOct2024all
+Tanzania,TZA,2025,46.279,True,-2.877,WEOOct2024all
+Thailand,THA,2000,57.826,False,-1.792,WEOOct2024all
+Thailand,THA,2001,57.469,False,-1.768,WEOOct2024all
+Thailand,THA,2002,54.902,False,-6.722,WEOOct2024all
+Thailand,THA,2003,47.501,False,1.978,WEOOct2024all
+Thailand,THA,2004,46.266,False,1.106,WEOOct2024all
+Thailand,THA,2005,45.462,False,2.173,WEOOct2024all
+Thailand,THA,2006,39.177,False,1.867,WEOOct2024all
+Thailand,THA,2007,35.985,False,0.22,WEOOct2024all
+Thailand,THA,2008,34.947,False,0.801,WEOOct2024all
+Thailand,THA,2009,42.364,False,-2.214,WEOOct2024all
+Thailand,THA,2010,39.831,False,-1.07,WEOOct2024all
+Thailand,THA,2011,39.116,False,0.094,WEOOct2024all
+Thailand,THA,2012,41.93,False,-0.86,WEOOct2024all
+Thailand,THA,2013,42.19,False,0.585,WEOOct2024all
+Thailand,THA,2014,43.335,False,-0.712,WEOOct2024all
+Thailand,THA,2015,42.559,False,0.173,WEOOct2024all
+Thailand,THA,2016,41.745,False,0.398,WEOOct2024all
+Thailand,THA,2017,41.778,False,-0.399,WEOOct2024all
+Thailand,THA,2018,41.941,False,0.176,WEOOct2024all
+Thailand,THA,2019,41.063,False,0.421,WEOOct2024all
+Thailand,THA,2020,49.42,False,-4.463,WEOOct2024all
+Thailand,THA,2021,58.337,False,-6.746,WEOOct2024all
+Thailand,THA,2022,60.522,False,-4.46,WEOOct2024all
+Thailand,THA,2023,62.44,False,-1.975,WEOOct2024all
+Thailand,THA,2024,65.011,True,-2.43,WEOOct2024all
+Thailand,THA,2025,66.075,True,-3.902,WEOOct2024all
+Tunisia,TUN,2000,62.859,False,-3.215,WEOOct2024all
+Tunisia,TUN,2001,52.155,False,-2.874,WEOOct2024all
+Tunisia,TUN,2002,51.625,False,-2.547,WEOOct2024all
+Tunisia,TUN,2003,52.556,False,-2.644,WEOOct2024all
+Tunisia,TUN,2004,51.578,False,-2.1,WEOOct2024all
+Tunisia,TUN,2005,49.977,False,-2.589,WEOOct2024all
+Tunisia,TUN,2006,45.715,False,-2.334,WEOOct2024all
+Tunisia,TUN,2007,42.704,False,-2.466,WEOOct2024all
+Tunisia,TUN,2008,41.363,False,-0.619,WEOOct2024all
+Tunisia,TUN,2009,40.299,False,-2.587,WEOOct2024all
+Tunisia,TUN,2010,38.803,False,-0.457,WEOOct2024all
+Tunisia,TUN,2011,43.336,False,-3.193,WEOOct2024all
+Tunisia,TUN,2012,49.04,False,-4.899,WEOOct2024all
+Tunisia,TUN,2013,45.628,False,-7.048,WEOOct2024all
+Tunisia,TUN,2014,50.733,False,-3.115,WEOOct2024all
+Tunisia,TUN,2015,52.401,False,-4.949,WEOOct2024all
+Tunisia,TUN,2016,58.908,False,-5.869,WEOOct2024all
+Tunisia,TUN,2017,67.099,False,-5.607,WEOOct2024all
+Tunisia,TUN,2018,72.908,False,-4.265,WEOOct2024all
+Tunisia,TUN,2019,67.297,False,-3.603,WEOOct2024all
+Tunisia,TUN,2020,77.708,False,-9.057,WEOOct2024all
+Tunisia,TUN,2021,79.728,False,-7.597,WEOOct2024all
+Tunisia,TUN,2022,82.932,False,-6.908,WEOOct2024all
+Tunisia,TUN,2023,82.35,False,-6.852,WEOOct2024all
+Tunisia,TUN,2024,83.66,True,-5.949,WEOOct2024all
+Tunisia,TUN,2025,84.316,True,-5.121,WEOOct2024all
+Turkey,TUR,2000,51.318,False,-8.37,WEOOct2024all
+Turkey,TUR,2001,75.509,False,-11.668,WEOOct2024all
+Turkey,TUR,2002,71.506,False,-11.339,WEOOct2024all
+Turkey,TUR,2003,65.16,False,-7.572,WEOOct2024all
+Turkey,TUR,2004,57.158,False,-4.122,WEOOct2024all
+Turkey,TUR,2005,50.196,False,-0.749,WEOOct2024all
+Turkey,TUR,2006,44.225,False,-0.218,WEOOct2024all
+Turkey,TUR,2007,37.759,False,-1.376,WEOOct2024all
+Turkey,TUR,2008,37.748,False,-2.144,WEOOct2024all
+Turkey,TUR,2009,43.212,False,-5.178,WEOOct2024all
+Turkey,TUR,2010,39.511,False,-3.015,WEOOct2024all
+Turkey,TUR,2011,35.912,False,-0.354,WEOOct2024all
+Turkey,TUR,2012,32.227,False,-1.787,WEOOct2024all
+Turkey,TUR,2013,30.892,False,-1.212,WEOOct2024all
+Turkey,TUR,2014,28.277,False,-0.967,WEOOct2024all
+Turkey,TUR,2015,27.163,False,-0.512,WEOOct2024all
+Turkey,TUR,2016,27.747,False,-1.679,WEOOct2024all
+Turkey,TUR,2017,27.777,False,-1.878,WEOOct2024all
+Turkey,TUR,2018,29.86,False,-3.134,WEOOct2024all
+Turkey,TUR,2019,32.39,False,-4.782,WEOOct2024all
+Turkey,TUR,2020,39.446,False,-4.721,WEOOct2024all
+Turkey,TUR,2021,40.384,False,-3.049,WEOOct2024all
+Turkey,TUR,2022,30.802,False,-1.119,WEOOct2024all
+Turkey,TUR,2023,29.264,False,-5.305,WEOOct2024all
+Turkey,TUR,2024,25.228,True,-5.19,WEOOct2024all
+Turkey,TUR,2025,26.03,True,-3.572,WEOOct2024all
+Uganda,UGA,2000,48.545,False,-0.624,WEOOct2024all
+Uganda,UGA,2001,51.352,False,-0.994,WEOOct2024all
+Uganda,UGA,2002,54.711,False,-2.068,WEOOct2024all
+Uganda,UGA,2003,55.139,False,-0.969,WEOOct2024all
+Uganda,UGA,2004,48.966,False,0.343,WEOOct2024all
+Uganda,UGA,2005,42.563,False,-0.17,WEOOct2024all
+Uganda,UGA,2006,27.758,False,-0.637,WEOOct2024all
+Uganda,UGA,2007,16.976,False,-0.815,WEOOct2024all
+Uganda,UGA,2008,15.654,False,-1.995,WEOOct2024all
+Uganda,UGA,2009,14.793,False,-1.61,WEOOct2024all
+Uganda,UGA,2010,18.355,False,-4.645,WEOOct2024all
+Uganda,UGA,2011,17.959,False,-2.043,WEOOct2024all
+Uganda,UGA,2012,19.491,False,-2.385,WEOOct2024all
+Uganda,UGA,2013,22.08,False,-3.19,WEOOct2024all
+Uganda,UGA,2014,24.768,False,-2.74,WEOOct2024all
+Uganda,UGA,2015,28.022,False,-2.594,WEOOct2024all
+Uganda,UGA,2016,31.333,False,-2.641,WEOOct2024all
+Uganda,UGA,2017,33.64,False,-3.826,WEOOct2024all
+Uganda,UGA,2018,34.886,False,-3.023,WEOOct2024all
+Uganda,UGA,2019,37.539,False,-4.816,WEOOct2024all
+Uganda,UGA,2020,46.335,False,-7.759,WEOOct2024all
+Uganda,UGA,2021,50.391,False,-7.449,WEOOct2024all
+Uganda,UGA,2022,49.995,False,-5.942,WEOOct2024all
+Uganda,UGA,2023,51.03,False,-4.87,WEOOct2024all
+Uganda,UGA,2024,51.38,True,-4.928,WEOOct2024all
+Uganda,UGA,2025,50.294,True,-3.762,WEOOct2024all
+Ukraine,UKR,2000,43.79,False,-3.186,WEOOct2024all
+Ukraine,UKR,2001,36.69,False,-3.031,WEOOct2024all
+Ukraine,UKR,2002,33.58,False,-1.841,WEOOct2024all
+Ukraine,UKR,2003,29.38,False,-0.893,WEOOct2024all
+Ukraine,UKR,2004,24.798,False,-4.415,WEOOct2024all
+Ukraine,UKR,2005,17.741,False,-2.277,WEOOct2024all
+Ukraine,UKR,2006,14.801,False,-1.365,WEOOct2024all
+Ukraine,UKR,2007,12.267,False,-1.967,WEOOct2024all
+Ukraine,UKR,2008,20.413,False,-3.139,WEOOct2024all
+Ukraine,UKR,2009,35.425,False,-6.272,WEOOct2024all
+Ukraine,UKR,2010,40.626,False,-5.772,WEOOct2024all
+Ukraine,UKR,2011,36.876,False,-2.762,WEOOct2024all
+Ukraine,UKR,2012,37.542,False,-4.307,WEOOct2024all
+Ukraine,UKR,2013,40.519,False,-4.784,WEOOct2024all
+Ukraine,UKR,2014,70.317,False,-4.46,WEOOct2024all
+Ukraine,UKR,2015,79.331,False,-1.16,WEOOct2024all
+Ukraine,UKR,2016,79.513,False,-2.459,WEOOct2024all
+Ukraine,UKR,2017,71.62,False,-2.356,WEOOct2024all
+Ukraine,UKR,2018,60.408,False,-2.124,WEOOct2024all
+Ukraine,UKR,2019,50.616,False,-2.082,WEOOct2024all
+Ukraine,UKR,2020,60.591,False,-5.918,WEOOct2024all
+Ukraine,UKR,2021,48.925,False,-3.972,WEOOct2024all
+Ukraine,UKR,2022,77.721,False,-15.602,WEOOct2024all
+Ukraine,UKR,2023,82.329,False,-19.608,WEOOct2024all
+Ukraine,UKR,2024,95.592,True,-18.738,WEOOct2024all
+Ukraine,UKR,2025,106.635,True,-19.167,WEOOct2024all
+United Arab Emirates,ARE,2000,3.12,False,10.66,WEOOct2024all
+United Arab Emirates,ARE,2001,2.69,False,1.205,WEOOct2024all
+United Arab Emirates,ARE,2002,3.427,False,-1.238,WEOOct2024all
+United Arab Emirates,ARE,2003,3.332,False,2.352,WEOOct2024all
+United Arab Emirates,ARE,2004,4.08,False,6.4,WEOOct2024all
+United Arab Emirates,ARE,2005,4.482,False,15.987,WEOOct2024all
+United Arab Emirates,ARE,2006,5.052,False,20.15,WEOOct2024all
+United Arab Emirates,ARE,2007,8.892,False,17.126,WEOOct2024all
+United Arab Emirates,ARE,2008,8.949,False,17.638,WEOOct2024all
+United Arab Emirates,ARE,2009,21.136,False,-6.127,WEOOct2024all
+United Arab Emirates,ARE,2010,18.799,False,0.532,WEOOct2024all
+United Arab Emirates,ARE,2011,20.862,False,5.166,WEOOct2024all
+United Arab Emirates,ARE,2012,20.657,False,8.771,WEOOct2024all
+United Arab Emirates,ARE,2013,15.611,False,8.183,WEOOct2024all
+United Arab Emirates,ARE,2014,13.819,False,1.789,WEOOct2024all
+United Arab Emirates,ARE,2015,16.104,False,-6.555,WEOOct2024all
+United Arab Emirates,ARE,2016,19.267,False,-3.051,WEOOct2024all
+United Arab Emirates,ARE,2017,21.864,False,-0.164,WEOOct2024all
+United Arab Emirates,ARE,2018,21.329,False,3.77,WEOOct2024all
+United Arab Emirates,ARE,2019,26.801,False,2.59,WEOOct2024all
+United Arab Emirates,ARE,2020,41.294,False,-2.468,WEOOct2024all
+United Arab Emirates,ARE,2021,36.291,False,4.033,WEOOct2024all
+United Arab Emirates,ARE,2022,32.057,False,9.974,WEOOct2024all
+United Arab Emirates,ARE,2023,32.436,False,4.958,WEOOct2024all
+United Arab Emirates,ARE,2024,31.424,True,4.802,WEOOct2024all
+United Arab Emirates,ARE,2025,31.284,True,4.354,WEOOct2024all
+United Kingdom,GBR,2000,37.686,False,1.332,WEOOct2024all
+United Kingdom,GBR,2001,34.958,False,0.315,WEOOct2024all
+United Kingdom,GBR,2002,35.435,False,-1.978,WEOOct2024all
+United Kingdom,GBR,2003,36.764,False,-3.238,WEOOct2024all
+United Kingdom,GBR,2004,39.802,False,-3.188,WEOOct2024all
+United Kingdom,GBR,2005,41.0,False,-3.173,WEOOct2024all
+United Kingdom,GBR,2006,42.058,False,-2.794,WEOOct2024all
+United Kingdom,GBR,2007,43.174,False,-2.68,WEOOct2024all
+United Kingdom,GBR,2008,50.827,False,-5.158,WEOOct2024all
+United Kingdom,GBR,2009,64.915,False,-10.097,WEOOct2024all
+United Kingdom,GBR,2010,75.86,False,-9.253,WEOOct2024all
+United Kingdom,GBR,2011,81.425,False,-7.42,WEOOct2024all
+United Kingdom,GBR,2012,84.483,False,-7.496,WEOOct2024all
+United Kingdom,GBR,2013,85.316,False,-5.382,WEOOct2024all
+United Kingdom,GBR,2014,87.094,False,-5.576,WEOOct2024all
+United Kingdom,GBR,2015,87.867,False,-4.622,WEOOct2024all
+United Kingdom,GBR,2016,87.825,False,-3.338,WEOOct2024all
+United Kingdom,GBR,2017,86.723,False,-2.505,WEOOct2024all
+United Kingdom,GBR,2018,86.345,False,-2.273,WEOOct2024all
+United Kingdom,GBR,2019,85.658,False,-2.481,WEOOct2024all
+United Kingdom,GBR,2020,105.84,False,-13.145,WEOOct2024all
+United Kingdom,GBR,2021,105.135,False,-7.86,WEOOct2024all
+United Kingdom,GBR,2022,99.62,False,-4.703,WEOOct2024all
+United Kingdom,GBR,2023,99.967,False,-5.964,WEOOct2024all
+United Kingdom,GBR,2024,101.816,True,-4.25,WEOOct2024all
+United Kingdom,GBR,2025,103.832,True,-3.741,WEOOct2024all
+United States,USA,2000,,False,,WEOOct2024all
+United States,USA,2001,53.146,False,-0.544,WEOOct2024all
+United States,USA,2002,55.538,False,-3.821,WEOOct2024all
+United States,USA,2003,58.625,False,-4.771,WEOOct2024all
+United States,USA,2004,66.105,False,-4.244,WEOOct2024all
+United States,USA,2005,65.453,False,-3.075,WEOOct2024all
+United States,USA,2006,64.189,False,-2.036,WEOOct2024all
+United States,USA,2007,64.585,False,-2.913,WEOOct2024all
+United States,USA,2008,73.431,False,-6.612,WEOOct2024all
+United States,USA,2009,86.598,False,-13.177,WEOOct2024all
+United States,USA,2010,95.162,False,-10.993,WEOOct2024all
+United States,USA,2011,99.498,False,-9.716,WEOOct2024all
+United States,USA,2012,103.065,False,-8.114,WEOOct2024all
+United States,USA,2013,104.343,False,-4.561,WEOOct2024all
+United States,USA,2014,104.242,False,-4.026,WEOOct2024all
+United States,USA,2015,104.661,False,-3.53,WEOOct2024all
+United States,USA,2016,106.582,False,-4.356,WEOOct2024all
+United States,USA,2017,105.529,False,-4.794,WEOOct2024all
+United States,USA,2018,106.847,False,-5.335,WEOOct2024all
+United States,USA,2019,108.004,False,-5.8,WEOOct2024all
+United States,USA,2020,131.831,False,-13.922,WEOOct2024all
+United States,USA,2021,124.524,False,-11.023,WEOOct2024all
+United States,USA,2022,118.617,False,-3.924,WEOOct2024all
+United States,USA,2023,118.725,False,-7.068,WEOOct2024all
+United States,USA,2024,121.005,True,-7.629,WEOOct2024all
+United States,USA,2025,124.12,True,-7.323,WEOOct2024all
+Uruguay,URY,2000,30.487,False,-2.758,WEOOct2024all
+Uruguay,URY,2001,39.41,False,-2.852,WEOOct2024all
+Uruguay,URY,2002,90.097,False,-3.186,WEOOct2024all
+Uruguay,URY,2003,91.915,False,-2.194,WEOOct2024all
+Uruguay,URY,2004,73.676,False,-0.868,WEOOct2024all
+Uruguay,URY,2005,66.173,False,-0.276,WEOOct2024all
+Uruguay,URY,2006,61.055,False,-0.643,WEOOct2024all
+Uruguay,URY,2007,52.811,False,-0.157,WEOOct2024all
+Uruguay,URY,2008,46.214,False,-1.305,WEOOct2024all
+Uruguay,URY,2009,46.176,False,-1.394,WEOOct2024all
+Uruguay,URY,2010,40.853,False,-0.387,WEOOct2024all
+Uruguay,URY,2011,41.259,False,-0.334,WEOOct2024all
+Uruguay,URY,2012,49.812,False,-2.173,WEOOct2024all
+Uruguay,URY,2013,49.976,False,-1.722,WEOOct2024all
+Uruguay,URY,2014,51.098,False,-2.6,WEOOct2024all
+Uruguay,URY,2015,57.76,False,-1.857,WEOOct2024all
+Uruguay,URY,2016,56.401,False,-2.681,WEOOct2024all
+Uruguay,URY,2017,55.821,False,-2.51,WEOOct2024all
+Uruguay,URY,2018,57.889,False,-1.888,WEOOct2024all
+Uruguay,URY,2019,59.628,False,-2.714,WEOOct2024all
+Uruguay,URY,2020,68.08,False,-4.659,WEOOct2024all
+Uruguay,URY,2021,64.058,False,-2.632,WEOOct2024all
+Uruguay,URY,2022,60.308,False,-2.547,WEOOct2024all
+Uruguay,URY,2023,64.498,False,-3.076,WEOOct2024all
+Uruguay,URY,2024,64.719,True,-2.99,WEOOct2024all
+Uruguay,URY,2025,65.049,True,-2.64,WEOOct2024all
+Venezuela,VEN,2000,27.7,False,4.45,WEOOct2024all
+Venezuela,VEN,2001,30.729,False,-4.593,WEOOct2024all
+Venezuela,VEN,2002,48.177,False,-1.482,WEOOct2024all
+Venezuela,VEN,2003,56.029,False,0.171,WEOOct2024all
+Venezuela,VEN,2004,41.783,False,2.47,WEOOct2024all
+Venezuela,VEN,2005,34.913,False,4.095,WEOOct2024all
+Venezuela,VEN,2006,25.658,False,-1.605,WEOOct2024all
+Venezuela,VEN,2007,26.364,False,-2.815,WEOOct2024all
+Venezuela,VEN,2008,20.311,False,-3.461,WEOOct2024all
+Venezuela,VEN,2009,27.574,False,-8.686,WEOOct2024all
+Venezuela,VEN,2010,37.706,False,-4.739,WEOOct2024all
+Venezuela,VEN,2011,52.476,False,-8.244,WEOOct2024all
+Venezuela,VEN,2012,58.445,False,-9.856,WEOOct2024all
+Venezuela,VEN,2013,85.399,False,-10.351,WEOOct2024all
+Venezuela,VEN,2014,84.897,False,-9.808,WEOOct2024all
+Venezuela,VEN,2015,129.762,False,-8.063,WEOOct2024all
+Venezuela,VEN,2016,138.404,False,-8.463,WEOOct2024all
+Venezuela,VEN,2017,133.61,False,-13.273,WEOOct2024all
+Venezuela,VEN,2018,175.313,True,-30.976,WEOOct2024all
+Venezuela,VEN,2019,206.02,True,-10.934,WEOOct2024all
+Venezuela,VEN,2020,329.096,True,-6.597,WEOOct2024all
+Venezuela,VEN,2021,249.712,True,-5.859,WEOOct2024all
+Venezuela,VEN,2022,160.666,True,-6.837,WEOOct2024all
+Venezuela,VEN,2023,146.262,True,-4.219,WEOOct2024all
+Venezuela,VEN,2024,,True,,WEOOct2024all
+Venezuela,VEN,2025,,True,,WEOOct2024all
+Vietnam,VNM,2000,24.755,False,-1.605,WEOOct2024all
+Vietnam,VNM,2001,25.42,False,-2.192,WEOOct2024all
+Vietnam,VNM,2002,27.711,False,-1.855,WEOOct2024all
+Vietnam,VNM,2003,29.835,False,-2.559,WEOOct2024all
+Vietnam,VNM,2004,29.363,False,-0.15,WEOOct2024all
+Vietnam,VNM,2005,28.669,False,-0.954,WEOOct2024all
+Vietnam,VNM,2006,30.248,False,0.201,WEOOct2024all
+Vietnam,VNM,2007,32.21,False,-1.739,WEOOct2024all
+Vietnam,VNM,2008,31.045,False,-0.447,WEOOct2024all
+Vietnam,VNM,2009,36.17,False,-4.824,WEOOct2024all
+Vietnam,VNM,2010,37.286,False,-2.251,WEOOct2024all
+Vietnam,VNM,2011,36.185,False,-0.901,WEOOct2024all
+Vietnam,VNM,2012,38.33,False,-5.462,WEOOct2024all
+Vietnam,VNM,2013,41.413,False,-5.964,WEOOct2024all
+Vietnam,VNM,2014,43.642,False,-5.017,WEOOct2024all
+Vietnam,VNM,2015,46.117,False,-4.983,WEOOct2024all
+Vietnam,VNM,2016,47.88,False,-3.164,WEOOct2024all
+Vietnam,VNM,2017,46.621,False,-1.964,WEOOct2024all
+Vietnam,VNM,2018,43.798,False,-1.021,WEOOct2024all
+Vietnam,VNM,2019,40.993,False,-0.397,WEOOct2024all
+Vietnam,VNM,2020,41.319,False,-2.861,WEOOct2024all
+Vietnam,VNM,2021,39.237,False,-1.432,WEOOct2024all
+Vietnam,VNM,2022,34.737,False,0.676,WEOOct2024all
+Vietnam,VNM,2023,34.371,True,-2.463,WEOOct2024all
+Vietnam,VNM,2024,33.815,True,-2.582,WEOOct2024all
+Vietnam,VNM,2025,33.206,True,-2.244,WEOOct2024all
+Zambia,ZMB,2000,260.964,False,1.161,WEOOct2024all
+Zambia,ZMB,2001,210.243,False,-5.892,WEOOct2024all
+Zambia,ZMB,2002,180.244,False,-4.499,WEOOct2024all
+Zambia,ZMB,2003,159.458,False,-5.314,WEOOct2024all
+Zambia,ZMB,2004,129.914,False,-2.508,WEOOct2024all
+Zambia,ZMB,2005,75.748,False,-2.372,WEOOct2024all
+Zambia,ZMB,2006,25.006,False,16.913,WEOOct2024all
+Zambia,ZMB,2007,21.921,False,-1.037,WEOOct2024all
+Zambia,ZMB,2008,19.192,False,-0.668,WEOOct2024all
+Zambia,ZMB,2009,20.522,False,-2.057,WEOOct2024all
+Zambia,ZMB,2010,18.898,False,-2.432,WEOOct2024all
+Zambia,ZMB,2011,20.808,False,-1.783,WEOOct2024all
+Zambia,ZMB,2012,24.92,False,-3.157,WEOOct2024all
+Zambia,ZMB,2013,25.909,False,-6.395,WEOOct2024all
+Zambia,ZMB,2014,33.857,False,-5.433,WEOOct2024all
+Zambia,ZMB,2015,61.869,False,-8.878,WEOOct2024all
+Zambia,ZMB,2016,58.035,False,-5.691,WEOOct2024all
+Zambia,ZMB,2017,63.358,False,-7.499,WEOOct2024all
+Zambia,ZMB,2018,75.229,False,-8.309,WEOOct2024all
+Zambia,ZMB,2019,94.426,False,-9.407,WEOOct2024all
+Zambia,ZMB,2020,140.001,False,-13.762,WEOOct2024all
+Zambia,ZMB,2021,111.047,False,-8.135,WEOOct2024all
+Zambia,ZMB,2022,99.476,False,-7.821,WEOOct2024all
+Zambia,ZMB,2023,127.314,True,-6.483,WEOOct2024all
+Zambia,ZMB,2024,,True,-6.098,WEOOct2024all
+Zambia,ZMB,2025,,True,-2.788,WEOOct2024all
+Zimbabwe,ZWE,2000,,False,,WEOOct2024all
+Zimbabwe,ZWE,2001,,False,,WEOOct2024all
+Zimbabwe,ZWE,2002,,False,,WEOOct2024all
+Zimbabwe,ZWE,2003,,False,,WEOOct2024all
+Zimbabwe,ZWE,2004,,False,,WEOOct2024all
+Zimbabwe,ZWE,2005,33.062,False,-5.116,WEOOct2024all
+Zimbabwe,ZWE,2006,39.438,False,-2.069,WEOOct2024all
+Zimbabwe,ZWE,2007,44.671,False,-2.474,WEOOct2024all
+Zimbabwe,ZWE,2008,61.078,False,-1.768,WEOOct2024all
+Zimbabwe,ZWE,2009,58.71,False,-2.056,WEOOct2024all
+Zimbabwe,ZWE,2010,47.578,False,-0.152,WEOOct2024all
+Zimbabwe,ZWE,2011,42.858,False,-2.452,WEOOct2024all
+Zimbabwe,ZWE,2012,38.379,False,-0.18,WEOOct2024all
+Zimbabwe,ZWE,2013,37.048,False,-0.97,WEOOct2024all
+Zimbabwe,ZWE,2014,42.312,False,-1.023,WEOOct2024all
+Zimbabwe,ZWE,2015,48.029,False,-2.037,WEOOct2024all
+Zimbabwe,ZWE,2016,49.908,False,-6.588,WEOOct2024all
+Zimbabwe,ZWE,2017,68.935,False,-10.377,WEOOct2024all
+Zimbabwe,ZWE,2018,48.125,False,-5.569,WEOOct2024all
+Zimbabwe,ZWE,2019,82.337,False,-0.904,WEOOct2024all
+Zimbabwe,ZWE,2020,84.466,False,0.294,WEOOct2024all
+Zimbabwe,ZWE,2021,58.172,False,-2.207,WEOOct2024all
+Zimbabwe,ZWE,2022,102.14,False,-5.966,WEOOct2024all
+Zimbabwe,ZWE,2023,96.699,False,-6.242,WEOOct2024all
+Zimbabwe,ZWE,2024,70.259,True,-10.404,WEOOct2024all
+Zimbabwe,ZWE,2025,58.008,True,-7.88,WEOOct2024all
