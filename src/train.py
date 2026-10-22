@@ -40,9 +40,16 @@ def fit_scaler(X_train):
 
 
 def get_class_weights(y_train):
-    classes = np.array([0, 1, 2])
-    cw = compute_class_weight("balanced", classes=classes, y=y_train)
-    return {int(c): float(w) for c, w in zip(classes, cw)}
+    """Balanced weights for the classes present; an absent class gets 1.0.
+
+    The monthly training years (before 2020) contain no default, so class 0 can
+    be missing from y_train; the weights must still cover all three classes.
+    """
+    present = np.unique(np.asarray(y_train, dtype=int))
+    cw = compute_class_weight("balanced", classes=present, y=y_train)
+    weights = {c: 1.0 for c in (0, 1, 2)}
+    weights.update({int(c): float(w) for c, w in zip(present, cw)})
+    return weights
 
 
 def train_xgboost(X_train, y_train, X_val, y_val, class_weights):
@@ -145,17 +152,20 @@ class SovereignLSTM(nn.Module):
 
 
 def train_lstm(df_train, df_val, scaler, class_weights,
-               seq_len=12, epochs=30, batch_size=32, lr=1e-3, device=None):
+               seq_len=12, epochs=30, batch_size=32, lr=1e-3, device=None,
+               feature_cols=None):
+    if feature_cols is None:
+        feature_cols = FEATURE_COLS
     if device is None:
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    train_ds = SovereignSequenceDataset(df_train, FEATURE_COLS, TARGET_COL, scaler, seq_len)
-    val_ds   = SovereignSequenceDataset(df_val,   FEATURE_COLS, TARGET_COL, scaler, seq_len)
+    train_ds = SovereignSequenceDataset(df_train, feature_cols, TARGET_COL, scaler, seq_len)
+    val_ds   = SovereignSequenceDataset(df_val,   feature_cols, TARGET_COL, scaler, seq_len)
 
     train_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True)
     val_loader   = DataLoader(val_ds,   batch_size=batch_size, shuffle=False)
 
-    model = SovereignLSTM(input_size=len(FEATURE_COLS)).to(device)
+    model = SovereignLSTM(input_size=len(feature_cols)).to(device)
 
     weights_tensor = torch.tensor(
         [class_weights[i] for i in range(3)], dtype=torch.float

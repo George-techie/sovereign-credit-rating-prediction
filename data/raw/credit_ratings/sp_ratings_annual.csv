@@ -1,0 +1,1847 @@
+country,year,rating,outlook,notch,rating_class
+Angola,2000,,,,
+Angola,2001,,,,
+Angola,2002,,,,
+Angola,2003,,,,
+Angola,2004,,,,
+Angola,2005,,,,
+Angola,2006,,,,
+Angola,2007,,,,
+Angola,2008,,,,
+Angola,2009,,,,
+Angola,2010,,,,
+Angola,2011,BB-,Stable,9.0,1.0
+Angola,2012,BB-,Stable,9.0,1.0
+Angola,2013,BB-,Stable,9.0,1.0
+Angola,2014,BB-,Stable,9.0,1.0
+Angola,2015,B+,Negative,8.0,1.0
+Angola,2016,B,Negative,7.0,1.0
+Angola,2017,B-,Stable,6.0,1.0
+Angola,2018,B-,Stable,6.0,1.0
+Angola,2019,B-,Negative,6.0,1.0
+Angola,2020,CCC+,Stable,5.0,1.0
+Angola,2021,CCC+,Stable,5.0,1.0
+Angola,2022,B-,Stable,6.0,1.0
+Angola,2023,B-,Stable,6.0,1.0
+Angola,2024,B-,Stable,6.0,1.0
+Angola,2025,B-,Stable,6.0,1.0
+Argentina,2000,,,,
+Argentina,2001,,,,
+Argentina,2002,,,,
+Argentina,2003,,,,
+Argentina,2004,,,,
+Argentina,2005,,,,
+Argentina,2006,,,,
+Argentina,2007,,,,
+Argentina,2008,,,,
+Argentina,2009,,,,
+Argentina,2010,B,Stable,7.0,1.0
+Argentina,2011,B,Stable,7.0,1.0
+Argentina,2012,B-,Negative,6.0,1.0
+Argentina,2013,CCC+,Negative,5.0,1.0
+Argentina,2014,SD,,0.0,0.0
+Argentina,2015,SD,,0.0,0.0
+Argentina,2016,B-,Stable,6.0,1.0
+Argentina,2017,B+,Stable,8.0,1.0
+Argentina,2018,B,Stable,7.0,1.0
+Argentina,2019,CC,Negative,2.0,1.0
+Argentina,2020,CCC+,Stable,5.0,1.0
+Argentina,2021,CCC+,Stable,5.0,1.0
+Argentina,2022,CCC+,Negative,5.0,1.0
+Argentina,2023,CCC-,Negative,3.0,1.0
+Argentina,2024,CCC,Stable,4.0,1.0
+Argentina,2025,CCC+,Stable,5.0,1.0
+Australia,2000,,,,
+Australia,2001,,,,
+Australia,2002,,,,
+Australia,2003,AAA,Stable,21.0,2.0
+Australia,2004,AAA,Stable,21.0,2.0
+Australia,2005,AAA,Stable,21.0,2.0
+Australia,2006,AAA,Stable,21.0,2.0
+Australia,2007,AAA,Stable,21.0,2.0
+Australia,2008,AAA,Stable,21.0,2.0
+Australia,2009,AAA,Stable,21.0,2.0
+Australia,2010,AAA,Stable,21.0,2.0
+Australia,2011,AAA,Stable,21.0,2.0
+Australia,2012,AAA,Stable,21.0,2.0
+Australia,2013,AAA,Stable,21.0,2.0
+Australia,2014,AAA,Stable,21.0,2.0
+Australia,2015,AAA,Stable,21.0,2.0
+Australia,2016,AAA,Negative,21.0,2.0
+Australia,2017,AAA,Negative,21.0,2.0
+Australia,2018,AAA,Stable,21.0,2.0
+Australia,2019,AAA,Stable,21.0,2.0
+Australia,2020,AAA,Negative,21.0,2.0
+Australia,2021,AAA,Stable,21.0,2.0
+Australia,2022,AAA,Stable,21.0,2.0
+Australia,2023,AAA,Stable,21.0,2.0
+Australia,2024,AAA,Stable,21.0,2.0
+Australia,2025,AAA,Stable,21.0,2.0
+Azerbaijan,2000,,,,
+Azerbaijan,2001,,,,
+Azerbaijan,2002,,,,
+Azerbaijan,2003,,,,
+Azerbaijan,2004,,,,
+Azerbaijan,2005,,,,
+Azerbaijan,2006,,,,
+Azerbaijan,2007,,,,
+Azerbaijan,2008,BB+,,11.0,1.0
+Azerbaijan,2009,BB+,Positive,11.0,1.0
+Azerbaijan,2010,BB+,Positive,11.0,1.0
+Azerbaijan,2011,BBB-,Stable,12.0,2.0
+Azerbaijan,2012,BBB-,Stable,12.0,2.0
+Azerbaijan,2013,BBB-,Stable,12.0,2.0
+Azerbaijan,2014,BBB-,Stable,12.0,2.0
+Azerbaijan,2015,BBB-,Negative,12.0,2.0
+Azerbaijan,2016,BB+,Negative,11.0,1.0
+Azerbaijan,2017,BB+,Negative,11.0,1.0
+Azerbaijan,2018,BB+,Stable,11.0,1.0
+Azerbaijan,2019,BB+,Stable,11.0,1.0
+Azerbaijan,2020,BB+,Negative,11.0,1.0
+Azerbaijan,2021,BB+,Stable,11.0,1.0
+Azerbaijan,2022,BB+,Stable,11.0,1.0
+Azerbaijan,2023,BB+,Stable,11.0,1.0
+Azerbaijan,2024,BB+,Stable,11.0,1.0
+Azerbaijan,2025,BB+,Stable,11.0,1.0
+Bahrain,2000,,,,
+Bahrain,2001,,,,
+Bahrain,2002,,,,
+Bahrain,2003,,,,
+Bahrain,2004,,,,
+Bahrain,2005,,,,
+Bahrain,2006,,,,
+Bahrain,2007,,,,
+Bahrain,2008,,,,
+Bahrain,2009,,,,
+Bahrain,2010,,,,
+Bahrain,2011,BBB,Negative,13.0,2.0
+Bahrain,2012,BBB,Negative,13.0,2.0
+Bahrain,2013,BBB,Stable,13.0,2.0
+Bahrain,2014,BBB,Negative,13.0,2.0
+Bahrain,2015,BBB-,Negative,12.0,2.0
+Bahrain,2016,BB-,Stable,9.0,1.0
+Bahrain,2017,B+,Stable,8.0,1.0
+Bahrain,2018,B+,Stable,8.0,1.0
+Bahrain,2019,B+,Positive,8.0,1.0
+Bahrain,2020,B+,Stable,8.0,1.0
+Bahrain,2021,B+,Stable,8.0,1.0
+Bahrain,2022,B+,Positive,8.0,1.0
+Bahrain,2023,B+,Stable,8.0,1.0
+Bahrain,2024,B+,Stable,8.0,1.0
+Bahrain,2025,B,Stable,7.0,1.0
+Bangladesh,2000,,,,
+Bangladesh,2001,,,,
+Bangladesh,2002,,,,
+Bangladesh,2003,,,,
+Bangladesh,2004,,,,
+Bangladesh,2005,,,,
+Bangladesh,2006,,,,
+Bangladesh,2007,,,,
+Bangladesh,2008,,,,
+Bangladesh,2009,,,,
+Bangladesh,2010,BB-,Stable,9.0,1.0
+Bangladesh,2011,BB-,Stable,9.0,1.0
+Bangladesh,2012,BB-,Stable,9.0,1.0
+Bangladesh,2013,BB-,Stable,9.0,1.0
+Bangladesh,2014,BB-,Stable,9.0,1.0
+Bangladesh,2015,BB-,Stable,9.0,1.0
+Bangladesh,2016,BB-,Stable,9.0,1.0
+Bangladesh,2017,BB-,Stable,9.0,1.0
+Bangladesh,2018,BB-,Stable,9.0,1.0
+Bangladesh,2019,BB-,Stable,9.0,1.0
+Bangladesh,2020,BB-,Stable,9.0,1.0
+Bangladesh,2021,BB-,Stable,9.0,1.0
+Bangladesh,2022,BB-,Stable,9.0,1.0
+Bangladesh,2023,BB-,Negative,9.0,1.0
+Bangladesh,2024,B+,Stable,8.0,1.0
+Bangladesh,2025,B+,Stable,8.0,1.0
+Benin,2000,,,,
+Benin,2001,,,,
+Benin,2002,,,,
+Benin,2003,,,,
+Benin,2004,,,,
+Benin,2005,,,,
+Benin,2006,B,,7.0,1.0
+Benin,2007,B,,7.0,1.0
+Benin,2008,B,,7.0,1.0
+Benin,2009,B,,7.0,1.0
+Benin,2010,B,Stable,7.0,1.0
+Benin,2011,B,Stable,7.0,1.0
+Benin,2012,B,Negative,7.0,1.0
+Benin,2013,B,Negative,7.0,1.0
+Benin,2014,B,Negative,7.0,1.0
+Benin,2015,B,Negative,7.0,1.0
+Benin,2016,B,Negative,7.0,1.0
+Benin,2017,B,Negative,7.0,1.0
+Benin,2018,B,Negative,7.0,1.0
+Benin,2019,B,Negative,7.0,1.0
+Benin,2020,B,Negative,7.0,1.0
+Benin,2021,B,Negative,7.0,1.0
+Benin,2022,B,Negative,7.0,1.0
+Benin,2023,B,Negative,7.0,1.0
+Benin,2024,B,Negative,7.0,1.0
+Benin,2025,B,Negative,7.0,1.0
+Bolivia,2000,,,,
+Bolivia,2001,,,,
+Bolivia,2002,,,,
+Bolivia,2003,,,,
+Bolivia,2004,,,,
+Bolivia,2005,,,,
+Bolivia,2006,,,,
+Bolivia,2007,,,,
+Bolivia,2008,,,,
+Bolivia,2009,,,,
+Bolivia,2010,,,,
+Bolivia,2011,B+,Positive,8.0,1.0
+Bolivia,2012,BB-,Stable,9.0,1.0
+Bolivia,2013,B-,Negative,6.0,1.0
+Bolivia,2014,CCC+,Negative,5.0,1.0
+Bolivia,2015,CCC,Negative,4.0,1.0
+Bolivia,2016,CCC,Negative,4.0,1.0
+Bolivia,2017,SD,,0.0,0.0
+Bolivia,2018,BB-,Stable,9.0,1.0
+Bolivia,2019,BB-,Negative,9.0,1.0
+Bolivia,2020,B+,Stable,8.0,1.0
+Bolivia,2021,B+,Negative,8.0,1.0
+Bolivia,2022,B,Stable,7.0,1.0
+Bolivia,2023,CCC+,Negative,5.0,1.0
+Bolivia,2024,CCC+,Negative,5.0,1.0
+Bolivia,2025,CCC-,Negative,3.0,1.0
+Botswana,2000,,,,
+Botswana,2001,,,,
+Botswana,2002,,,,
+Botswana,2003,,,,
+Botswana,2004,,,,
+Botswana,2005,,,,
+Botswana,2006,,,,
+Botswana,2007,,,,
+Botswana,2008,,,,
+Botswana,2009,,,,
+Botswana,2010,A-,Stable,15.0,2.0
+Botswana,2011,A-,Stable,15.0,2.0
+Botswana,2012,A-,Stable,15.0,2.0
+Botswana,2013,A-,Stable,15.0,2.0
+Botswana,2014,A-,Stable,15.0,2.0
+Botswana,2015,A-,Stable,15.0,2.0
+Botswana,2016,A-,Negative,15.0,2.0
+Botswana,2017,A-,Stable,15.0,2.0
+Botswana,2018,A-,Stable,15.0,2.0
+Botswana,2019,A-,Stable,15.0,2.0
+Botswana,2020,BBB+,Negative,14.0,2.0
+Botswana,2021,BBB+,Stable,14.0,2.0
+Botswana,2022,BBB+,Stable,14.0,2.0
+Botswana,2023,BBB+,Stable,14.0,2.0
+Botswana,2024,BBB+,Stable,14.0,2.0
+Botswana,2025,BBB,Negative,13.0,2.0
+Brazil,2000,,,,
+Brazil,2001,,,,
+Brazil,2002,,,,
+Brazil,2003,,,,
+Brazil,2004,,,,
+Brazil,2005,,,,
+Brazil,2006,,,,
+Brazil,2007,,,,
+Brazil,2008,BBB-,,12.0,2.0
+Brazil,2009,BBB-,,12.0,2.0
+Brazil,2010,BBB-,,12.0,2.0
+Brazil,2011,BBB,Stable,13.0,2.0
+Brazil,2012,BBB,Stable,13.0,2.0
+Brazil,2013,BBB,Negative,13.0,2.0
+Brazil,2014,BBB-,Stable,12.0,2.0
+Brazil,2015,BB+,Negative,11.0,1.0
+Brazil,2016,BB,Negative,10.0,1.0
+Brazil,2017,BB,Negative,10.0,1.0
+Brazil,2018,BB-,Stable,9.0,1.0
+Brazil,2019,BB-,Positive,9.0,1.0
+Brazil,2020,BB-,Stable,9.0,1.0
+Brazil,2021,BB-,Stable,9.0,1.0
+Brazil,2022,BB-,Stable,9.0,1.0
+Brazil,2023,BB,Stable,10.0,1.0
+Brazil,2024,BB,Stable,10.0,1.0
+Brazil,2025,BB,Stable,10.0,1.0
+Bulgaria,2000,,,,
+Bulgaria,2001,,,,
+Bulgaria,2002,,,,
+Bulgaria,2003,,,,
+Bulgaria,2004,,,,
+Bulgaria,2005,,,,
+Bulgaria,2006,,,,
+Bulgaria,2007,,,,
+Bulgaria,2008,BBB,,13.0,2.0
+Bulgaria,2009,BBB,Stable,13.0,2.0
+Bulgaria,2010,BBB,Stable,13.0,2.0
+Bulgaria,2011,BBB,Stable,13.0,2.0
+Bulgaria,2012,BBB,Stable,13.0,2.0
+Bulgaria,2013,BBB,Negative,13.0,2.0
+Bulgaria,2014,BB+,Stable,11.0,1.0
+Bulgaria,2015,BB+,Stable,11.0,1.0
+Bulgaria,2016,BB+,Stable,11.0,1.0
+Bulgaria,2017,BBB-,Stable,12.0,2.0
+Bulgaria,2018,BBB-,Positive,12.0,2.0
+Bulgaria,2019,BBB,Positive,13.0,2.0
+Bulgaria,2020,BBB,Stable,13.0,2.0
+Bulgaria,2021,BBB,Stable,13.0,2.0
+Bulgaria,2022,BBB,Stable,13.0,2.0
+Bulgaria,2023,BBB,Positive,13.0,2.0
+Bulgaria,2024,BBB,Positive,13.0,2.0
+Bulgaria,2025,BBB+,Stable,14.0,2.0
+Burkina Faso,2000,,,,
+Burkina Faso,2001,,,,
+Burkina Faso,2002,,,,
+Burkina Faso,2003,,,,
+Burkina Faso,2004,B,,7.0,1.0
+Burkina Faso,2005,B,,7.0,1.0
+Burkina Faso,2006,B,,7.0,1.0
+Burkina Faso,2007,B,,7.0,1.0
+Burkina Faso,2008,B,Stable,7.0,1.0
+Burkina Faso,2009,B,Stable,7.0,1.0
+Burkina Faso,2010,B,Stable,7.0,1.0
+Burkina Faso,2011,B,Stable,7.0,1.0
+Burkina Faso,2012,B,Stable,7.0,1.0
+Burkina Faso,2013,B,Stable,7.0,1.0
+Burkina Faso,2014,B-,Stable,6.0,1.0
+Burkina Faso,2015,B-,Stable,6.0,1.0
+Burkina Faso,2016,B-,Positive,6.0,1.0
+Burkina Faso,2017,B,Stable,7.0,1.0
+Burkina Faso,2018,B,Stable,7.0,1.0
+Burkina Faso,2019,B,Stable,7.0,1.0
+Burkina Faso,2020,B,Stable,7.0,1.0
+Burkina Faso,2021,B,Stable,7.0,1.0
+Burkina Faso,2022,CCC+,,5.0,1.0
+Burkina Faso,2023,CCC+,,5.0,1.0
+Burkina Faso,2024,CCC+,,5.0,1.0
+Burkina Faso,2025,CCC+,,5.0,1.0
+Cameroon,2000,,,,
+Cameroon,2001,,,,
+Cameroon,2002,,,,
+Cameroon,2003,,,,
+Cameroon,2004,,,,
+Cameroon,2005,,,,
+Cameroon,2006,,,,
+Cameroon,2007,B,Stable,7.0,1.0
+Cameroon,2008,B,Stable,7.0,1.0
+Cameroon,2009,B,Stable,7.0,1.0
+Cameroon,2010,B,Stable,7.0,1.0
+Cameroon,2011,B,Stable,7.0,1.0
+Cameroon,2012,B,Stable,7.0,1.0
+Cameroon,2013,B,Stable,7.0,1.0
+Cameroon,2014,B,Stable,7.0,1.0
+Cameroon,2015,B,Stable,7.0,1.0
+Cameroon,2016,B,Stable,7.0,1.0
+Cameroon,2017,B,Stable,7.0,1.0
+Cameroon,2018,B,Stable,7.0,1.0
+Cameroon,2019,B,Negative,7.0,1.0
+Cameroon,2020,B-,Stable,6.0,1.0
+Cameroon,2021,B-,Stable,6.0,1.0
+Cameroon,2022,B-,Stable,6.0,1.0
+Cameroon,2023,CCC+,Stable,5.0,1.0
+Cameroon,2024,B-,Stable,6.0,1.0
+Cameroon,2025,B-,Stable,6.0,1.0
+Canada,2000,,,,
+Canada,2001,,,,
+Canada,2002,AAA,Stable,21.0,2.0
+Canada,2003,AAA,Stable,21.0,2.0
+Canada,2004,AAA,Stable,21.0,2.0
+Canada,2005,AAA,Stable,21.0,2.0
+Canada,2006,AAA,Stable,21.0,2.0
+Canada,2007,AAA,Stable,21.0,2.0
+Canada,2008,AAA,Stable,21.0,2.0
+Canada,2009,AAA,Stable,21.0,2.0
+Canada,2010,AAA,Stable,21.0,2.0
+Canada,2011,AAA,Stable,21.0,2.0
+Canada,2012,AAA,Stable,21.0,2.0
+Canada,2013,AAA,Stable,21.0,2.0
+Canada,2014,AAA,Stable,21.0,2.0
+Canada,2015,AAA,Stable,21.0,2.0
+Canada,2016,AAA,Stable,21.0,2.0
+Canada,2017,AAA,Stable,21.0,2.0
+Canada,2018,AAA,Stable,21.0,2.0
+Canada,2019,AAA,Stable,21.0,2.0
+Canada,2020,AAA,Stable,21.0,2.0
+Canada,2021,AAA,Stable,21.0,2.0
+Canada,2022,AAA,Stable,21.0,2.0
+Canada,2023,AAA,Stable,21.0,2.0
+Canada,2024,AAA,Stable,21.0,2.0
+Canada,2025,AAA,Stable,21.0,2.0
+Cape Verde,2000,,,,
+Cape Verde,2001,,,,
+Cape Verde,2002,,,,
+Cape Verde,2003,,,,
+Cape Verde,2004,,,,
+Cape Verde,2005,,,,
+Cape Verde,2006,,,,
+Cape Verde,2007,,,,
+Cape Verde,2008,B+,,8.0,1.0
+Cape Verde,2009,B+,,8.0,1.0
+Cape Verde,2010,B+,,8.0,1.0
+Cape Verde,2011,B+,Stable,8.0,1.0
+Cape Verde,2012,B+,Stable,8.0,1.0
+Cape Verde,2013,B,Stable,7.0,1.0
+Cape Verde,2014,B,Stable,7.0,1.0
+Cape Verde,2015,B,Stable,7.0,1.0
+Cape Verde,2016,B,Stable,7.0,1.0
+Cape Verde,2017,B,Stable,7.0,1.0
+Cape Verde,2018,B,Stable,7.0,1.0
+Cape Verde,2019,B,Stable,7.0,1.0
+Cape Verde,2020,B,Negative,7.0,1.0
+Cape Verde,2021,B-,Stable,6.0,1.0
+Cape Verde,2022,B-,Stable,6.0,1.0
+Cape Verde,2023,B-,Stable,6.0,1.0
+Cape Verde,2024,B,Stable,7.0,1.0
+Cape Verde,2025,B,Positive,7.0,1.0
+Chile,2000,,,,
+Chile,2001,,,,
+Chile,2002,,,,
+Chile,2003,,,,
+Chile,2004,,,,
+Chile,2005,,,,
+Chile,2006,,,,
+Chile,2007,A+,,17.0,2.0
+Chile,2008,A+,,17.0,2.0
+Chile,2009,A+,,17.0,2.0
+Chile,2010,A+,Positive,17.0,2.0
+Chile,2011,A+,Positive,17.0,2.0
+Chile,2012,AA-,Stable,18.0,2.0
+Chile,2013,AA-,Stable,18.0,2.0
+Chile,2014,AA-,Stable,18.0,2.0
+Chile,2015,AA-,Stable,18.0,2.0
+Chile,2016,AA-,Stable,18.0,2.0
+Chile,2017,A+,Stable,17.0,2.0
+Chile,2018,A+,Stable,17.0,2.0
+Chile,2019,A+,Stable,17.0,2.0
+Chile,2020,A+,Negative,17.0,2.0
+Chile,2021,A,Stable,16.0,2.0
+Chile,2022,A,Stable,16.0,2.0
+Chile,2023,A,Negative,16.0,2.0
+Chile,2024,A,Stable,16.0,2.0
+Chile,2025,A,Stable,16.0,2.0
+China,2000,,,,
+China,2001,,,,
+China,2002,,,,
+China,2003,,,,
+China,2004,,,,
+China,2005,,,,
+China,2006,,,,
+China,2007,,,,
+China,2008,,,,
+China,2009,,,,
+China,2010,AA-,Stable,18.0,2.0
+China,2011,AA-,Stable,18.0,2.0
+China,2012,AA-,Stable,18.0,2.0
+China,2013,AA-,Stable,18.0,2.0
+China,2014,AA-,Stable,18.0,2.0
+China,2015,AA-,Stable,18.0,2.0
+China,2016,AA-,Negative,18.0,2.0
+China,2017,A+,Stable,17.0,2.0
+China,2018,A+,Stable,17.0,2.0
+China,2019,A+,Stable,17.0,2.0
+China,2020,A+,Stable,17.0,2.0
+China,2021,A+,Stable,17.0,2.0
+China,2022,A+,Stable,17.0,2.0
+China,2023,A+,Stable,17.0,2.0
+China,2024,A+,Stable,17.0,2.0
+China,2025,A+,Stable,17.0,2.0
+Colombia,2000,,,,
+Colombia,2001,,,,
+Colombia,2002,,,,
+Colombia,2003,,,,
+Colombia,2004,,,,
+Colombia,2005,,,,
+Colombia,2006,,,,
+Colombia,2007,,,,
+Colombia,2008,,,,
+Colombia,2009,,,,
+Colombia,2010,,,,
+Colombia,2011,BBB-,Stable,12.0,2.0
+Colombia,2012,BBB-,Positive,12.0,2.0
+Colombia,2013,BBB,Stable,13.0,2.0
+Colombia,2014,BBB,Stable,13.0,2.0
+Colombia,2015,BBB,Stable,13.0,2.0
+Colombia,2016,BBB,Negative,13.0,2.0
+Colombia,2017,BBB-,Stable,12.0,2.0
+Colombia,2018,BBB-,Stable,12.0,2.0
+Colombia,2019,BBB-,Stable,12.0,2.0
+Colombia,2020,BBB-,Negative,12.0,2.0
+Colombia,2021,BB+,Stable,11.0,1.0
+Colombia,2022,BB+,Stable,11.0,1.0
+Colombia,2023,BB+,Stable,11.0,1.0
+Colombia,2024,BB+,Negative,11.0,1.0
+Colombia,2025,BB,Negative,10.0,1.0
+Costa Rica,2000,BB,,10.0,1.0
+Costa Rica,2001,BB,,10.0,1.0
+Costa Rica,2002,BB,,10.0,1.0
+Costa Rica,2003,BB,,10.0,1.0
+Costa Rica,2004,BB,,10.0,1.0
+Costa Rica,2005,BB,,10.0,1.0
+Costa Rica,2006,BB,,10.0,1.0
+Costa Rica,2007,BB,,10.0,1.0
+Costa Rica,2008,BB,Stable,10.0,1.0
+Costa Rica,2009,BB,Stable,10.0,1.0
+Costa Rica,2010,BB,Stable,10.0,1.0
+Costa Rica,2011,BB,Stable,10.0,1.0
+Costa Rica,2012,BB,Stable,10.0,1.0
+Costa Rica,2013,BB,Stable,10.0,1.0
+Costa Rica,2014,BB,Stable,10.0,1.0
+Costa Rica,2015,BB,Stable,10.0,1.0
+Costa Rica,2016,BB-,Negative,9.0,1.0
+Costa Rica,2017,BB-,Negative,9.0,1.0
+Costa Rica,2018,B+,Negative,8.0,1.0
+Costa Rica,2019,B+,Negative,8.0,1.0
+Costa Rica,2020,B,Negative,7.0,1.0
+Costa Rica,2021,B,Negative,7.0,1.0
+Costa Rica,2022,B,Stable,7.0,1.0
+Costa Rica,2023,BB-,Stable,9.0,1.0
+Costa Rica,2024,BB-,Stable,9.0,1.0
+Costa Rica,2025,BB,Stable,10.0,1.0
+Czech Republic,2000,,,,
+Czech Republic,2001,,,,
+Czech Republic,2002,,,,
+Czech Republic,2003,,,,
+Czech Republic,2004,,,,
+Czech Republic,2005,,,,
+Czech Republic,2006,,,,
+Czech Republic,2007,,,,
+Czech Republic,2008,,,,
+Czech Republic,2009,,,,
+Czech Republic,2010,,,,
+Czech Republic,2011,AA-,Stable,18.0,2.0
+Czech Republic,2012,AA-,Stable,18.0,2.0
+Czech Republic,2013,AA-,Stable,18.0,2.0
+Czech Republic,2014,AA-,Stable,18.0,2.0
+Czech Republic,2015,AA-,Stable,18.0,2.0
+Czech Republic,2016,AA-,Stable,18.0,2.0
+Czech Republic,2017,AA-,Stable,18.0,2.0
+Czech Republic,2018,AA-,Stable,18.0,2.0
+Czech Republic,2019,AA-,Stable,18.0,2.0
+Czech Republic,2020,AA-,Stable,18.0,2.0
+Czech Republic,2021,AA-,Stable,18.0,2.0
+Czech Republic,2022,AA-,Stable,18.0,2.0
+Czech Republic,2023,AA-,Stable,18.0,2.0
+Czech Republic,2024,AA-,Stable,18.0,2.0
+Czech Republic,2025,AA-,Stable,18.0,2.0
+Democratic Republic of Congo,2000,,,,
+Democratic Republic of Congo,2001,,,,
+Democratic Republic of Congo,2002,,,,
+Democratic Republic of Congo,2003,,,,
+Democratic Republic of Congo,2004,,,,
+Democratic Republic of Congo,2005,,,,
+Democratic Republic of Congo,2006,,,,
+Democratic Republic of Congo,2007,,,,
+Democratic Republic of Congo,2008,,,,
+Democratic Republic of Congo,2009,,,,
+Democratic Republic of Congo,2010,,,,
+Democratic Republic of Congo,2011,,,,
+Democratic Republic of Congo,2012,,,,
+Democratic Republic of Congo,2013,B-,Stable,6.0,1.0
+Democratic Republic of Congo,2014,B-,Stable,6.0,1.0
+Democratic Republic of Congo,2015,B-,Stable,6.0,1.0
+Democratic Republic of Congo,2016,B-,Negative,6.0,1.0
+Democratic Republic of Congo,2017,CCC+,Stable,5.0,1.0
+Democratic Republic of Congo,2018,CCC+,Stable,5.0,1.0
+Democratic Republic of Congo,2019,CCC+,Positive,5.0,1.0
+Democratic Republic of Congo,2020,CCC+,Stable,5.0,1.0
+Democratic Republic of Congo,2021,CCC+,Stable,5.0,1.0
+Democratic Republic of Congo,2022,B-,Stable,6.0,1.0
+Democratic Republic of Congo,2023,B-,Stable,6.0,1.0
+Democratic Republic of Congo,2024,B-,Stable,6.0,1.0
+Democratic Republic of Congo,2025,B-,Stable,6.0,1.0
+Ecuador,2000,,,,
+Ecuador,2001,,,,
+Ecuador,2002,,,,
+Ecuador,2003,,,,
+Ecuador,2004,,,,
+Ecuador,2005,,,,
+Ecuador,2006,,,,
+Ecuador,2007,,,,
+Ecuador,2008,,,,
+Ecuador,2009,,,,
+Ecuador,2010,B-,,6.0,1.0
+Ecuador,2011,B-,Positive,6.0,1.0
+Ecuador,2012,B,Stable,7.0,1.0
+Ecuador,2013,B,Positive,7.0,1.0
+Ecuador,2014,B+,Stable,8.0,1.0
+Ecuador,2015,B,Stable,7.0,1.0
+Ecuador,2016,B,Stable,7.0,1.0
+Ecuador,2017,B-,Stable,6.0,1.0
+Ecuador,2018,B-,Stable,6.0,1.0
+Ecuador,2019,B-,Stable,6.0,1.0
+Ecuador,2020,B-,Stable,6.0,1.0
+Ecuador,2021,B-,Stable,6.0,1.0
+Ecuador,2022,B-,Stable,6.0,1.0
+Ecuador,2023,B-,Stable,6.0,1.0
+Ecuador,2024,B-,Negative,6.0,1.0
+Ecuador,2025,B-,Stable,6.0,1.0
+Egypt,2000,,,,
+Egypt,2001,,,,
+Egypt,2002,,,,
+Egypt,2003,,,,
+Egypt,2004,,,,
+Egypt,2005,,,,
+Egypt,2006,,,,
+Egypt,2007,,,,
+Egypt,2008,,,,
+Egypt,2009,,,,
+Egypt,2010,,,,
+Egypt,2011,B+,Negative,8.0,1.0
+Egypt,2012,B-,Negative,6.0,1.0
+Egypt,2013,B-,Stable,6.0,1.0
+Egypt,2014,B-,Stable,6.0,1.0
+Egypt,2015,B-,Stable,6.0,1.0
+Egypt,2016,B-,Stable,6.0,1.0
+Egypt,2017,B-,Positive,6.0,1.0
+Egypt,2018,B,Stable,7.0,1.0
+Egypt,2019,B,Stable,7.0,1.0
+Egypt,2020,B,Stable,7.0,1.0
+Egypt,2021,B,Stable,7.0,1.0
+Egypt,2022,B,Stable,7.0,1.0
+Egypt,2023,B-,Stable,6.0,1.0
+Egypt,2024,B-,Positive,6.0,1.0
+Egypt,2025,B,Stable,7.0,1.0
+France,2000,AAA,Stable,21.0,2.0
+France,2001,AAA,Stable,21.0,2.0
+France,2002,AAA,Stable,21.0,2.0
+France,2003,AAA,Stable,21.0,2.0
+France,2004,AAA,Stable,21.0,2.0
+France,2005,AAA,Stable,21.0,2.0
+France,2006,AAA,Stable,21.0,2.0
+France,2007,AAA,Stable,21.0,2.0
+France,2008,AAA,Stable,21.0,2.0
+France,2009,AAA,Stable,21.0,2.0
+France,2010,AAA,Stable,21.0,2.0
+France,2011,AAA,Negative,21.0,2.0
+France,2012,AA+,Negative,20.0,2.0
+France,2013,AA,Stable,19.0,2.0
+France,2014,AA,Negative,19.0,2.0
+France,2015,AA,Negative,19.0,2.0
+France,2016,AA,Stable,19.0,2.0
+France,2017,AA,Stable,19.0,2.0
+France,2018,AA,Stable,19.0,2.0
+France,2019,AA,Stable,19.0,2.0
+France,2020,AA,Stable,19.0,2.0
+France,2021,AA,Stable,19.0,2.0
+France,2022,AA,Negative,19.0,2.0
+France,2023,AA,Negative,19.0,2.0
+France,2024,AA-,Stable,18.0,2.0
+France,2025,A+,Stable,17.0,2.0
+Georgia,2000,,,,
+Georgia,2001,,,,
+Georgia,2002,,,,
+Georgia,2003,,,,
+Georgia,2004,,,,
+Georgia,2005,,,,
+Georgia,2006,,,,
+Georgia,2007,,,,
+Georgia,2008,,,,
+Georgia,2009,,,,
+Georgia,2010,B+,,8.0,1.0
+Georgia,2011,BB-,Stable,9.0,1.0
+Georgia,2012,BB-,Stable,9.0,1.0
+Georgia,2013,BB-,Stable,9.0,1.0
+Georgia,2014,BB-,Stable,9.0,1.0
+Georgia,2015,BB-,Stable,9.0,1.0
+Georgia,2016,BB-,Stable,9.0,1.0
+Georgia,2017,BB-,Stable,9.0,1.0
+Georgia,2018,BB-,Stable,9.0,1.0
+Georgia,2019,BB,Stable,10.0,1.0
+Georgia,2020,BB,Stable,10.0,1.0
+Georgia,2021,BB,Negative,10.0,1.0
+Georgia,2022,BB,Stable,10.0,1.0
+Georgia,2023,BB,Stable,10.0,1.0
+Georgia,2024,BB,Stable,10.0,1.0
+Georgia,2025,BB,Stable,10.0,1.0
+Germany,2000,AAA,Stable,21.0,2.0
+Germany,2001,AAA,Stable,21.0,2.0
+Germany,2002,AAA,Stable,21.0,2.0
+Germany,2003,AAA,Stable,21.0,2.0
+Germany,2004,AAA,Stable,21.0,2.0
+Germany,2005,AAA,Stable,21.0,2.0
+Germany,2006,AAA,Stable,21.0,2.0
+Germany,2007,AAA,Stable,21.0,2.0
+Germany,2008,AAA,Stable,21.0,2.0
+Germany,2009,AAA,Stable,21.0,2.0
+Germany,2010,AAA,Stable,21.0,2.0
+Germany,2011,AAA,Negative,21.0,2.0
+Germany,2012,AAA,Stable,21.0,2.0
+Germany,2013,AAA,Stable,21.0,2.0
+Germany,2014,AAA,Stable,21.0,2.0
+Germany,2015,AAA,Stable,21.0,2.0
+Germany,2016,AAA,Stable,21.0,2.0
+Germany,2017,AAA,Stable,21.0,2.0
+Germany,2018,AAA,Stable,21.0,2.0
+Germany,2019,AAA,Stable,21.0,2.0
+Germany,2020,AAA,Stable,21.0,2.0
+Germany,2021,AAA,Stable,21.0,2.0
+Germany,2022,AAA,Stable,21.0,2.0
+Germany,2023,AAA,Stable,21.0,2.0
+Germany,2024,AAA,Stable,21.0,2.0
+Germany,2025,AAA,Stable,21.0,2.0
+Ghana,2000,,,,
+Ghana,2001,,,,
+Ghana,2002,,,,
+Ghana,2003,,,,
+Ghana,2004,,,,
+Ghana,2005,,,,
+Ghana,2006,,,,
+Ghana,2007,,,,
+Ghana,2008,,,,
+Ghana,2009,,,,
+Ghana,2010,B,Stable,7.0,1.0
+Ghana,2011,B,Stable,7.0,1.0
+Ghana,2012,B,Stable,7.0,1.0
+Ghana,2013,B,Negative,7.0,1.0
+Ghana,2014,B-,Stable,6.0,1.0
+Ghana,2015,B-,Stable,6.0,1.0
+Ghana,2016,B-,Stable,6.0,1.0
+Ghana,2017,B-,Positive,6.0,1.0
+Ghana,2018,B,Stable,7.0,1.0
+Ghana,2019,B,Stable,7.0,1.0
+Ghana,2020,B-,Stable,6.0,1.0
+Ghana,2021,B-,Stable,6.0,1.0
+Ghana,2022,SD,,0.0,0.0
+Ghana,2023,SD,,0.0,0.0
+Ghana,2024,SD,,0.0,0.0
+Ghana,2025,B-,Stable,6.0,1.0
+Hungary,2000,,,,
+Hungary,2001,,,,
+Hungary,2002,,,,
+Hungary,2003,,,,
+Hungary,2004,,,,
+Hungary,2005,,,,
+Hungary,2006,,,,
+Hungary,2007,,,,
+Hungary,2008,,,,
+Hungary,2009,BBB-,,12.0,2.0
+Hungary,2010,BBB-,Negative,12.0,2.0
+Hungary,2011,BB+,Negative,11.0,1.0
+Hungary,2012,BB,Stable,10.0,1.0
+Hungary,2013,BB,Negative,10.0,1.0
+Hungary,2014,BB,Stable,10.0,1.0
+Hungary,2015,BB+,Stable,11.0,1.0
+Hungary,2016,BBB-,Stable,12.0,2.0
+Hungary,2017,BBB-,Positive,12.0,2.0
+Hungary,2018,BBB-,Positive,12.0,2.0
+Hungary,2019,BBB,Stable,13.0,2.0
+Hungary,2020,BBB,Stable,13.0,2.0
+Hungary,2021,BBB,Stable,13.0,2.0
+Hungary,2022,BBB,Negative,13.0,2.0
+Hungary,2023,BBB-,Stable,12.0,2.0
+Hungary,2024,BBB-,Stable,12.0,2.0
+Hungary,2025,BBB-,Negative,12.0,2.0
+India,2000,,,,
+India,2001,,,,
+India,2002,,,,
+India,2003,,,,
+India,2004,,,,
+India,2005,,,,
+India,2006,,,,
+India,2007,BBB-,,12.0,2.0
+India,2008,BBB-,,12.0,2.0
+India,2009,BBB-,,12.0,2.0
+India,2010,BBB-,Stable,12.0,2.0
+India,2011,BBB-,Stable,12.0,2.0
+India,2012,BBB-,Negative,12.0,2.0
+India,2013,BBB-,Negative,12.0,2.0
+India,2014,BBB-,Stable,12.0,2.0
+India,2015,BBB-,Stable,12.0,2.0
+India,2016,BBB-,Stable,12.0,2.0
+India,2017,BBB-,Stable,12.0,2.0
+India,2018,BBB-,Stable,12.0,2.0
+India,2019,BBB-,Stable,12.0,2.0
+India,2020,BBB-,Stable,12.0,2.0
+India,2021,BBB-,Stable,12.0,2.0
+India,2022,BBB-,Stable,12.0,2.0
+India,2023,BBB-,Stable,12.0,2.0
+India,2024,BBB-,Positive,12.0,2.0
+India,2025,BBB,Stable,13.0,2.0
+Indonesia,2000,,,,
+Indonesia,2001,,,,
+Indonesia,2002,,,,
+Indonesia,2003,,,,
+Indonesia,2004,,,,
+Indonesia,2005,,,,
+Indonesia,2006,,,,
+Indonesia,2007,,,,
+Indonesia,2008,,,,
+Indonesia,2009,,,,
+Indonesia,2010,,,,
+Indonesia,2011,BB+,Positive,11.0,1.0
+Indonesia,2012,BB+,Positive,11.0,1.0
+Indonesia,2013,BB+,Stable,11.0,1.0
+Indonesia,2014,BB+,Stable,11.0,1.0
+Indonesia,2015,BB+,Positive,11.0,1.0
+Indonesia,2016,BB+,Positive,11.0,1.0
+Indonesia,2017,BBB-,Stable,12.0,2.0
+Indonesia,2018,BBB-,Stable,12.0,2.0
+Indonesia,2019,BBB,Stable,13.0,2.0
+Indonesia,2020,BBB,Negative,13.0,2.0
+Indonesia,2021,BBB,Negative,13.0,2.0
+Indonesia,2022,BBB,Stable,13.0,2.0
+Indonesia,2023,BBB,Stable,13.0,2.0
+Indonesia,2024,BBB,Stable,13.0,2.0
+Indonesia,2025,BBB,Stable,13.0,2.0
+Israel,2000,,,,
+Israel,2001,,,,
+Israel,2002,,,,
+Israel,2003,,,,
+Israel,2004,,,,
+Israel,2005,,,,
+Israel,2006,,,,
+Israel,2007,,,,
+Israel,2008,,,,
+Israel,2009,,,,
+Israel,2010,,,,
+Israel,2011,A+,Stable,17.0,2.0
+Israel,2012,A+,Stable,17.0,2.0
+Israel,2013,A+,Stable,17.0,2.0
+Israel,2014,A+,Stable,17.0,2.0
+Israel,2015,A+,Stable,17.0,2.0
+Israel,2016,A+,Stable,17.0,2.0
+Israel,2017,A+,Positive,17.0,2.0
+Israel,2018,AA-,Stable,18.0,2.0
+Israel,2019,AA-,Stable,18.0,2.0
+Israel,2020,AA-,Stable,18.0,2.0
+Israel,2021,AA-,Stable,18.0,2.0
+Israel,2022,AA-,Stable,18.0,2.0
+Israel,2023,AA-,Negative,18.0,2.0
+Israel,2024,A,Negative,16.0,2.0
+Israel,2025,A,Stable,16.0,2.0
+Italy,2000,,,,
+Italy,2001,,,,
+Italy,2002,,,,
+Italy,2003,,,,
+Italy,2004,,,,
+Italy,2005,,,,
+Italy,2006,,,,
+Italy,2007,,,,
+Italy,2008,,,,
+Italy,2009,,,,
+Italy,2010,,,,
+Italy,2011,A,Negative,16.0,2.0
+Italy,2012,BBB+,Negative,14.0,2.0
+Italy,2013,BBB,Negative,13.0,2.0
+Italy,2014,BBB-,Stable,12.0,2.0
+Italy,2015,BBB-,Stable,12.0,2.0
+Italy,2016,BBB-,Stable,12.0,2.0
+Italy,2017,BBB,Stable,13.0,2.0
+Italy,2018,BBB,Negative,13.0,2.0
+Italy,2019,BBB,Negative,13.0,2.0
+Italy,2020,BBB,Stable,13.0,2.0
+Italy,2021,BBB,Positive,13.0,2.0
+Italy,2022,BBB,Stable,13.0,2.0
+Italy,2023,BBB,Stable,13.0,2.0
+Italy,2024,BBB,Stable,13.0,2.0
+Italy,2025,BBB+,Stable,14.0,2.0
+Ivory Coast,2000,,,,
+Ivory Coast,2001,,,,
+Ivory Coast,2002,,,,
+Ivory Coast,2003,,,,
+Ivory Coast,2004,,,,
+Ivory Coast,2005,,,,
+Ivory Coast,2006,,,,
+Ivory Coast,2007,,,,
+Ivory Coast,2008,,,,
+Ivory Coast,2009,,,,
+Ivory Coast,2010,,,,
+Ivory Coast,2011,,,,
+Ivory Coast,2012,,,,
+Ivory Coast,2013,,,,
+Ivory Coast,2014,,,,
+Ivory Coast,2015,,,,
+Ivory Coast,2016,,,,
+Ivory Coast,2017,,,,
+Ivory Coast,2018,,,,
+Ivory Coast,2019,,,,
+Ivory Coast,2020,,,,
+Ivory Coast,2021,BB-,Stable,9.0,1.0
+Ivory Coast,2022,BB-,Stable,9.0,1.0
+Ivory Coast,2023,BB-,Stable,9.0,1.0
+Ivory Coast,2024,BB-,Positive,9.0,1.0
+Ivory Coast,2025,BB-,Positive,9.0,1.0
+Japan,2000,,,,
+Japan,2001,,,,
+Japan,2002,,,,
+Japan,2003,,,,
+Japan,2004,,,,
+Japan,2005,,,,
+Japan,2006,,,,
+Japan,2007,,,,
+Japan,2008,,,,
+Japan,2009,,,,
+Japan,2010,,,,
+Japan,2011,AA-,Negative,18.0,2.0
+Japan,2012,AA-,Negative,18.0,2.0
+Japan,2013,AA-,Negative,18.0,2.0
+Japan,2014,AA-,Negative,18.0,2.0
+Japan,2015,A+,Stable,17.0,2.0
+Japan,2016,A+,Stable,17.0,2.0
+Japan,2017,A+,Stable,17.0,2.0
+Japan,2018,A+,Positive,17.0,2.0
+Japan,2019,A+,Positive,17.0,2.0
+Japan,2020,A+,Stable,17.0,2.0
+Japan,2021,A+,Stable,17.0,2.0
+Japan,2022,A+,Stable,17.0,2.0
+Japan,2023,A+,Stable,17.0,2.0
+Japan,2024,A+,Stable,17.0,2.0
+Japan,2025,A+,Stable,17.0,2.0
+Jordan,2000,,,,
+Jordan,2001,,,,
+Jordan,2002,,,,
+Jordan,2003,BB,,10.0,1.0
+Jordan,2004,BB,,10.0,1.0
+Jordan,2005,BB,,10.0,1.0
+Jordan,2006,BB,,10.0,1.0
+Jordan,2007,BB,,10.0,1.0
+Jordan,2008,BB,,10.0,1.0
+Jordan,2009,BB,,10.0,1.0
+Jordan,2010,BB,,10.0,1.0
+Jordan,2011,BB,Negative,10.0,1.0
+Jordan,2012,BB,Negative,10.0,1.0
+Jordan,2013,BB-,Negative,9.0,1.0
+Jordan,2014,BB-,Stable,9.0,1.0
+Jordan,2015,BB-,Stable,9.0,1.0
+Jordan,2016,BB-,Negative,9.0,1.0
+Jordan,2017,B+,Stable,8.0,1.0
+Jordan,2018,B+,Stable,8.0,1.0
+Jordan,2019,B+,Stable,8.0,1.0
+Jordan,2020,B+,Stable,8.0,1.0
+Jordan,2021,B+,Stable,8.0,1.0
+Jordan,2022,B+,Stable,8.0,1.0
+Jordan,2023,B+,Stable,8.0,1.0
+Jordan,2024,BB-,Stable,9.0,1.0
+Jordan,2025,BB-,Stable,9.0,1.0
+Kazakhstan,2000,,,,
+Kazakhstan,2001,,,,
+Kazakhstan,2002,,,,
+Kazakhstan,2003,,,,
+Kazakhstan,2004,,,,
+Kazakhstan,2005,,,,
+Kazakhstan,2006,,,,
+Kazakhstan,2007,,,,
+Kazakhstan,2008,,,,
+Kazakhstan,2009,,,,
+Kazakhstan,2010,BBB,Stable,13.0,2.0
+Kazakhstan,2011,BBB+,Stable,14.0,2.0
+Kazakhstan,2012,BBB+,Stable,14.0,2.0
+Kazakhstan,2013,BBB+,Stable,14.0,2.0
+Kazakhstan,2014,BBB+,Negative,14.0,2.0
+Kazakhstan,2015,BBB,Negative,13.0,2.0
+Kazakhstan,2016,BBB-,Negative,12.0,2.0
+Kazakhstan,2017,BBB-,Stable,12.0,2.0
+Kazakhstan,2018,BBB-,Stable,12.0,2.0
+Kazakhstan,2019,BBB-,Stable,12.0,2.0
+Kazakhstan,2020,BBB-,Stable,12.0,2.0
+Kazakhstan,2021,BBB-,Stable,12.0,2.0
+Kazakhstan,2022,BBB-,Negative,12.0,2.0
+Kazakhstan,2023,BBB-,Stable,12.0,2.0
+Kazakhstan,2024,BBB-,Stable,12.0,2.0
+Kazakhstan,2025,BBB-,Positive,12.0,2.0
+Kenya,2000,,,,
+Kenya,2001,,,,
+Kenya,2002,,,,
+Kenya,2003,,,,
+Kenya,2004,,,,
+Kenya,2005,,,,
+Kenya,2006,,,,
+Kenya,2007,,,,
+Kenya,2008,,,,
+Kenya,2009,,,,
+Kenya,2010,B+,Stable,8.0,1.0
+Kenya,2011,B+,Stable,8.0,1.0
+Kenya,2012,B+,Stable,8.0,1.0
+Kenya,2013,B+,Stable,8.0,1.0
+Kenya,2014,B+,Stable,8.0,1.0
+Kenya,2015,B+,Negative,8.0,1.0
+Kenya,2016,B+,Stable,8.0,1.0
+Kenya,2017,B+,Stable,8.0,1.0
+Kenya,2018,B+,Stable,8.0,1.0
+Kenya,2019,B+,Stable,8.0,1.0
+Kenya,2020,B+,Negative,8.0,1.0
+Kenya,2021,B,Stable,7.0,1.0
+Kenya,2022,B,Stable,7.0,1.0
+Kenya,2023,B,Negative,7.0,1.0
+Kenya,2024,B-,Stable,6.0,1.0
+Kenya,2025,B,Stable,7.0,1.0
+Lebanon,2000,,,,
+Lebanon,2001,,,,
+Lebanon,2002,,,,
+Lebanon,2003,,,,
+Lebanon,2004,,,,
+Lebanon,2005,,,,
+Lebanon,2006,,,,
+Lebanon,2007,,,,
+Lebanon,2008,,,,
+Lebanon,2009,B,,7.0,1.0
+Lebanon,2010,B,,7.0,1.0
+Lebanon,2011,B,Stable,7.0,1.0
+Lebanon,2012,B,Negative,7.0,1.0
+Lebanon,2013,B-,Negative,6.0,1.0
+Lebanon,2014,B-,Stable,6.0,1.0
+Lebanon,2015,B-,Negative,6.0,1.0
+Lebanon,2016,B-,Stable,6.0,1.0
+Lebanon,2017,B-,Stable,6.0,1.0
+Lebanon,2018,B-,Stable,6.0,1.0
+Lebanon,2019,CCC,Negative,4.0,1.0
+Lebanon,2020,SD,,0.0,0.0
+Lebanon,2021,SD,,0.0,0.0
+Lebanon,2022,SD,,0.0,0.0
+Lebanon,2023,SD,,0.0,0.0
+Lebanon,2024,SD,,0.0,0.0
+Lebanon,2025,SD,,0.0,0.0
+Malaysia,2000,,,,
+Malaysia,2001,,,,
+Malaysia,2002,,,,
+Malaysia,2003,A-,,15.0,2.0
+Malaysia,2004,A-,,15.0,2.0
+Malaysia,2005,A-,,15.0,2.0
+Malaysia,2006,A-,,15.0,2.0
+Malaysia,2007,A-,,15.0,2.0
+Malaysia,2008,A-,Stable,15.0,2.0
+Malaysia,2009,A-,Stable,15.0,2.0
+Malaysia,2010,A-,Stable,15.0,2.0
+Malaysia,2011,A-,Stable,15.0,2.0
+Malaysia,2012,A-,Stable,15.0,2.0
+Malaysia,2013,A-,Stable,15.0,2.0
+Malaysia,2014,A-,Stable,15.0,2.0
+Malaysia,2015,A-,Stable,15.0,2.0
+Malaysia,2016,A-,Stable,15.0,2.0
+Malaysia,2017,A-,Stable,15.0,2.0
+Malaysia,2018,A-,Stable,15.0,2.0
+Malaysia,2019,A-,Stable,15.0,2.0
+Malaysia,2020,A-,Negative,15.0,2.0
+Malaysia,2021,A-,Negative,15.0,2.0
+Malaysia,2022,A-,Stable,15.0,2.0
+Malaysia,2023,A-,Stable,15.0,2.0
+Malaysia,2024,A-,Stable,15.0,2.0
+Malaysia,2025,A-,Stable,15.0,2.0
+Mauritius,2000,,,,
+Mauritius,2001,,,,
+Mauritius,2002,,,,
+Mauritius,2003,,,,
+Mauritius,2004,,,,
+Mauritius,2005,,,,
+Mauritius,2006,,,,
+Mauritius,2007,,,,
+Mauritius,2008,,,,
+Mauritius,2009,,,,
+Mauritius,2010,,,,
+Mauritius,2011,,,,
+Mauritius,2012,,,,
+Mauritius,2013,,,,
+Mauritius,2014,,,,
+Mauritius,2015,,,,
+Mauritius,2016,,,,
+Mauritius,2017,,,,
+Mauritius,2018,,,,
+Mauritius,2019,,,,
+Mauritius,2020,,,,
+Mauritius,2021,,,,
+Mauritius,2022,,,,
+Mauritius,2023,BBB-,Stable,12.0,2.0
+Mauritius,2024,BBB-,Stable,12.0,2.0
+Mauritius,2025,BBB-,Stable,12.0,2.0
+Mexico,2000,,,,
+Mexico,2001,,,,
+Mexico,2002,,,,
+Mexico,2003,,,,
+Mexico,2004,,,,
+Mexico,2005,,,,
+Mexico,2006,,,,
+Mexico,2007,,,,
+Mexico,2008,,,,
+Mexico,2009,BBB,Stable,13.0,2.0
+Mexico,2010,BBB,Stable,13.0,2.0
+Mexico,2011,BBB,Stable,13.0,2.0
+Mexico,2012,BBB,Stable,13.0,2.0
+Mexico,2013,BBB+,Stable,14.0,2.0
+Mexico,2014,BBB+,Stable,14.0,2.0
+Mexico,2015,BBB+,Stable,14.0,2.0
+Mexico,2016,BBB+,Negative,14.0,2.0
+Mexico,2017,BBB+,Stable,14.0,2.0
+Mexico,2018,BBB+,Stable,14.0,2.0
+Mexico,2019,BBB+,Negative,14.0,2.0
+Mexico,2020,BBB,Negative,13.0,2.0
+Mexico,2021,BBB,Negative,13.0,2.0
+Mexico,2022,BBB,Stable,13.0,2.0
+Mexico,2023,BBB,Stable,13.0,2.0
+Mexico,2024,BBB,Stable,13.0,2.0
+Mexico,2025,BBB,Stable,13.0,2.0
+Mongolia,2000,,,,
+Mongolia,2001,,,,
+Mongolia,2002,,,,
+Mongolia,2003,,,,
+Mongolia,2004,,,,
+Mongolia,2005,,,,
+Mongolia,2006,,,,
+Mongolia,2007,BB-,,9.0,1.0
+Mongolia,2008,BB-,,9.0,1.0
+Mongolia,2009,BB-,Stable,9.0,1.0
+Mongolia,2010,BB-,Stable,9.0,1.0
+Mongolia,2011,BB-,Positive,9.0,1.0
+Mongolia,2012,BB-,Stable,9.0,1.0
+Mongolia,2013,BB-,Negative,9.0,1.0
+Mongolia,2014,B+,Stable,8.0,1.0
+Mongolia,2015,B,Stable,7.0,1.0
+Mongolia,2016,B-,Stable,6.0,1.0
+Mongolia,2017,B-,Stable,6.0,1.0
+Mongolia,2018,B,Stable,7.0,1.0
+Mongolia,2019,B,Stable,7.0,1.0
+Mongolia,2020,B,Stable,7.0,1.0
+Mongolia,2021,B,Stable,7.0,1.0
+Mongolia,2022,B,Stable,7.0,1.0
+Mongolia,2023,B,Stable,7.0,1.0
+Mongolia,2024,B+,Positive,8.0,1.0
+Mongolia,2025,BB-,Stable,9.0,1.0
+Morocco,2000,,,,
+Morocco,2001,,,,
+Morocco,2002,,,,
+Morocco,2003,,,,
+Morocco,2004,,,,
+Morocco,2005,,,,
+Morocco,2006,,,,
+Morocco,2007,,,,
+Morocco,2008,,,,
+Morocco,2009,,,,
+Morocco,2010,BBB-,Stable,12.0,2.0
+Morocco,2011,BBB-,Stable,12.0,2.0
+Morocco,2012,BBB-,Negative,12.0,2.0
+Morocco,2013,BBB-,Negative,12.0,2.0
+Morocco,2014,BBB-,Stable,12.0,2.0
+Morocco,2015,BBB-,Stable,12.0,2.0
+Morocco,2016,BBB-,Stable,12.0,2.0
+Morocco,2017,BBB-,Stable,12.0,2.0
+Morocco,2018,BBB-,Negative,12.0,2.0
+Morocco,2019,BBB-,Stable,12.0,2.0
+Morocco,2020,BBB-,Negative,12.0,2.0
+Morocco,2021,BB+,Stable,11.0,1.0
+Morocco,2022,BB+,Stable,11.0,1.0
+Morocco,2023,BB+,Stable,11.0,1.0
+Morocco,2024,BB+,Positive,11.0,1.0
+Morocco,2025,BB+,Positive,11.0,1.0
+Mozambique,2000,,,,
+Mozambique,2001,,,,
+Mozambique,2002,,,,
+Mozambique,2003,,,,
+Mozambique,2004,,,,
+Mozambique,2005,,,,
+Mozambique,2006,,,,
+Mozambique,2007,B+,,8.0,1.0
+Mozambique,2008,B+,,8.0,1.0
+Mozambique,2009,B+,,8.0,1.0
+Mozambique,2010,B+,,8.0,1.0
+Mozambique,2011,B+,,8.0,1.0
+Mozambique,2012,B+,,8.0,1.0
+Mozambique,2013,B+,Negative,8.0,1.0
+Mozambique,2014,B,Stable,7.0,1.0
+Mozambique,2015,B-,Negative,6.0,1.0
+Mozambique,2016,CC,Negative,2.0,1.0
+Mozambique,2017,SD,,0.0,0.0
+Mozambique,2018,SD,,0.0,0.0
+Mozambique,2019,CCC+,Stable,5.0,1.0
+Mozambique,2020,CCC+,Stable,5.0,1.0
+Mozambique,2021,CCC+,Stable,5.0,1.0
+Mozambique,2022,CCC+,Stable,5.0,1.0
+Mozambique,2023,CCC+,Stable,5.0,1.0
+Mozambique,2024,CCC+,Stable,5.0,1.0
+Mozambique,2025,CCC+,Stable,5.0,1.0
+New Zealand,2000,,,,
+New Zealand,2001,,,,
+New Zealand,2002,,,,
+New Zealand,2003,,,,
+New Zealand,2004,,,,
+New Zealand,2005,,,,
+New Zealand,2006,,,,
+New Zealand,2007,,,,
+New Zealand,2008,,,,
+New Zealand,2009,,,,
+New Zealand,2010,,,,
+New Zealand,2011,AA,Stable,19.0,2.0
+New Zealand,2012,AA,Stable,19.0,2.0
+New Zealand,2013,AA,Stable,19.0,2.0
+New Zealand,2014,AA,Stable,19.0,2.0
+New Zealand,2015,AA,Stable,19.0,2.0
+New Zealand,2016,AA,Stable,19.0,2.0
+New Zealand,2017,AA,Stable,19.0,2.0
+New Zealand,2018,AA,Stable,19.0,2.0
+New Zealand,2019,AA,Positive,19.0,2.0
+New Zealand,2020,AA,Positive,19.0,2.0
+New Zealand,2021,AA+,Stable,20.0,2.0
+New Zealand,2022,AA+,Stable,20.0,2.0
+New Zealand,2023,AA+,Stable,20.0,2.0
+New Zealand,2024,AA+,Stable,20.0,2.0
+New Zealand,2025,AA+,Stable,20.0,2.0
+Nigeria,2000,,,,
+Nigeria,2001,,,,
+Nigeria,2002,,,,
+Nigeria,2003,,,,
+Nigeria,2004,,,,
+Nigeria,2005,,,,
+Nigeria,2006,,,,
+Nigeria,2007,,,,
+Nigeria,2008,,,,
+Nigeria,2009,B+,Stable,8.0,1.0
+Nigeria,2010,B+,Stable,8.0,1.0
+Nigeria,2011,B+,Positive,8.0,1.0
+Nigeria,2012,BB-,Stable,9.0,1.0
+Nigeria,2013,BB-,Stable,9.0,1.0
+Nigeria,2014,BB-,Negative,9.0,1.0
+Nigeria,2015,B+,Stable,8.0,1.0
+Nigeria,2016,B,Stable,7.0,1.0
+Nigeria,2017,B,Stable,7.0,1.0
+Nigeria,2018,B,Stable,7.0,1.0
+Nigeria,2019,B,Stable,7.0,1.0
+Nigeria,2020,B-,Stable,6.0,1.0
+Nigeria,2021,B-,Stable,6.0,1.0
+Nigeria,2022,B-,Stable,6.0,1.0
+Nigeria,2023,B-,Stable,6.0,1.0
+Nigeria,2024,B-,Stable,6.0,1.0
+Nigeria,2025,B-,Positive,6.0,1.0
+Pakistan,2000,,,,
+Pakistan,2001,,,,
+Pakistan,2002,,,,
+Pakistan,2003,,,,
+Pakistan,2004,,,,
+Pakistan,2005,,,,
+Pakistan,2006,,,,
+Pakistan,2007,,,,
+Pakistan,2008,,,,
+Pakistan,2009,B-,Stable,6.0,1.0
+Pakistan,2010,B-,Stable,6.0,1.0
+Pakistan,2011,B-,Stable,6.0,1.0
+Pakistan,2012,B-,Stable,6.0,1.0
+Pakistan,2013,B-,Stable,6.0,1.0
+Pakistan,2014,B-,Stable,6.0,1.0
+Pakistan,2015,B-,Positive,6.0,1.0
+Pakistan,2016,B,Stable,7.0,1.0
+Pakistan,2017,B,Stable,7.0,1.0
+Pakistan,2018,B,Stable,7.0,1.0
+Pakistan,2019,B-,Stable,6.0,1.0
+Pakistan,2020,B-,Stable,6.0,1.0
+Pakistan,2021,B-,Stable,6.0,1.0
+Pakistan,2022,CCC+,Stable,5.0,1.0
+Pakistan,2023,CCC+,Stable,5.0,1.0
+Pakistan,2024,CCC+,Stable,5.0,1.0
+Pakistan,2025,B-,Stable,6.0,1.0
+Panama,2000,,,,
+Panama,2001,,,,
+Panama,2002,,,,
+Panama,2003,,,,
+Panama,2004,,,,
+Panama,2005,,,,
+Panama,2006,,,,
+Panama,2007,,,,
+Panama,2008,,,,
+Panama,2009,,,,
+Panama,2010,BBB-,,12.0,2.0
+Panama,2011,BBB-,Positive,12.0,2.0
+Panama,2012,BBB,Stable,13.0,2.0
+Panama,2013,BBB,Stable,13.0,2.0
+Panama,2014,BBB,Stable,13.0,2.0
+Panama,2015,BBB,Stable,13.0,2.0
+Panama,2016,BBB,Stable,13.0,2.0
+Panama,2017,BBB,Stable,13.0,2.0
+Panama,2018,BBB,Positive,13.0,2.0
+Panama,2019,BBB+,Stable,14.0,2.0
+Panama,2020,BBB,Stable,13.0,2.0
+Panama,2021,BBB,Stable,13.0,2.0
+Panama,2022,BBB,Stable,13.0,2.0
+Panama,2023,BBB,Negative,13.0,2.0
+Panama,2024,BBB-,Stable,12.0,2.0
+Panama,2025,BBB-,Stable,12.0,2.0
+Paraguay,2000,,,,
+Paraguay,2001,,,,
+Paraguay,2002,,,,
+Paraguay,2003,,,,
+Paraguay,2004,,,,
+Paraguay,2005,,,,
+Paraguay,2006,,,,
+Paraguay,2007,,,,
+Paraguay,2008,,,,
+Paraguay,2009,,,,
+Paraguay,2010,,,,
+Paraguay,2011,BB-,Stable,9.0,1.0
+Paraguay,2012,BB-,Stable,9.0,1.0
+Paraguay,2013,BB-,Stable,9.0,1.0
+Paraguay,2014,BB,Stable,10.0,1.0
+Paraguay,2015,BB,Positive,10.0,1.0
+Paraguay,2016,BB,Stable,10.0,1.0
+Paraguay,2017,BB,Stable,10.0,1.0
+Paraguay,2018,BB,Stable,10.0,1.0
+Paraguay,2019,BB,Stable,10.0,1.0
+Paraguay,2020,BB,Stable,10.0,1.0
+Paraguay,2021,BB,Stable,10.0,1.0
+Paraguay,2022,BB,Stable,10.0,1.0
+Paraguay,2023,BB,Stable,10.0,1.0
+Paraguay,2024,BB+,Stable,11.0,1.0
+Paraguay,2025,BBB-,Stable,12.0,2.0
+Peru,2000,,,,
+Peru,2001,,,,
+Peru,2002,,,,
+Peru,2003,,,,
+Peru,2004,,,,
+Peru,2005,,,,
+Peru,2006,,,,
+Peru,2007,,,,
+Peru,2008,,,,
+Peru,2009,,,,
+Peru,2010,,,,
+Peru,2011,BBB,Stable,13.0,2.0
+Peru,2012,BBB,Positive,13.0,2.0
+Peru,2013,BBB+,Stable,14.0,2.0
+Peru,2014,BBB+,Stable,14.0,2.0
+Peru,2015,BBB+,Stable,14.0,2.0
+Peru,2016,BBB+,Stable,14.0,2.0
+Peru,2017,BBB+,Stable,14.0,2.0
+Peru,2018,BBB+,Stable,14.0,2.0
+Peru,2019,BBB+,Stable,14.0,2.0
+Peru,2020,BBB+,Stable,14.0,2.0
+Peru,2021,BBB+,Negative,14.0,2.0
+Peru,2022,BBB,Negative,13.0,2.0
+Peru,2023,BBB,Negative,13.0,2.0
+Peru,2024,BBB-,Stable,12.0,2.0
+Peru,2025,BBB-,Stable,12.0,2.0
+Philippines,2000,,,,
+Philippines,2001,,,,
+Philippines,2002,,,,
+Philippines,2003,,,,
+Philippines,2004,,,,
+Philippines,2005,,,,
+Philippines,2006,,,,
+Philippines,2007,,,,
+Philippines,2008,,,,
+Philippines,2009,,,,
+Philippines,2010,BB,Stable,10.0,1.0
+Philippines,2011,BB,Positive,10.0,1.0
+Philippines,2012,BB+,Positive,11.0,1.0
+Philippines,2013,BBB-,Stable,12.0,2.0
+Philippines,2014,BBB,Stable,13.0,2.0
+Philippines,2015,BBB,Stable,13.0,2.0
+Philippines,2016,BBB,Stable,13.0,2.0
+Philippines,2017,BBB,Stable,13.0,2.0
+Philippines,2018,BBB,Positive,13.0,2.0
+Philippines,2019,BBB+,Stable,14.0,2.0
+Philippines,2020,BBB+,Stable,14.0,2.0
+Philippines,2021,BBB+,Stable,14.0,2.0
+Philippines,2022,BBB+,Stable,14.0,2.0
+Philippines,2023,BBB+,Stable,14.0,2.0
+Philippines,2024,BBB+,Positive,14.0,2.0
+Philippines,2025,BBB+,Positive,14.0,2.0
+Poland,2000,,,,
+Poland,2001,,,,
+Poland,2002,,,,
+Poland,2003,,,,
+Poland,2004,,,,
+Poland,2005,,,,
+Poland,2006,,,,
+Poland,2007,A-,,15.0,2.0
+Poland,2008,A-,Stable,15.0,2.0
+Poland,2009,A-,Stable,15.0,2.0
+Poland,2010,A-,Stable,15.0,2.0
+Poland,2011,A-,Stable,15.0,2.0
+Poland,2012,A-,Stable,15.0,2.0
+Poland,2013,A-,Stable,15.0,2.0
+Poland,2014,A-,Stable,15.0,2.0
+Poland,2015,A-,Positive,15.0,2.0
+Poland,2016,BBB+,Stable,14.0,2.0
+Poland,2017,BBB+,Stable,14.0,2.0
+Poland,2018,A-,Stable,15.0,2.0
+Poland,2019,A-,Stable,15.0,2.0
+Poland,2020,A-,Stable,15.0,2.0
+Poland,2021,A-,Stable,15.0,2.0
+Poland,2022,A-,Stable,15.0,2.0
+Poland,2023,A-,Stable,15.0,2.0
+Poland,2024,A-,Stable,15.0,2.0
+Poland,2025,A-,Stable,15.0,2.0
+Romania,2000,,,,
+Romania,2001,,,,
+Romania,2002,,,,
+Romania,2003,,,,
+Romania,2004,,,,
+Romania,2005,,,,
+Romania,2006,,,,
+Romania,2007,,,,
+Romania,2008,BB+,,11.0,1.0
+Romania,2009,BB+,,11.0,1.0
+Romania,2010,BB+,Stable,11.0,1.0
+Romania,2011,BB+,Stable,11.0,1.0
+Romania,2012,BB+,Stable,11.0,1.0
+Romania,2013,BB+,Positive,11.0,1.0
+Romania,2014,BBB-,Stable,12.0,2.0
+Romania,2015,BBB-,Stable,12.0,2.0
+Romania,2016,BBB-,Stable,12.0,2.0
+Romania,2017,BBB-,Stable,12.0,2.0
+Romania,2018,BBB-,Stable,12.0,2.0
+Romania,2019,BBB-,Negative,12.0,2.0
+Romania,2020,BBB-,Negative,12.0,2.0
+Romania,2021,BBB-,Stable,12.0,2.0
+Romania,2022,BBB-,Stable,12.0,2.0
+Romania,2023,BBB-,Stable,12.0,2.0
+Romania,2024,BBB-,Stable,12.0,2.0
+Romania,2025,BBB-,Negative,12.0,2.0
+Rwanda,2000,,,,
+Rwanda,2001,,,,
+Rwanda,2002,,,,
+Rwanda,2003,,,,
+Rwanda,2004,,,,
+Rwanda,2005,,,,
+Rwanda,2006,,,,
+Rwanda,2007,,,,
+Rwanda,2008,,,,
+Rwanda,2009,,,,
+Rwanda,2010,,,,
+Rwanda,2011,B,,7.0,1.0
+Rwanda,2012,B,Stable,7.0,1.0
+Rwanda,2013,B,Stable,7.0,1.0
+Rwanda,2014,B,Positive,7.0,1.0
+Rwanda,2015,B+,Stable,8.0,1.0
+Rwanda,2016,B,Stable,7.0,1.0
+Rwanda,2017,B,Stable,7.0,1.0
+Rwanda,2018,B,Positive,7.0,1.0
+Rwanda,2019,B+,Stable,8.0,1.0
+Rwanda,2020,B+,Negative,8.0,1.0
+Rwanda,2021,B+,Negative,8.0,1.0
+Rwanda,2022,B+,Negative,8.0,1.0
+Rwanda,2023,B+,Stable,8.0,1.0
+Rwanda,2024,B+,Stable,8.0,1.0
+Rwanda,2025,B+,Stable,8.0,1.0
+Saudi Arabia,2000,,,,
+Saudi Arabia,2001,,,,
+Saudi Arabia,2002,,,,
+Saudi Arabia,2003,,,,
+Saudi Arabia,2004,,,,
+Saudi Arabia,2005,,,,
+Saudi Arabia,2006,,,,
+Saudi Arabia,2007,AA-,Stable,18.0,2.0
+Saudi Arabia,2008,AA-,Stable,18.0,2.0
+Saudi Arabia,2009,AA-,Stable,18.0,2.0
+Saudi Arabia,2010,AA-,Stable,18.0,2.0
+Saudi Arabia,2011,AA-,Stable,18.0,2.0
+Saudi Arabia,2012,AA-,Stable,18.0,2.0
+Saudi Arabia,2013,AA-,Positive,18.0,2.0
+Saudi Arabia,2014,AA-,Stable,18.0,2.0
+Saudi Arabia,2015,A+,Negative,17.0,2.0
+Saudi Arabia,2016,A-,Stable,15.0,2.0
+Saudi Arabia,2017,A-,Stable,15.0,2.0
+Saudi Arabia,2018,A-,Stable,15.0,2.0
+Saudi Arabia,2019,A-,Stable,15.0,2.0
+Saudi Arabia,2020,A-,Stable,15.0,2.0
+Saudi Arabia,2021,A-,Stable,15.0,2.0
+Saudi Arabia,2022,A-,Positive,15.0,2.0
+Saudi Arabia,2023,A,Stable,16.0,2.0
+Saudi Arabia,2024,A,Positive,16.0,2.0
+Saudi Arabia,2025,A+,Stable,17.0,2.0
+Senegal,2000,B+,,8.0,1.0
+Senegal,2001,B+,,8.0,1.0
+Senegal,2002,B+,,8.0,1.0
+Senegal,2003,B+,,8.0,1.0
+Senegal,2004,B+,,8.0,1.0
+Senegal,2005,B+,,8.0,1.0
+Senegal,2006,B+,,8.0,1.0
+Senegal,2007,B+,,8.0,1.0
+Senegal,2008,B+,,8.0,1.0
+Senegal,2009,B+,,8.0,1.0
+Senegal,2010,B+,Negative,8.0,1.0
+Senegal,2011,B+,Negative,8.0,1.0
+Senegal,2012,B+,Negative,8.0,1.0
+Senegal,2013,B+,Stable,8.0,1.0
+Senegal,2014,B+,Stable,8.0,1.0
+Senegal,2015,B+,Stable,8.0,1.0
+Senegal,2016,B+,Stable,8.0,1.0
+Senegal,2017,B+,Stable,8.0,1.0
+Senegal,2018,B+,Positive,8.0,1.0
+Senegal,2019,B+,Stable,8.0,1.0
+Senegal,2020,B+,Stable,8.0,1.0
+Senegal,2021,B+,Stable,8.0,1.0
+Senegal,2022,B+,Stable,8.0,1.0
+Senegal,2023,B+,Stable,8.0,1.0
+Senegal,2024,B+,Stable,8.0,1.0
+Senegal,2025,CCC+,,5.0,1.0
+Serbia,2000,,,,
+Serbia,2001,,,,
+Serbia,2002,,,,
+Serbia,2003,,,,
+Serbia,2004,,,,
+Serbia,2005,,,,
+Serbia,2006,,,,
+Serbia,2007,,,,
+Serbia,2008,,,,
+Serbia,2009,,,,
+Serbia,2010,,,,
+Serbia,2011,BB,Stable,10.0,1.0
+Serbia,2012,BB-,Negative,9.0,1.0
+Serbia,2013,BB-,Negative,9.0,1.0
+Serbia,2014,BB-,Negative,9.0,1.0
+Serbia,2015,BB-,Negative,9.0,1.0
+Serbia,2016,BB-,Positive,9.0,1.0
+Serbia,2017,BB,Stable,10.0,1.0
+Serbia,2018,BB,Positive,10.0,1.0
+Serbia,2019,BB+,Positive,11.0,1.0
+Serbia,2020,BB+,Stable,11.0,1.0
+Serbia,2021,BB+,Positive,11.0,1.0
+Serbia,2022,BB+,Stable,11.0,1.0
+Serbia,2023,BB+,Stable,11.0,1.0
+Serbia,2024,BBB-,Stable,12.0,2.0
+Serbia,2025,BBB-,Stable,12.0,2.0
+South Africa,2000,,,,
+South Africa,2001,,,,
+South Africa,2002,,,,
+South Africa,2003,,,,
+South Africa,2004,,,,
+South Africa,2005,BBB+,,14.0,2.0
+South Africa,2006,BBB+,,14.0,2.0
+South Africa,2007,BBB+,,14.0,2.0
+South Africa,2008,BBB+,,14.0,2.0
+South Africa,2009,BBB+,,14.0,2.0
+South Africa,2010,BBB+,,14.0,2.0
+South Africa,2011,BBB+,Stable,14.0,2.0
+South Africa,2012,BBB,Negative,13.0,2.0
+South Africa,2013,BBB,Negative,13.0,2.0
+South Africa,2014,BBB-,Stable,12.0,2.0
+South Africa,2015,BBB-,Negative,12.0,2.0
+South Africa,2016,BBB-,Negative,12.0,2.0
+South Africa,2017,BB,Stable,10.0,1.0
+South Africa,2018,BB,Stable,10.0,1.0
+South Africa,2019,BB,Negative,10.0,1.0
+South Africa,2020,BB-,Stable,9.0,1.0
+South Africa,2021,BB-,Stable,9.0,1.0
+South Africa,2022,BB-,Stable,9.0,1.0
+South Africa,2023,BB-,Stable,9.0,1.0
+South Africa,2024,BB-,Positive,9.0,1.0
+South Africa,2025,BB,Positive,10.0,1.0
+South Korea,2000,,,,
+South Korea,2001,,,,
+South Korea,2002,,,,
+South Korea,2003,,,,
+South Korea,2004,,,,
+South Korea,2005,A,Stable,16.0,2.0
+South Korea,2006,A,Stable,16.0,2.0
+South Korea,2007,A,Stable,16.0,2.0
+South Korea,2008,A,Stable,16.0,2.0
+South Korea,2009,A,Stable,16.0,2.0
+South Korea,2010,A,Stable,16.0,2.0
+South Korea,2011,A,Stable,16.0,2.0
+South Korea,2012,A+,Stable,17.0,2.0
+South Korea,2013,A+,Stable,17.0,2.0
+South Korea,2014,A+,Positive,17.0,2.0
+South Korea,2015,AA-,Stable,18.0,2.0
+South Korea,2016,AA,Stable,19.0,2.0
+South Korea,2017,AA,Stable,19.0,2.0
+South Korea,2018,AA,Stable,19.0,2.0
+South Korea,2019,AA,Stable,19.0,2.0
+South Korea,2020,AA,Stable,19.0,2.0
+South Korea,2021,AA,Stable,19.0,2.0
+South Korea,2022,AA,Stable,19.0,2.0
+South Korea,2023,AA,Stable,19.0,2.0
+South Korea,2024,AA,Stable,19.0,2.0
+South Korea,2025,AA,Stable,19.0,2.0
+Sri Lanka,2000,,,,
+Sri Lanka,2001,,,,
+Sri Lanka,2002,,,,
+Sri Lanka,2003,,,,
+Sri Lanka,2004,,,,
+Sri Lanka,2005,,,,
+Sri Lanka,2006,,,,
+Sri Lanka,2007,A,,16.0,2.0
+Sri Lanka,2008,A,,16.0,2.0
+Sri Lanka,2009,A,,16.0,2.0
+Sri Lanka,2010,B+,,8.0,1.0
+Sri Lanka,2011,B+,Negative,8.0,1.0
+Sri Lanka,2012,B+,Stable,8.0,1.0
+Sri Lanka,2013,B+,Stable,8.0,1.0
+Sri Lanka,2014,B+,Stable,8.0,1.0
+Sri Lanka,2015,B+,Stable,8.0,1.0
+Sri Lanka,2016,B+,Negative,8.0,1.0
+Sri Lanka,2017,B+,Stable,8.0,1.0
+Sri Lanka,2018,B,Stable,7.0,1.0
+Sri Lanka,2019,B,Stable,7.0,1.0
+Sri Lanka,2020,CCC+,Stable,5.0,1.0
+Sri Lanka,2021,CCC+,Stable,5.0,1.0
+Sri Lanka,2022,SD,,0.0,0.0
+Sri Lanka,2023,SD,,0.0,0.0
+Sri Lanka,2024,SD,,0.0,0.0
+Sri Lanka,2025,CCC+,Stable,5.0,1.0
+Thailand,2000,,,,
+Thailand,2001,,,,
+Thailand,2002,,,,
+Thailand,2003,,,,
+Thailand,2004,BBB+,,14.0,2.0
+Thailand,2005,BBB+,,14.0,2.0
+Thailand,2006,BBB+,,14.0,2.0
+Thailand,2007,BBB+,,14.0,2.0
+Thailand,2008,BBB+,,14.0,2.0
+Thailand,2009,BBB+,,14.0,2.0
+Thailand,2010,BBB+,Stable,14.0,2.0
+Thailand,2011,BBB+,Stable,14.0,2.0
+Thailand,2012,BBB+,Stable,14.0,2.0
+Thailand,2013,BBB+,Stable,14.0,2.0
+Thailand,2014,BBB+,Stable,14.0,2.0
+Thailand,2015,BBB+,Stable,14.0,2.0
+Thailand,2016,BBB+,Stable,14.0,2.0
+Thailand,2017,BBB+,Stable,14.0,2.0
+Thailand,2018,BBB+,Stable,14.0,2.0
+Thailand,2019,BBB+,Positive,14.0,2.0
+Thailand,2020,BBB+,Stable,14.0,2.0
+Thailand,2021,BBB+,Stable,14.0,2.0
+Thailand,2022,BBB+,Stable,14.0,2.0
+Thailand,2023,BBB+,Stable,14.0,2.0
+Thailand,2024,BBB+,Stable,14.0,2.0
+Thailand,2025,BBB+,Stable,14.0,2.0
+Tunisia,2000,,,,
+Tunisia,2001,,,,
+Tunisia,2002,,,,
+Tunisia,2003,,,,
+Tunisia,2004,,,,
+Tunisia,2005,,,,
+Tunisia,2006,,,,
+Tunisia,2007,,,,
+Tunisia,2008,,,,
+Tunisia,2009,,,,
+Tunisia,2010,,,,
+Tunisia,2011,BBB-,Negative,12.0,2.0
+Tunisia,2012,BB,Stable,10.0,1.0
+Tunisia,2013,B,Negative,7.0,1.0
+Tunisia,2014,B,Negative,7.0,1.0
+Tunisia,2015,B,Negative,7.0,1.0
+Tunisia,2016,B,Negative,7.0,1.0
+Tunisia,2017,B,Negative,7.0,1.0
+Tunisia,2018,B,Negative,7.0,1.0
+Tunisia,2019,B,Negative,7.0,1.0
+Tunisia,2020,B,Negative,7.0,1.0
+Tunisia,2021,B,Negative,7.0,1.0
+Tunisia,2022,B,Negative,7.0,1.0
+Tunisia,2023,B,Negative,7.0,1.0
+Tunisia,2024,B,Negative,7.0,1.0
+Tunisia,2025,B,Negative,7.0,1.0
+Turkey,2000,,,,
+Turkey,2001,,,,
+Turkey,2002,,,,
+Turkey,2003,,,,
+Turkey,2004,,,,
+Turkey,2005,,,,
+Turkey,2006,,,,
+Turkey,2007,,,,
+Turkey,2008,,,,
+Turkey,2009,,,,
+Turkey,2010,BB,Positive,10.0,1.0
+Turkey,2011,BB,Positive,10.0,1.0
+Turkey,2012,BB,Stable,10.0,1.0
+Turkey,2013,BB+,Stable,11.0,1.0
+Turkey,2014,BB+,Negative,11.0,1.0
+Turkey,2015,BB+,Negative,11.0,1.0
+Turkey,2016,BB,Stable,10.0,1.0
+Turkey,2017,BB,Negative,10.0,1.0
+Turkey,2018,B+,Stable,8.0,1.0
+Turkey,2019,B+,Stable,8.0,1.0
+Turkey,2020,B+,Stable,8.0,1.0
+Turkey,2021,B+,Negative,8.0,1.0
+Turkey,2022,B,Stable,7.0,1.0
+Turkey,2023,B,Positive,7.0,1.0
+Turkey,2024,BB-,Stable,9.0,1.0
+Turkey,2025,BB-,Stable,9.0,1.0
+Uganda,2000,,,,
+Uganda,2001,,,,
+Uganda,2002,,,,
+Uganda,2003,,,,
+Uganda,2004,,,,
+Uganda,2005,,,,
+Uganda,2006,,,,
+Uganda,2007,,,,
+Uganda,2008,B+,Stable,8.0,1.0
+Uganda,2009,B+,Stable,8.0,1.0
+Uganda,2010,B+,Stable,8.0,1.0
+Uganda,2011,B+,Stable,8.0,1.0
+Uganda,2012,B+,Negative,8.0,1.0
+Uganda,2013,B+,Negative,8.0,1.0
+Uganda,2014,B,Stable,7.0,1.0
+Uganda,2015,B,Stable,7.0,1.0
+Uganda,2016,B,Stable,7.0,1.0
+Uganda,2017,B,Stable,7.0,1.0
+Uganda,2018,B,Stable,7.0,1.0
+Uganda,2019,B,Stable,7.0,1.0
+Uganda,2020,B,Stable,7.0,1.0
+Uganda,2021,B,Stable,7.0,1.0
+Uganda,2022,B,Negative,7.0,1.0
+Uganda,2023,B-,Stable,6.0,1.0
+Uganda,2024,B-,Stable,6.0,1.0
+Uganda,2025,B-,Positive,6.0,1.0
+Ukraine,2000,,,,
+Ukraine,2001,,,,
+Ukraine,2002,,,,
+Ukraine,2003,,,,
+Ukraine,2004,,,,
+Ukraine,2005,,,,
+Ukraine,2006,,,,
+Ukraine,2007,,,,
+Ukraine,2008,,,,
+Ukraine,2009,,,,
+Ukraine,2010,B+,Stable,8.0,1.0
+Ukraine,2011,B+,Stable,8.0,1.0
+Ukraine,2012,B,Negative,7.0,1.0
+Ukraine,2013,B-,Negative,6.0,1.0
+Ukraine,2014,CCC-,Negative,3.0,1.0
+Ukraine,2015,B-,Stable,6.0,1.0
+Ukraine,2016,B-,Stable,6.0,1.0
+Ukraine,2017,B-,Stable,6.0,1.0
+Ukraine,2018,B-,Stable,6.0,1.0
+Ukraine,2019,B,Stable,7.0,1.0
+Ukraine,2020,B,Stable,7.0,1.0
+Ukraine,2021,B,Stable,7.0,1.0
+Ukraine,2022,CCC+,Stable,5.0,1.0
+Ukraine,2023,CCC,Negative,4.0,1.0
+Ukraine,2024,SD,,0.0,0.0
+Ukraine,2025,SD,,0.0,0.0
+United Arab Emirates,2000,,,,
+United Arab Emirates,2001,,,,
+United Arab Emirates,2002,,,,
+United Arab Emirates,2003,,,,
+United Arab Emirates,2004,,,,
+United Arab Emirates,2005,,,,
+United Arab Emirates,2006,,,,
+United Arab Emirates,2007,AA,Stable,19.0,2.0
+United Arab Emirates,2008,AA,Stable,19.0,2.0
+United Arab Emirates,2009,AA,Stable,19.0,2.0
+United Arab Emirates,2010,AA,Stable,19.0,2.0
+United Arab Emirates,2011,AA,Stable,19.0,2.0
+United Arab Emirates,2012,AA,Stable,19.0,2.0
+United Arab Emirates,2013,AA,Stable,19.0,2.0
+United Arab Emirates,2014,AA,Stable,19.0,2.0
+United Arab Emirates,2015,AA,Stable,19.0,2.0
+United Arab Emirates,2016,AA,Stable,19.0,2.0
+United Arab Emirates,2017,AA,Stable,19.0,2.0
+United Arab Emirates,2018,AA,Stable,19.0,2.0
+United Arab Emirates,2019,AA,Stable,19.0,2.0
+United Arab Emirates,2020,AA,Stable,19.0,2.0
+United Arab Emirates,2021,AA,Stable,19.0,2.0
+United Arab Emirates,2022,AA,Stable,19.0,2.0
+United Arab Emirates,2023,AA,Stable,19.0,2.0
+United Arab Emirates,2024,AA,Stable,19.0,2.0
+United Arab Emirates,2025,AA,Stable,19.0,2.0
+United Kingdom,2000,AAA,,21.0,2.0
+United Kingdom,2001,AAA,,21.0,2.0
+United Kingdom,2002,AAA,,21.0,2.0
+United Kingdom,2003,AAA,,21.0,2.0
+United Kingdom,2004,AAA,,21.0,2.0
+United Kingdom,2005,AAA,,21.0,2.0
+United Kingdom,2006,AAA,,21.0,2.0
+United Kingdom,2007,AAA,,21.0,2.0
+United Kingdom,2008,AAA,,21.0,2.0
+United Kingdom,2009,AAA,,21.0,2.0
+United Kingdom,2010,AAA,Stable,21.0,2.0
+United Kingdom,2011,AAA,Stable,21.0,2.0
+United Kingdom,2012,AAA,Negative,21.0,2.0
+United Kingdom,2013,AAA,Negative,21.0,2.0
+United Kingdom,2014,AAA,Stable,21.0,2.0
+United Kingdom,2015,AAA,Negative,21.0,2.0
+United Kingdom,2016,AA,Negative,19.0,2.0
+United Kingdom,2017,AA,Negative,19.0,2.0
+United Kingdom,2018,AA,Negative,19.0,2.0
+United Kingdom,2019,AA,Stable,19.0,2.0
+United Kingdom,2020,AA,Stable,19.0,2.0
+United Kingdom,2021,AA,Stable,19.0,2.0
+United Kingdom,2022,AA,Negative,19.0,2.0
+United Kingdom,2023,AA,Stable,19.0,2.0
+United Kingdom,2024,AA,Stable,19.0,2.0
+United Kingdom,2025,AA,Stable,19.0,2.0
+United States,2000,,,,
+United States,2001,,,,
+United States,2002,,,,
+United States,2003,,,,
+United States,2004,,,,
+United States,2005,,,,
+United States,2006,,,,
+United States,2007,,,,
+United States,2008,,,,
+United States,2009,,,,
+United States,2010,,,,
+United States,2011,AA+,Negative,20.0,2.0
+United States,2012,AA+,Negative,20.0,2.0
+United States,2013,AA+,Stable,20.0,2.0
+United States,2014,AA+,Stable,20.0,2.0
+United States,2015,AA+,Stable,20.0,2.0
+United States,2016,AA+,Stable,20.0,2.0
+United States,2017,AA+,Stable,20.0,2.0
+United States,2018,AA+,Stable,20.0,2.0
+United States,2019,AA+,Stable,20.0,2.0
+United States,2020,AA+,Stable,20.0,2.0
+United States,2021,AA+,Stable,20.0,2.0
+United States,2022,AA+,Stable,20.0,2.0
+United States,2023,AA+,Stable,20.0,2.0
+United States,2024,AA+,Stable,20.0,2.0
+United States,2025,AA+,Stable,20.0,2.0
+Uruguay,2000,,,,
+Uruguay,2001,,,,
+Uruguay,2002,,,,
+Uruguay,2003,,,,
+Uruguay,2004,,,,
+Uruguay,2005,,,,
+Uruguay,2006,,,,
+Uruguay,2007,,,,
+Uruguay,2008,,,,
+Uruguay,2009,,,,
+Uruguay,2010,,,,
+Uruguay,2011,BB+,Stable,11.0,1.0
+Uruguay,2012,BBB-,Stable,12.0,2.0
+Uruguay,2013,BBB-,Stable,12.0,2.0
+Uruguay,2014,BBB-,Stable,12.0,2.0
+Uruguay,2015,BBB,Stable,13.0,2.0
+Uruguay,2016,BBB,Negative,13.0,2.0
+Uruguay,2017,BBB,Stable,13.0,2.0
+Uruguay,2018,BBB,Stable,13.0,2.0
+Uruguay,2019,BBB,Stable,13.0,2.0
+Uruguay,2020,BBB,Stable,13.0,2.0
+Uruguay,2021,BBB,Stable,13.0,2.0
+Uruguay,2022,BBB,Stable,13.0,2.0
+Uruguay,2023,BBB+,Stable,14.0,2.0
+Uruguay,2024,BBB+,Stable,14.0,2.0
+Uruguay,2025,BBB+,Stable,14.0,2.0
+Venezuela,2000,,,,
+Venezuela,2001,,,,
+Venezuela,2002,,,,
+Venezuela,2003,,,,
+Venezuela,2004,,,,
+Venezuela,2005,,,,
+Venezuela,2006,,,,
+Venezuela,2007,,,,
+Venezuela,2008,,,,
+Venezuela,2009,,,,
+Venezuela,2010,,,,
+Venezuela,2011,B+,Stable,8.0,1.0
+Venezuela,2012,B+,Stable,8.0,1.0
+Venezuela,2013,B-,,6.0,1.0
+Venezuela,2014,B-,,6.0,1.0
+Venezuela,2015,B-,,6.0,1.0
+Venezuela,2016,B-,,6.0,1.0
+Venezuela,2017,B-,,6.0,1.0
+Venezuela,2018,B-,,6.0,1.0
+Venezuela,2019,B-,,6.0,1.0
+Venezuela,2020,B-,,6.0,1.0
+Venezuela,2021,B-,,6.0,1.0
+Venezuela,2022,B-,,6.0,1.0
+Venezuela,2023,B-,,6.0,1.0
+Venezuela,2024,B-,,6.0,1.0
+Venezuela,2025,B-,,6.0,1.0
+Zambia,2000,,,,
+Zambia,2001,,,,
+Zambia,2002,,,,
+Zambia,2003,,,,
+Zambia,2004,,,,
+Zambia,2005,,,,
+Zambia,2006,,,,
+Zambia,2007,,,,
+Zambia,2008,,,,
+Zambia,2009,,,,
+Zambia,2010,,,,
+Zambia,2011,B+,Stable,8.0,1.0
+Zambia,2012,B+,Stable,8.0,1.0
+Zambia,2013,B+,Negative,8.0,1.0
+Zambia,2014,B+,Negative,8.0,1.0
+Zambia,2015,B,Stable,7.0,1.0
+Zambia,2016,B,Negative,7.0,1.0
+Zambia,2017,B,Stable,7.0,1.0
+Zambia,2018,B-,Stable,6.0,1.0
+Zambia,2019,CCC+,Stable,5.0,1.0
+Zambia,2020,SD,,0.0,0.0
+Zambia,2021,SD,,0.0,0.0
+Zambia,2022,SD,,0.0,0.0
+Zambia,2023,SD,,0.0,0.0
+Zambia,2024,SD,,0.0,0.0
+Zambia,2025,CCC+,Stable,5.0,1.0

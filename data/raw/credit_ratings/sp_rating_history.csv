@@ -1,0 +1,627 @@
+country,date,rating,outlook
+Angola,2011-07-12,BB-,Stable
+Angola,2015-02-13,B+,Stable
+Angola,2015-08-14,B+,Negative
+Angola,2016-02-12,B,Stable
+Angola,2016-08-12,B,Negative
+Angola,2017-08-11,B-,Stable
+Angola,2019-02-08,B-,Negative
+Angola,2020-03-26,CCC+,Stable
+Angola,2022-02-04,B-,Stable
+Argentina,2010-09-13,B,Stable
+Argentina,2012-04-23,B,Negative
+Argentina,2012-10-31,B-,Negative
+Argentina,2013-09-10,CCC+,Negative
+Argentina,2014-06-17,CCC-,Negative
+Argentina,2014-07-30,SD,
+Argentina,2016-05-06,B-,Stable
+Argentina,2017-04-04,B,Stable
+Argentina,2017-10-30,B+,Stable
+Argentina,2018-11-12,B,Stable
+Argentina,2019-08-16,B-,Negative
+Argentina,2019-08-30,CCC-,Negative
+Argentina,2019-12-20,SD,
+Argentina,2019-12-30,CC,Negative
+Argentina,2020-01-07,CCC-,Negative
+Argentina,2020-04-07,SD,
+Argentina,2020-09-07,CCC+,Stable
+Argentina,2022-11-16,CCC+,Negative
+Argentina,2023-03-29,CCC-,Negative
+Argentina,2024-03-15,CCC,Stable
+Argentina,2025-12-17,CCC+,Stable
+Argentina,2026-06-10,B-,Stable
+Australia,2003-02-16,AAA,Stable
+Australia,2016-07-06,AAA,Negative
+Australia,2018-09-20,AAA,Stable
+Australia,2020-04-07,AAA,Negative
+Australia,2021-06-06,AAA,Stable
+Azerbaijan,2008-12-16,BB+,
+Azerbaijan,2009-12-14,BB+,Positive
+Azerbaijan,2011-12-23,BBB-,Stable
+Azerbaijan,2015-01-30,BBB-,Negative
+Azerbaijan,2016-01-29,BB+,Stable
+Azerbaijan,2016-07-29,BB+,Negative
+Azerbaijan,2018-01-26,BB+,Stable
+Azerbaijan,2020-10-23,BB+,Negative
+Azerbaijan,2021-01-22,BB+,Stable
+Bahrain,2011-03-18,BBB,
+Bahrain,2011-07-20,BBB,Negative
+Bahrain,2013-01-28,BBB,Stable
+Bahrain,2014-12-12,BBB,Negative
+Bahrain,2015-02-09,BBB-,Negative
+Bahrain,2016-02-17,BB,Stable
+Bahrain,2016-12-09,BB-,Stable
+Bahrain,2017-06-02,BB-,Negative
+Bahrain,2017-12-01,B+,Stable
+Bahrain,2019-11-29,B+,Positive
+Bahrain,2020-03-26,B+,Stable
+Bahrain,2021-05-28,B+,Negative
+Bahrain,2021-11-26,B+,Stable
+Bahrain,2022-11-25,B+,Positive
+Bahrain,2023-11-24,B+,Stable
+Bahrain,2025-11-21,B,Stable
+Bangladesh,2010-04-05,BB-,Stable
+Bangladesh,2023-07-24,BB-,Negative
+Bangladesh,2024-07-30,B+,Stable
+Benin,2006-09-07,B,
+Benin,2010-12-01,B,Stable
+Benin,2012-12-10,B,Negative
+Bolivia,2011-05-19,B+,
+Bolivia,2011-08-19,B+,Stable
+Bolivia,2011-08-22,B+,Positive
+Bolivia,2012-05-18,BB-,Stable
+Bolivia,2013-12-13,B-,Negative
+Bolivia,2014-05-15,BB,Stable
+Bolivia,2014-09-16,CCC+,Negative
+Bolivia,2015-02-09,CCC,Negative
+Bolivia,2017-05-25,CCC,Negative
+Bolivia,2017-07-11,CCC-,Negative
+Bolivia,2017-11-03,CC,
+Bolivia,2017-11-13,SD,
+Bolivia,2018-05-23,BB-,Stable
+Bolivia,2019-12-16,BB-,Negative
+Bolivia,2020-04-17,B+,Stable
+Bolivia,2021-03-22,B+,Negative
+Bolivia,2022-12-06,B,Stable
+Bolivia,2023-03-15,B,
+Bolivia,2023-04-19,B-,Negative
+Bolivia,2023-11-22,CCC+,Negative
+Bolivia,2025-06-25,CCC-,Negative
+Bolivia,2026-03-23,CCC+,Stable
+Botswana,2010-02-15,A-,Stable
+Botswana,2016-04-29,A-,Negative
+Botswana,2017-10-27,A-,Stable
+Botswana,2020-03-27,BBB+,Stable
+Botswana,2020-09-18,BBB+,Negative
+Botswana,2021-09-17,BBB+,Stable
+Botswana,2025-03-14,BBB+,Negative
+Botswana,2025-09-12,BBB,Negative
+Botswana,2026-03-13,BBB-,Negative
+Brazil,2008-04-30,BBB-,
+Brazil,2011-05-23,BBB-,Positive
+Brazil,2011-11-17,BBB,Stable
+Brazil,2013-06-06,BBB,Negative
+Brazil,2014-03-24,BBB-,Stable
+Brazil,2015-07-28,BBB-,Negative
+Brazil,2015-09-09,BB+,Negative
+Brazil,2016-02-17,BB,Negative
+Brazil,2017-08-15,BB,Negative
+Brazil,2018-01-11,BB-,Stable
+Brazil,2019-12-11,BB-,Positive
+Brazil,2020-04-06,BB-,Stable
+Brazil,2023-06-14,BB-,Positive
+Brazil,2023-12-19,BB,Stable
+Bulgaria,2008-10-30,BBB,
+Bulgaria,2009-12-01,BBB,Stable
+Bulgaria,2013-12-13,BBB,Negative
+Bulgaria,2014-06-13,BBB-,Stable
+Bulgaria,2014-12-12,BB+,Stable
+Bulgaria,2017-06-02,BB+,Positive
+Bulgaria,2017-12-01,BBB-,Stable
+Bulgaria,2018-06-01,BBB-,Positive
+Bulgaria,2019-11-29,BBB,Positive
+Bulgaria,2020-05-29,BBB,Stable
+Bulgaria,2023-11-24,BBB,Positive
+Bulgaria,2025-07-10,BBB+,Stable
+Bulgaria,2026-05-15,BBB+,Positive
+Burkina Faso,2004-03-05,B,
+Burkina Faso,2008-08-06,B,Stable
+Burkina Faso,2014-12-05,B-,Stable
+Burkina Faso,2016-05-27,B-,Positive
+Burkina Faso,2017-05-26,B,Stable
+Burkina Faso,2022-01-26,CCC+,
+Cameroon,2007-02-26,B,Stable
+Cameroon,2019-04-12,B,Negative
+Cameroon,2020-04-10,B-,Stable
+Cameroon,2023-08-08,SD,
+Cameroon,2023-08-10,CCC+,Stable
+Cameroon,2024-03-22,B-,Stable
+Canada,2002-07-29,AAA,Stable
+Cape Verde,2008-12-04,B+,
+Cape Verde,2011-05-24,B+,Stable
+Cape Verde,2013-06-21,B+,Negative
+Cape Verde,2013-12-13,B,Stable
+Cape Verde,2016-04-08,B,Negative
+Cape Verde,2016-10-07,B,Stable
+Cape Verde,2017-05-05,B,Stable
+Cape Verde,2020-08-28,B,Negative
+Cape Verde,2021-02-19,B-,Stable
+Cape Verde,2024-08-16,B,Stable
+Cape Verde,2025-08-08,B,Positive
+Cape Verde,2026-02-06,B+,Positive
+Chile,2007-12-18,A+,
+Chile,2010-12-16,A+,Positive
+Chile,2012-12-26,AA-,Stable
+Chile,2017-01-26,AA-,Negative
+Chile,2017-07-13,A+,Stable
+Chile,2020-04-27,A+,Negative
+Chile,2021-03-24,A,Stable
+Chile,2023-10-19,A,Negative
+Chile,2024-10-15,A,Stable
+China,2010-12-16,AA-,Stable
+China,2016-03-31,AA-,Negative
+China,2017-09-21,A+,Stable
+Colombia,2011-03-16,BBB-,Stable
+Colombia,2012-08-15,BBB-,Positive
+Colombia,2013-04-24,BBB,Stable
+Colombia,2016-02-16,BBB,Negative
+Colombia,2017-12-11,BBB-,Stable
+Colombia,2020-03-26,BBB-,Negative
+Colombia,2021-05-19,BB+,Stable
+Colombia,2024-01-18,BB+,Negative
+Colombia,2025-06-26,BB,Negative
+Colombia,2026-04-08,BB-,Stable
+Costa Rica,1997-07-16,BB,
+Costa Rica,2008-10-10,BB,Stable
+Costa Rica,2016-02-25,BB-,Negative
+Costa Rica,2018-12-21,B+,Negative
+Costa Rica,2020-06-09,B,Negative
+Costa Rica,2022-03-17,B,Stable
+Costa Rica,2023-02-23,B+,Stable
+Costa Rica,2023-10-27,BB-,Stable
+Costa Rica,2025-10-22,BB,Stable
+Czech Republic,2011-08-24,AA-,Stable
+Democratic Republic of Congo,2013-12-13,B-,Stable
+Democratic Republic of Congo,2016-02-05,B-,Negative
+Democratic Republic of Congo,2017-08-04,CCC+,Stable
+Democratic Republic of Congo,2019-08-02,CCC+,Positive
+Democratic Republic of Congo,2020-07-31,CCC+,Stable
+Democratic Republic of Congo,2022-01-28,B-,Stable
+Democratic Republic of Congo,2026-01-23,B-,Positive
+Ecuador,2010-08-02,B-,
+Ecuador,2011-08-04,B-,Positive
+Ecuador,2012-06-07,B,Stable
+Ecuador,2013-08-06,B,Positive
+Ecuador,2014-08-20,B+,Stable
+Ecuador,2015-08-12,B,Stable
+Ecuador,2017-06-29,B-,Stable
+Ecuador,2020-03-25,CCC-,
+Ecuador,2020-04-13,SD,
+Ecuador,2020-09-01,B-,Stable
+Ecuador,2024-01-11,B-,Negative
+Ecuador,2025-08-20,B-,Stable
+Egypt,2011-02-01,BB,
+Egypt,2011-03-10,BB,Negative
+Egypt,2011-11-24,B+,Negative
+Egypt,2012-02-10,B,Negative
+Egypt,2012-06-25,B,Negative
+Egypt,2012-08-23,B,Negative
+Egypt,2012-12-24,B-,Negative
+Egypt,2013-05-09,CCC+,Stable
+Egypt,2013-11-15,B-,Stable
+Egypt,2015-05-15,B-,Positive
+Egypt,2015-11-13,B-,Stable
+Egypt,2016-05-13,B-,Negative
+Egypt,2016-11-11,B-,Stable
+Egypt,2017-11-10,B-,Positive
+Egypt,2018-05-11,B,Stable
+Egypt,2023-04-21,B,Negative
+Egypt,2023-10-20,B-,Stable
+Egypt,2024-03-18,B-,Positive
+Egypt,2025-04-11,B-,Stable
+Egypt,2025-10-10,B,Stable
+France,1975-06-25,AAA,
+France,1989-06-26,AAA,Stable
+France,2011-12-05,AAA,Negative
+France,2012-01-13,AA+,Negative
+France,2013-11-08,AA,Stable
+France,2014-10-10,AA,Negative
+France,2016-10-21,AA,Stable
+France,2022-12-02,AA,Negative
+France,2024-05-31,AA-,Stable
+France,2025-10-17,A+,Stable
+Georgia,2010-04-12,B+,
+Georgia,2011-03-29,B+,Positive
+Georgia,2011-11-22,BB-,Stable
+Georgia,2019-04-12,BB-,Positive
+Georgia,2019-10-11,BB,Stable
+Georgia,2021-02-26,BB,Negative
+Georgia,2022-02-25,BB,Stable
+Germany,1983-08-17,AAA,
+Germany,1989-06-26,AAA,Stable
+Germany,2011-12-05,AAA,Negative
+Germany,2012-01-13,AAA,Stable
+Ghana,2010-08-27,B,Stable
+Ghana,2013-12-06,B,Negative
+Ghana,2014-10-24,B-,Stable
+Ghana,2017-10-06,B-,Positive
+Ghana,2018-09-14,B,Stable
+Ghana,2020-04-30,B,Negative
+Ghana,2020-09-11,B-,Stable
+Ghana,2022-08-05,CCC+,Negative
+Ghana,2022-12-06,CC,Negative
+Ghana,2022-12-20,SD,
+Ghana,2025-11-07,B-,Stable
+Hungary,2009-03-30,BBB-,
+Hungary,2010-07-23,BBB-,Negative
+Hungary,2011-11-11,BBB-,Negative
+Hungary,2011-12-21,BB+,Negative
+Hungary,2012-11-23,BB,Stable
+Hungary,2013-03-21,BB,Negative
+Hungary,2014-03-28,BB,Stable
+Hungary,2015-03-20,BB+,Stable
+Hungary,2016-09-16,BBB-,Stable
+Hungary,2017-08-25,BBB-,Positive
+Hungary,2019-02-15,BBB,Stable
+Hungary,2020-02-14,BBB,Positive
+Hungary,2020-04-28,BBB,Stable
+Hungary,2022-08-12,BBB,Negative
+Hungary,2023-01-27,BBB-,Stable
+Hungary,2025-04-11,BBB-,Negative
+India,2007-01-30,BBB-,
+India,2010-03-18,BBB-,Stable
+India,2012-04-25,BBB-,Negative
+India,2014-09-26,BBB-,Stable
+India,2024-05-29,BBB-,Positive
+India,2025-08-14,BBB,Stable
+Indonesia,2011-04-08,BB+,Positive
+Indonesia,2013-05-02,BB+,Stable
+Indonesia,2015-05-21,BB+,Positive
+Indonesia,2017-05-19,BBB-,Stable
+Indonesia,2019-05-31,BBB,Stable
+Indonesia,2020-04-17,BBB,Negative
+Indonesia,2022-04-27,BBB,Stable
+Israel,2011-09-09,A+,Stable
+Israel,2017-08-04,A+,Positive
+Israel,2018-08-03,AA-,Stable
+Israel,2023-10-24,AA-,Negative
+Israel,2024-04-18,A+,Negative
+Israel,2024-10-01,A,Negative
+Israel,2025-11-07,A,Stable
+Italy,2011-09-19,A,Negative
+Italy,2011-12-05,A,Negative
+Italy,2012-01-13,BBB+,Negative
+Italy,2013-07-09,BBB,Negative
+Italy,2014-12-05,BBB-,Stable
+Italy,2017-10-27,BBB,Stable
+Italy,2018-10-26,BBB,Negative
+Italy,2020-10-23,BBB,Stable
+Italy,2021-10-22,BBB,Positive
+Italy,2022-07-26,BBB,Stable
+Italy,2025-04-11,BBB+,Stable
+Italy,2026-01-30,BBB+,Positive
+Ivory Coast,2021-07-06,BB-,Stable
+Ivory Coast,2024-05-17,BB-,Positive
+Japan,2011-01-27,AA-,
+Japan,2011-04-26,AA-,Negative
+Japan,2015-09-16,A+,Stable
+Japan,2018-04-13,A+,Positive
+Japan,2020-06-09,A+,Stable
+Jordan,2003-07-03,BB,
+Jordan,2011-02-08,BB,Negative
+Jordan,2013-05-20,BB-,Negative
+Jordan,2014-10-31,BB-,Stable
+Jordan,2016-04-22,BB-,Negative
+Jordan,2017-10-20,B+,Stable
+Jordan,2024-09-06,BB-,Stable
+Kazakhstan,2010-12-23,BBB,Stable
+Kazakhstan,2011-11-07,BBB+,Stable
+Kazakhstan,2014-06-13,BBB+,Negative
+Kazakhstan,2015-02-09,BBB,Negative
+Kazakhstan,2016-02-17,BBB-,Negative
+Kazakhstan,2017-09-08,BBB-,Stable
+Kazakhstan,2022-09-02,BBB-,Negative
+Kazakhstan,2023-03-03,BBB-,Stable
+Kazakhstan,2025-08-22,BBB-,Positive
+Kenya,2010-11-19,B+,Stable
+Kenya,2015-10-16,B+,Negative
+Kenya,2016-10-14,B+,Stable
+Kenya,2020-07-14,B+,Negative
+Kenya,2021-03-05,B,Stable
+Kenya,2023-02-24,B,Negative
+Kenya,2024-08-23,B-,Stable
+Kenya,2025-08-22,B,Stable
+Lebanon,2009-12-22,B,
+Lebanon,2011-01-18,B,Stable
+Lebanon,2012-05-28,B,Negative
+Lebanon,2013-11-01,B-,Negative
+Lebanon,2014-04-11,B-,Stable
+Lebanon,2015-09-11,B-,Negative
+Lebanon,2016-09-02,B-,Stable
+Lebanon,2019-03-01,B-,Negative
+Lebanon,2019-11-15,CCC,Negative
+Lebanon,2020-02-21,CC,Negative
+Lebanon,2020-03-11,SD,
+Malaysia,2003-10-07,A-,
+Malaysia,2008-05-15,A-,Stable
+Malaysia,2020-06-26,A-,Negative
+Malaysia,2022-06-27,A-,Stable
+Mauritius,2023-07-21,BBB-,Stable
+Mexico,2009-12-14,BBB,Stable
+Mexico,2013-03-12,BBB,Positive
+Mexico,2013-12-19,BBB+,Stable
+Mexico,2016-08-23,BBB+,Negative
+Mexico,2017-07-18,BBB+,Stable
+Mexico,2019-03-01,BBB+,Negative
+Mexico,2020-03-26,BBB,Negative
+Mexico,2022-07-06,BBB,Stable
+Mexico,2026-05-12,BBB,Negative
+Mongolia,2007-12-13,BB-,
+Mongolia,2009-11-20,BB-,Stable
+Mongolia,2011-12-19,BB-,Positive
+Mongolia,2012-10-29,BB-,Stable
+Mongolia,2013-04-16,BB-,Negative
+Mongolia,2014-04-29,B+,Stable
+Mongolia,2015-04-29,B+,Negative
+Mongolia,2015-11-03,B,Stable
+Mongolia,2016-08-19,B-,Stable
+Mongolia,2018-11-09,B,Stable
+Mongolia,2024-10-04,B+,Positive
+Mongolia,2025-10-30,BB-,Stable
+Morocco,2010-03-23,BBB-,Stable
+Morocco,2012-10-11,BBB-,Negative
+Morocco,2014-05-16,BBB-,Stable
+Morocco,2018-10-05,BBB-,Negative
+Morocco,2019-10-04,BBB-,Stable
+Morocco,2020-10-02,BBB-,Negative
+Morocco,2021-04-02,BB+,Stable
+Morocco,2024-03-29,BB+,Positive
+Mozambique,2007-12-21,B+,Stable
+Mozambique,2007-12-22,B+,
+Mozambique,2013-08-16,B+,Negative
+Mozambique,2014-02-14,B,Stable
+Mozambique,2015-07-06,B-,
+Mozambique,2015-09-24,B-,Negative
+Mozambique,2016-03-15,CC,Negative
+Mozambique,2016-04-01,SD,
+Mozambique,2016-04-15,B-,Stable
+Mozambique,2016-05-27,CCC,
+Mozambique,2016-08-05,CCC,Negative
+Mozambique,2016-11-04,CC,Negative
+Mozambique,2017-01-18,SD,
+Mozambique,2019-11-22,CCC+,Stable
+New Zealand,2011-09-29,AA,Stable
+New Zealand,2019-01-30,AA,Positive
+New Zealand,2021-02-21,AA+,Stable
+Nigeria,2009-08-21,B+,Stable
+Nigeria,2011-12-29,B+,Positive
+Nigeria,2012-11-07,BB-,Stable
+Nigeria,2014-03-21,BB-,Negative
+Nigeria,2014-03-27,BB-,Negative
+Nigeria,2015-03-20,B+,Stable
+Nigeria,2016-03-18,B+,Negative
+Nigeria,2016-09-16,B,Stable
+Nigeria,2020-02-28,B,Negative
+Nigeria,2020-03-26,B-,Stable
+Nigeria,2023-02-03,B-,Negative
+Nigeria,2023-08-04,B-,Stable
+Nigeria,2025-11-14,B-,Positive
+Nigeria,2026-05-15,B,Stable
+Pakistan,2009-08-24,B-,Stable
+Pakistan,2015-05-05,B-,Positive
+Pakistan,2016-10-31,B,Stable
+Pakistan,2019-02-04,B-,Stable
+Pakistan,2022-07-28,B-,Negative
+Pakistan,2022-12-22,CCC+,Stable
+Pakistan,2025-07-24,B-,Stable
+Panama,2010-05-25,BBB-,
+Panama,2011-07-21,BBB-,Positive
+Panama,2012-07-02,BBB,Stable
+Panama,2018-07-02,BBB,Positive
+Panama,2019-04-29,BBB+,Stable
+Panama,2020-04-24,BBB+,Negative
+Panama,2020-11-24,BBB,Stable
+Panama,2023-08-11,BBB,Stable
+Panama,2023-11-07,BBB,Negative
+Panama,2024-11-26,BBB-,Stable
+Paraguay,2011-08-30,BB-,Stable
+Paraguay,2012-08-29,BB-,Stable
+Paraguay,2014-06-11,BB,Stable
+Paraguay,2015-06-16,BB,Positive
+Paraguay,2016-06-15,BB,Stable
+Paraguay,2024-02-01,BB+,Stable
+Paraguay,2025-01-08,BB+,Positive
+Paraguay,2025-12-17,BBB-,Stable
+Peru,2011-08-30,BBB,Stable
+Peru,2012-08-28,BBB,Positive
+Peru,2013-08-19,BBB+,Stable
+Peru,2021-10-14,BBB+,Negative
+Peru,2022-03-18,BBB,Stable
+Peru,2022-12-12,BBB,Negative
+Peru,2024-04-25,BBB-,Stable
+Philippines,2010-11-12,BB,Stable
+Philippines,2011-12-16,BB,Positive
+Philippines,2012-07-04,BB+,Stable
+Philippines,2012-12-20,BB+,Positive
+Philippines,2013-05-02,BBB-,Stable
+Philippines,2014-05-08,BBB,Stable
+Philippines,2018-04-26,BBB,Positive
+Philippines,2019-04-30,BBB+,Stable
+Philippines,2024-11-25,BBB+,Positive
+Philippines,2026-04-08,BBB+,Stable
+Poland,2007-03-29,A-,
+Poland,2008-10-27,A-,Stable
+Poland,2015-02-06,A-,Positive
+Poland,2016-01-15,BBB+,Negative
+Poland,2016-12-02,BBB+,Stable
+Poland,2018-04-13,BBB+,Positive
+Poland,2018-10-12,A-,Stable
+Romania,2008-10-27,BB+,
+Romania,2010-03-09,BB+,Stable
+Romania,2013-11-22,BB+,Positive
+Romania,2014-05-16,BBB-,Stable
+Romania,2019-12-10,BBB-,Negative
+Romania,2021-04-16,BBB-,Stable
+Romania,2025-01-24,BBB-,Negative
+Rwanda,2011-12-29,B,
+Rwanda,2012-10-29,B,Stable
+Rwanda,2014-09-12,B,Positive
+Rwanda,2015-03-13,B+,Stable
+Rwanda,2016-03-11,B+,Negative
+Rwanda,2016-09-09,B,Stable
+Rwanda,2018-08-10,B,Positive
+Rwanda,2019-08-09,B+,Stable
+Rwanda,2020-08-07,B+,Negative
+Rwanda,2023-01-27,B+,Stable
+Saudi Arabia,2007-07-16,AA-,Stable
+Saudi Arabia,2013-05-29,AA-,Positive
+Saudi Arabia,2014-12-05,AA-,Stable
+Saudi Arabia,2015-02-09,AA-,Negative
+Saudi Arabia,2015-10-30,A+,Negative
+Saudi Arabia,2016-02-17,A-,Stable
+Saudi Arabia,2022-03-25,A-,Positive
+Saudi Arabia,2023-03-17,A,Stable
+Saudi Arabia,2024-09-13,A,Positive
+Saudi Arabia,2025-03-14,A+,Stable
+Senegal,2000-12-18,B+,
+Senegal,2010-05-27,B+,Negative
+Senegal,2013-07-05,B+,Stable
+Senegal,2018-06-15,B+,Positive
+Senegal,2019-12-06,B+,Stable
+Senegal,2025-07-14,B-,Negative
+Senegal,2025-11-14,CCC+,
+Senegal,2026-03-27,CCC+,Negative
+Serbia,2011-03-16,BB,Stable
+Serbia,2012-08-07,BB-,Negative
+Serbia,2015-01-16,BB-,Negative
+Serbia,2016-01-15,BB-,Stable
+Serbia,2016-12-16,BB-,Positive
+Serbia,2017-12-15,BB,Stable
+Serbia,2018-12-14,BB,Positive
+Serbia,2019-12-13,BB+,Positive
+Serbia,2020-05-01,BB+,Stable
+Serbia,2021-12-10,BB+,Positive
+Serbia,2022-06-10,BB+,Stable
+Serbia,2024-04-05,BB+,Positive
+Serbia,2024-10-04,BBB-,Stable
+South Africa,2005-08-01,BBB+,
+South Africa,2011-01-25,BBB+,Stable
+South Africa,2012-03-28,BBB+,Negative
+South Africa,2012-10-12,BBB,Negative
+South Africa,2014-06-13,BBB-,Stable
+South Africa,2015-12-04,BBB-,Negative
+South Africa,2017-04-03,BB+,Negative
+South Africa,2017-11-24,BB,Stable
+South Africa,2019-11-22,BB,Negative
+South Africa,2020-04-29,BB-,Stable
+South Africa,2023-03-08,BB-,Stable
+South Africa,2024-11-15,BB-,Positive
+South Africa,2025-11-14,BB,Positive
+South Korea,2005-07-27,A,Stable
+South Korea,2012-09-13,A+,Stable
+South Korea,2012-09-14,A+,Stable
+South Korea,2014-09-19,A+,Positive
+South Korea,2015-09-15,AA-,Stable
+South Korea,2016-08-07,AA,Stable
+Sri Lanka,2007-01-23,A,
+Sri Lanka,2010-09-14,B+,
+Sri Lanka,2011-07-19,B+,Positive
+Sri Lanka,2011-07-20,B+,Negative
+Sri Lanka,2012-02-29,B+,Stable
+Sri Lanka,2016-03-10,B+,Negative
+Sri Lanka,2017-11-20,B+,Stable
+Sri Lanka,2018-12-04,B,Stable
+Sri Lanka,2020-01-14,B,Negative
+Sri Lanka,2020-05-20,B-,Stable
+Sri Lanka,2020-12-11,CCC+,Stable
+Sri Lanka,2022-01-12,CCC,Negative
+Sri Lanka,2022-04-13,CC,Negative
+Sri Lanka,2022-04-25,SD,
+Sri Lanka,2025-09-19,CCC+,Stable
+Thailand,2004-08-26,BBB+,
+Thailand,2010-12-09,BBB+,Stable
+Thailand,2019-12-11,BBB+,Positive
+Thailand,2020-04-13,BBB+,Stable
+Tunisia,2011-03-16,BBB-,
+Tunisia,2011-07-28,BBB-,Negative
+Tunisia,2012-05-23,BB,Stable
+Tunisia,2013-02-19,BB-,Negative
+Tunisia,2013-08-16,B,Negative
+Turkey,2010-02-19,BB,Positive
+Turkey,2012-05-01,BB,Stable
+Turkey,2013-03-27,BB+,Stable
+Turkey,2014-02-07,BB+,Negative
+Turkey,2016-05-06,BB+,Stable
+Turkey,2016-07-20,BB,Negative
+Turkey,2016-11-04,BB,Stable
+Turkey,2017-01-27,BB,Negative
+Turkey,2018-05-01,BB-,Stable
+Turkey,2018-08-17,B+,Stable
+Turkey,2021-12-10,B+,Negative
+Turkey,2022-09-30,B,Stable
+Turkey,2023-03-31,B,Negative
+Turkey,2023-09-29,B,Stable
+Turkey,2023-11-30,B,Positive
+Turkey,2024-05-03,B+,Positive
+Turkey,2024-11-01,BB-,Stable
+Uganda,2008-12-09,B+,Stable
+Uganda,2012-12-11,B+,Negative
+Uganda,2014-01-17,B,Stable
+Uganda,2022-12-09,B,Negative
+Uganda,2023-10-06,B-,Stable
+Uganda,2025-11-07,B-,Positive
+Ukraine,2010-07-29,B+,Stable
+Ukraine,2012-03-15,B+,Negative
+Ukraine,2012-12-07,B,Negative
+Ukraine,2013-11-01,B-,Negative
+Ukraine,2014-01-29,CCC+,
+Ukraine,2014-02-21,CCC,Negative
+Ukraine,2014-07-11,CCC,Stable
+Ukraine,2014-12-19,CCC-,Negative
+Ukraine,2015-04-10,CC,Negative
+Ukraine,2015-09-25,SD,
+Ukraine,2015-10-19,B-,Stable
+Ukraine,2019-09-27,B,Stable
+Ukraine,2022-02-25,B-,
+Ukraine,2022-05-27,CCC+,Negative
+Ukraine,2022-07-29,CC,Negative
+Ukraine,2022-08-12,SD,
+Ukraine,2022-08-19,CCC+,Stable
+Ukraine,2023-04-06,CCC,Negative
+Ukraine,2024-03-08,CC,Negative
+Ukraine,2024-08-02,SD,
+Ukraine,2026-01-22,CCC+,Stable
+United Arab Emirates,2007-07-02,AA,Stable
+United Arab Emirates,2025-06-17,AA,Stable
+United Kingdom,1978-04-28,AAA,
+United Kingdom,2010-10-26,AAA,Stable
+United Kingdom,2012-12-13,AAA,Negative
+United Kingdom,2014-06-13,AAA,Stable
+United Kingdom,2015-06-12,AAA,Negative
+United Kingdom,2016-06-27,AA,Negative
+United Kingdom,2019-12-17,AA,Stable
+United Kingdom,2022-09-30,AA,Negative
+United Kingdom,2023-04-21,AA,Stable
+United States,2011-08-05,AA+,Negative
+United States,2013-06-10,AA+,Stable
+Uruguay,2011-07-25,BB+,Stable
+Uruguay,2012-04-03,BBB-,Stable
+Uruguay,2015-06-05,BBB,Stable
+Uruguay,2016-06-06,BBB,Negative
+Uruguay,2017-05-30,BBB,Stable
+Uruguay,2023-04-26,BBB+,Stable
+Venezuela,2011-08-19,B+,Stable
+Venezuela,2013-04-19,B+,Negative
+Venezuela,2013-06-17,B,Negative
+Venezuela,2013-12-13,B-,
+Zambia,2011-03-22,B+,Stable
+Zambia,2013-10-25,B+,Negative
+Zambia,2015-07-01,B,Stable
+Zambia,2016-03-18,B,Negative
+Zambia,2017-08-25,B,Stable
+Zambia,2018-08-24,B-,Stable
+Zambia,2019-02-22,B-,Negative
+Zambia,2019-08-23,CCC+,Stable
+Zambia,2020-02-21,CCC,Negative
+Zambia,2020-10-21,SD,
+Zambia,2025-11-21,CCC+,Stable
