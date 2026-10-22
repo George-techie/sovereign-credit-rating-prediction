@@ -112,7 +112,8 @@ def fit_lstm(seq_train, y_train, seq_val, y_val, seq_test, epochs=60, lr=1e-3):
     criterion = nn.CrossEntropyLoss(weight=torch.tensor([weights[c] for c in range(3)],
                                                         dtype=torch.float))
     optimizer = torch.optim.Adam(model.parameters(), lr=lr)
-    loader = DataLoader(TensorDataset(torch.tensor(seq_train), torch.tensor(y_train)),
+    labels = torch.tensor(np.asarray(y_train), dtype=torch.long)  # int32 on Windows otherwise
+    loader = DataLoader(TensorDataset(torch.tensor(seq_train), labels),
                         batch_size=32, shuffle=True,
                         generator=torch.Generator().manual_seed(SEED))
     best_acc, best_state = -1.0, None

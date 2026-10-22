@@ -1,0 +1,19 @@
+{
+  "countries": 71,
+  "rows": {
+    "train": 412,
+    "val": 138,
+    "test": 420
+  },
+  "target_years": {
+    "train": "2012-2017",
+    "val": "2018-2019",
+    "test": "2020-2025"
+  },
+  "test_class_counts": {
+    "0": 19,
+    "1": 208,
+    "2": 193
+  },
+  "test_class_changes": 12
+}
