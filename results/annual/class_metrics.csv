@@ -1,8 +1,8 @@
 Model,Accuracy,MAE,F1 (Default),F1 (Junk),F1 (Inv.Grade),Macro F1,Weighted F1,Changed rows,Accuracy on changes
 Persistence (same class),0.9714,0.0286,0.7778,0.9713,0.9896,0.9129,0.971,12,0.0
-Ordered logit [fundamentals],0.7429,0.2571,0.0833,0.7488,0.7772,0.5365,0.7318,12,0.5
-XGBoost [fundamentals],0.8381,0.1619,0.0,0.8475,0.8693,0.5723,0.8192,12,0.5
-LSTM [fundamentals],0.7595,0.25,0.0,0.7569,0.8077,0.5215,0.746,12,0.5
-Ordered logit [fundamentals+rating],0.9357,0.0643,0.7429,0.9343,0.9543,0.8772,0.9348,12,0.0833
-XGBoost [fundamentals+rating],0.931,0.069,0.4211,0.9301,0.9819,0.7777,0.9309,12,0.3333
-LSTM [fundamentals+rating],0.8452,0.1548,0.0,0.8426,0.896,0.5796,0.829,12,0.3333
+Ordered logit [fundamentals],0.7405,0.2595,0.08,0.7459,0.7772,0.5344,0.7302,12,0.5
+XGBoost [fundamentals],0.8429,0.1571,0.0,0.854,0.875,0.5763,0.825,12,0.5
+LSTM [fundamentals],0.7881,0.2238,0.0,0.7931,0.8374,0.5435,0.7776,12,0.5
+Ordered logit [fundamentals+rating],0.9405,0.0595,0.7778,0.9392,0.9567,0.8912,0.9399,12,0.0833
+XGBoost [fundamentals+rating],0.9429,0.0571,0.5405,0.9423,0.9819,0.8216,0.9423,12,0.5
+LSTM [fundamentals+rating],0.8476,0.1524,0.0,0.8439,0.9037,0.5825,0.8332,12,0.3333

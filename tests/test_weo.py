@@ -43,3 +43,15 @@ def test_missing_cells_and_other_countries_are_skipped(tmp_path):
     assert debt["value"].isna().tolist() == [True, True, False]
     assert debt["value"].iloc[2] == 1234.5
     assert set(debt["iso3"]) == {"KEN"}
+
+
+def test_imf_portal_csv_is_read_with_the_classic_columns(tmp_path):
+    path = tmp_path / "dataset_IMF.RES_WEO.csv"
+    header = '"DATASET","SERIES_CODE","COUNTRY","LATEST_ACTUAL_ANNUAL_DATA","2024","2025"'
+    row = '"IMF.RES:WEO(9.0.0)","KEN.GGXWDG_NGDP.A","Kenya","2024","67.306","71.269"'
+    path.write_text(header + "\n" + row + "\n", encoding="utf-8-sig")  # portal adds a BOM
+
+    debt = extract_indicator(read_weo(path), DEBT_CODE, 2024, 2025)
+
+    assert debt["value"].tolist() == [67.306, 71.269]
+    assert debt["is_estimate"].tolist() == [False, True]
