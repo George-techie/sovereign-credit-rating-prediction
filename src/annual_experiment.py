@@ -26,6 +26,7 @@ import torch.nn as nn
 import xgboost as xgb
 from sklearn.metrics import accuracy_score, f1_score, recall_score
 from sklearn.preprocessing import StandardScaler
+from sklearn.utils.class_weight import compute_sample_weight
 from statsmodels.miscmodels.ordinal_model import OrderedModel
 from torch.utils.data import DataLoader, TensorDataset
 
@@ -75,14 +76,54 @@ def fit_ordered_logit(X_train, y_train, X_test):
     """Proportional-odds logit: the classic model for ordered rating classes."""
     model = OrderedModel(y_train, X_train, distr="logit").fit(method="bfgs", disp=False,
                                                               maxiter=500)
-    proba = np.asarray(model.predict(X_test))
-    return proba.argmax(axis=1), proba
+    # Columns follow the classes seen in training: with no default in y_train
+    # there are two, which must map back to 1 and 2, not 0 and 1.
+    seen = np.unique(np.asarray(y_train, dtype=int))
+    proba_seen = np.asarray(model.predict(X_test))
+    proba = np.zeros((len(proba_seen), 3))
+    proba[:, seen] = proba_seen
+    return seen[proba_seen.argmax(axis=1)], proba
 
 
 def fit_xgboost_class(X_train, y_train, X_val, y_val, X_test):
-    """The project's tuned XGBoost (grid on validation, refit on train+val)."""
-    model = train_xgboost(X_train, y_train, X_val, y_val, get_class_weights(y_train))
-    return model.predict(X_test).astype(int), model
+    """The project's tuned XGBoost (grid on validation, refit on train+val).
+
+    XGBoost needs the training labels to be 0..k-1. When a class is missing
+    from training (no default before 2020 in the monthly data), the classes
+    seen are renumbered, validation rows of unseen classes are left out of
+    tuning, and predictions are mapped back to the original labels.
+    """
+    y_train, y_val = np.asarray(y_train, dtype=int), np.asarray(y_val, dtype=int)
+    seen = np.unique(y_train)
+    if len(seen) == 3:
+        model = train_xgboost(X_train, y_train, X_val, y_val, get_class_weights(y_train))
+        return model.predict(X_test).astype(int), model
+    index = {label: i for i, label in enumerate(seen)}
+    known = np.isin(y_val, seen)
+    model = _tuned_xgboost_binary(
+        X_train, np.vectorize(index.get)(y_train),
+        X_val[known], np.vectorize(index.get)(y_val[known]),
+    )
+    return seen[model.predict(X_test).astype(int)], model
+
+
+def _tuned_xgboost_binary(X_train, y_train, X_val, y_val):
+    """The same grid as train_xgboost, for two classes, refit on train+val."""
+    weights = compute_sample_weight("balanced", y_train)
+    best_acc, best_params = -1.0, None
+    for n_estimators in (200, 400):
+        for max_depth in (3, 5):
+            for learning_rate in (0.05, 0.1):
+                params = dict(n_estimators=n_estimators, max_depth=max_depth,
+                              learning_rate=learning_rate, subsample=0.8,
+                              colsample_bytree=0.8, random_state=SEED, verbosity=0)
+                model = xgb.XGBClassifier(**params).fit(X_train, y_train, sample_weight=weights)
+                acc = accuracy_score(y_val, model.predict(X_val)) if len(y_val) else 0.0
+                if acc > best_acc:
+                    best_acc, best_params = acc, params
+    X_all, y_all = np.vstack([X_train, X_val]), np.concatenate([y_train, y_val])
+    return xgb.XGBClassifier(**best_params).fit(
+        X_all, y_all, sample_weight=compute_sample_weight("balanced", y_all))
 
 
 def country_sequences(panel, rows, features, medians, scaler, seq_len=SEQ_LEN):

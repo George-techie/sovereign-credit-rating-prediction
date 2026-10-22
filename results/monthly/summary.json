@@ -1,0 +1,20 @@
+{
+  "as is": {
+    "rows": 1428,
+    "test_rows": 612,
+    "test_class_changes": 0,
+    "countries": 17
+  },
+  "no sentiment": {
+    "rows": 1428,
+    "test_rows": 612,
+    "test_class_changes": 0,
+    "countries": 17
+  },
+  "S&P labels": {
+    "rows": 1344,
+    "test_rows": 576,
+    "test_class_changes": 2,
+    "countries": 16
+  }
+}
